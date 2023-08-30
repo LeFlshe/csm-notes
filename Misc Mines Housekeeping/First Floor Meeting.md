@@ -1,0 +1,8 @@
+- 9pm-7am sunday-thursday 
+- 11on weekends
+- No booze!
+- Amnesty if you report booze 
+- No projectiles in the halls, you pay for sprinkler damage
+- FAMIS for work orders
+- 9am to 9pm, when everything is normal
+- 

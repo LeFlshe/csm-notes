@@ -1,0 +1,49 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "CHGN121",
+      "template": "Templates/Chemistry Template.md"
+    },
+    {
+      "folder": "EDNS151",
+      "template": "Templates/ENDS151 - Template.md"
+    },
+    {
+      "folder": "CSM101",
+      "template": "Templates/CSM101 Template.md"
+    },
+    {
+      "folder": "MATH111",
+      "template": "Templates/Calc 1 Template.md"
+    },
+    {
+      "folder": "EBGN201",
+      "template": "Templates/Econ Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templates/Subscript Template.md",
+    "Templates/Limit Template.md",
+    "Templates/Fraction Template.md",
+    "Templates/Square Root Template.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

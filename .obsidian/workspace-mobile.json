@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "9e341c46f72dbe18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d0d2356e8e60b77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a489704b8a6099ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Launch/Career Center.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05c188b10094971e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fall Kickoff/Student Orientation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f85bdecea279c7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EDNS151/First Floor Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f766626ac62dc94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cab7ff2733acdc97",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f173940187c7d0c3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "first",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f86c47daabb575ce",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "20a691805ffdfc77",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "959178e33dbf5e3c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "29b7d80e1a21c2d8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "EDNS151/First Floor Meeting.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a2d4f08b08373054",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "EDNS151/First Floor Meeting.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "575a669f1a72385b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "EDNS151/First Floor Meeting.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f85bdecea279c7fd",
+  "lastOpenFiles": [
+    "Fall Kickoff/Student Orientation.md",
+    "First Floor Meeting.md",
+    "Virtual Launch/Career Center.md",
+    "CSM101/CSM101 - 2023-08-17.md",
+    "Virtual Launch/Registrar.md",
+    "Fall Kickoff",
+    "Virtual Launch/Peer Discussion.md",
+    "Virtual Launch/Academic Advising.md",
+    "Virtual Launch/Virtual Launch.md",
+    "Virtual Launch/Initial Session.md",
+    "Virtual Launch/Residence Life.md",
+    "Virtual Launch/Health Insurance.md",
+    "Virtual Launch/Four Offices Presentations.md",
+    "Virtual Launch/Financial Aid.md",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 12.17.45 PM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.42.55 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.35.37 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.35.05 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.32.35 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.04.26 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.03.37 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.01.20 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 8.29.01 AM.png",
+    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 8.23.44 AM.png",
+    "Academic Advising.md",
+    "Residence Life.md",
+    "Financial Aid.md",
+    "Registrar.md",
+    "Virtual Launch.md",
+    "Bursar.md",
+    "Career Center.md",
+    "Meta",
+    "Health Insurance.md",
+    "Initial Session.md",
+    "Four Offices Presentations.md",
+    "Peer Discussion.md"
+  ]
+}
