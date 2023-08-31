@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "char": "°",
+      "name": "degree sign",
+      "useCount": 2,
+      "lastUsed": 1693501898901
+    },
+    {
+      "char": "√",
+      "name": "square root",
+      "useCount": 1,
+      "lastUsed": 1692983769239
+    },
+    {
       "char": "θ",
       "name": "greek small letter theta",
       "useCount": 1,
@@ -18999,10 +19011,6 @@
     {
       "char": "℉",
       "name": "degree fahrenheit"
-    },
-    {
-      "char": "°",
-      "name": "degree sign"
     },
     {
       "char": "≜",
@@ -50011,12 +50019,6 @@
     {
       "char": "㍑",
       "name": "square rittoru"
-    },
-    {
-      "char": "√",
-      "name": "square root",
-      "useCount": 1,
-      "lastUsed": 1692983769239
     },
     {
       "char": "㍓",
