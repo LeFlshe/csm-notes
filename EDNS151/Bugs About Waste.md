@@ -1,0 +1,16 @@
+#edns151 #design #upcycleeverything 
+- Containers
+	- There's so many more trash can containers than recycling cans
+	- Much easier to just throw stuff away and not think about it
+- No incentive for recycling
+	- I mean like, when in Rome
+- Don't know if you can recycle something
+	- If you have two things, one recyclable, one not, you might just toss both in the trash
+	- Whole foods pizza box
+		- I mean, it did touch food, but its like all recyclable?
+		- Couldn't you compost it?
+- Consumerism
+	- Yeah.
+	- Media perception of 
+	- Amazon
+		- Boxes inside plastic bags with something else

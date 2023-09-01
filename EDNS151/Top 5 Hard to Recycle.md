@@ -1,0 +1,19 @@
+#edns151 #design #upcycleeverything 
+- Plastic gift cards 
+	- Is there a way to reset it, reuse it, something of the kind?
+		- Would anyone bother to go through doing that?
+	- Recycling center has no idea what to do with them 
+		- They can filter it out, but what to do then?
+- Water filters
+	- Brita filters, stuff like that
+- Ugly food
+	- They use denim packaging, but like, there's not a use for denim packaging
+		- Art Parts in Boulder recycles it (through ecocycle) 
+		- Other then them, its beiing wasted
+- Curbside Plate Glass
+	- What even is that?
+		- Utah based glass recycling (with food on them?)
+- Shipping Envelopes
+	- The ones with bubble wrap in them
+	- If you cannot reduce something back to its base components, you can't really recycle it
+		- Those bubble wrap enveloeps 
