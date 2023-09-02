@@ -13,23 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDNS151/Top 5 Hard to Recycle.md",
+                "file": "CHGN121/CHGN121 - 2023-09-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "171dce7d0db270f9",
+            "id": "37fb2c16209cfc1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8c108fb84e095a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28bb0917292bf08c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "EDNS151/CFP Fall 2023 Upcycle Everything.pdf"
+                "file": "CHGN121/Resources/Equations Sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "e7a0cd8df6c850ed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -95,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDNS151/Top 5 Hard to Recycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDNS151/Top 5 Hard to Recycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EDNS151/Top 5 Hard to Recycle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +180,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bb5e2f1e9f121d8",
+  "active": "37fb2c16209cfc1c",
   "lastOpenFiles": [
+    "CHGN121/CHGN121 - 2023-09-01.md",
+    "CHGN121/CHGN121LAB - 2023-08-29.md",
+    "CHGN121/Ion.md",
+    "CHGN121/Resources/Atomic Shenanigans.md",
+    "CHGN121/Resources/Annotated Periodic Table.pdf",
+    "CHGN121/Resources/Equations Sheet.pdf",
+    "CHGN121/CHGN121 - 2023-08-30.md",
+    "MATH111/MATH111 - 2023-09-01.md",
+    "MATH111/MATH111 - 2023-08-30.md",
+    "README.md",
+    "Untitled.md",
+    "EDNS151/Top 5 Hard to Recycle.md",
     "EDNS151/Problem Definition.md",
     "EDNS151/Introduce Yourself.md",
     "EDNS151/Bugs About Waste.md",
@@ -167,7 +202,6 @@
     "EDNS151/EDNS151 - 2023-08-30.md",
     "EDNS151/ENDS151- Upcycle Everything Canvas.canvas",
     "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
-    "EDNS151/Top 5 Hard to Recycle.md",
     "EDNS151/EDNS151GROUP - 2023-08-31.md",
     "CSM101/CSM101 - Scavenger Hunt.md",
     "CSM101/CSM101 - 2023-08-31.md",
@@ -176,22 +210,12 @@
     "EBGN201/Landmine Clearance in Cambodia.md",
     "MATH111/Unit Circle.md",
     "MATH111/MATH111 - 2023-08-22.md",
-    "CHGN121/CHGN121 - 2023-08-30.md",
-    "CHGN121/CHGN121LAB - 2023-08-29.md",
     "Templates/CSM101 Template.md",
-    "MATH111/MATH111 - 2023-08-30.md",
-    "README.md",
     "csm-notes/README.md",
     "netlify.toml",
     "csm-notes",
-    "CHGN121/Resources/Equations Sheet.pdf",
-    "Templates/Subscript Template.md",
-    "Untitled.md",
-    "CHGN121/Measurements.md",
     "CHGN121/Resources/Strong acids and bases.pdf",
     "CHGN121/Resources",
-    "CHGN121/Untitled.md",
-    "Templates/Square Root Template.md",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.04.26 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.01.20 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 8.23.44 AM.png",
@@ -204,7 +228,6 @@
     "Attachments/standard deviation.png",
     "Attachments/unit circle.png",
     "Attachments/Chem2023-08-25work.png",
-    "EBGN201",
-    "Attachments"
+    "EBGN201"
   ]
 }
