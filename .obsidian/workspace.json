@@ -11,11 +11,9 @@
             "id": "37fb2c16209cfc1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-08.md",
-                "mode": "source",
-                "source": false
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf"
               }
             }
           },
@@ -23,11 +21,9 @@
             "id": "75266742bca8be89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-08.md",
-                "mode": "source",
-                "source": false
+                "file": "CHGN121/Resources/Equations Sheet.pdf"
               }
             }
           },
@@ -37,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-06.md",
+                "file": "CHGN121/CHGN121 - 2023-09-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "smiles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-06.md",
+                "file": "CHGN121/CHGN121 - 2023-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-06.md",
+                "file": "CHGN121/CHGN121 - 2023-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-06.md"
+                "file": "CHGN121/CHGN121 - 2023-09-13.md"
               }
             }
           }
@@ -174,52 +171,52 @@
   },
   "active": "3874d14befa88c53",
   "lastOpenFiles": [
-    "CHGN121/CHGN121 - 2023-09-08.md",
-    "MATH111/MATH111 - 2023-09-05.md",
-    "MATH111/MATH111 - 2023-09-08.md",
-    "MATH111/MATH111 - 2023-09-06.md",
     "CHGN121/Resources/Annotated Periodic Table.pdf",
+    "CHGN121/CHGN121 - 2023-09-13.md",
+    "CHGN121/States of Matter.md",
+    "CHGN121/CHGN121 - 2023-08-30.md",
+    "CHGN121/CHGN121 - 2023-09-01.md",
+    "CHGN121/Resources/Equations Sheet.pdf",
+    "MATH111/MATH111 - 2023-09-13.md",
+    "MATH111/Tangent Line.md",
+    "MATH111/MATH111 - 2023-09-12.md",
+    "MATH111/Daily (Math) Notes/Untitled.md",
+    "MATH111/Daily (Math) Notes",
+    "EDNS151/EDNS151 - 2023-09-13.md",
+    "EDNS151/Drafting for Mod 1 Report.md",
+    "MATH111/MATH111 - 2023-09-05.md",
+    "MATH111/MATH111 - 2023-09-01.md",
+    "MATH111/MATH111 - 2023-08-30.md",
+    "MATH111/MATH111 - 2023-09-08.md",
+    "CHGN121/~$p1 backup.docx",
+    "CHGN121/pmp1 backup.docx",
+    "CHGN121/~$P2 backup.dotx",
+    "CHGN121/PMP2 backup.dotx",
+    "CHGN121/~$PMP 2.dotx",
+    "CHGN121/PMP 2.dotx",
+    "CHGN121/~$PMP 3.docx",
+    "MATH111/MATH111 - 2023-09-06.md",
+    "CHGN121/CHGN121 - 2023-09-11.md",
+    "().md",
     "CHGN121/CHGN121 - 2023-09-06.md",
+    "CHGN121/CHGN121 - 2023-09-08.md",
+    "CHGN121/Resources/Atomic Shenanigans.md",
+    "MATH111/Untitled.md",
+    "MATH111/MATH111 - 2023-09-11.md",
+    "EDNS151/EDNS151 - 2023-09-11.md",
+    "EDNS151/EDNS151 - 2023-08-28.md",
+    "EDNS151/EDNS151 - 2023-08-30.md",
     "Attachments/population standard deviation.png",
     "Attachments/Screenshot 2023-09-07 at 4.38.10 PM.png",
-    "CHGN121/Resources/Equations Sheet.pdf",
-    "EDNS151/EDNS151 - 2023-09-06.md",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "EDNS151/Group Meetings/First Group Meeting/Top 5 Hard to Recycle.md",
-    "EDNS151/Problem Definition.md",
-    "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
-    "CSM101/CSM101 - 2023-09-07.md",
-    "EDNS151/Group Meetings",
-    "EDNS151/Group Meetings/Second Group Meeting",
-    "EDNS151/Group Meetings/First Group Meeting",
-    "EDNS151/Librarian Meeting.md",
-    "MATH111/Math experiment.md",
-    "MATH111/MATH111 - 2023-08-30.md",
-    "MATH111/MATH111 - 2023-09-01.md",
-    "MATH111/MATH111 - 2023-08-29.md",
-    "MATH111/MATH111 - 2023-08-28.md",
-    "MATH111/MATH111 - 2023-08-25.md",
-    "MATH111/Unit Circle.md",
-    "CHGN121/MMM Scratchpaper.md",
-    "CHGN121/CHGN121LAB - 2023-08-29.md",
     "Attachments/standard deviation.png",
-    "EBGN201/EBGN201 - 2023-09-05.md",
-    "EBGN201/Landmine Clearance in Cambodia.md",
-    "EBGN201/Interdependence Principle.md",
-    "EBGN201/Coal Mine Analysis.md",
     "Attachments/coal supply changes.png",
     "Attachments/environmental concern demand curve.png",
     "Attachments/coal subsidy demand curve.png",
     "Attachments/coal subsidy demand curve.png",
     "Attachments/longwall coal supply curve.png",
     "Attachments/pizza slice willingness.png",
-    "EBGN201/Cost-Benefit Principle.md",
-    "EBGN201/EBGN201 - 2023-08-29.md",
-    "Attachments/Critical Values for Rejection Quotient.png",
-    "Attachments/Making  Measurements Meaningful Questions.pdf",
-    "CHGN121/Resources/Strong acids and bases.pdf",
-    "netlify.toml",
-    "csm-notes"
+    "Attachments/Critical Values for Rejection Quotient.png"
   ]
 }
