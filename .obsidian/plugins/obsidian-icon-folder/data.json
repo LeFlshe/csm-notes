@@ -28,7 +28,7 @@
     "iconName": null,
     "inheritanceIcon": "RiFlaskFill"
   },
-  "CSM101": "RiHomeSmileLine",
   "MATH111": "RiDivideFill",
-  "EBGN201": "RiExchangeDollarLine"
+  "EBGN201": "RiExchangeDollarLine",
+  "CSM101": "RiHomeSmileLine"
 }

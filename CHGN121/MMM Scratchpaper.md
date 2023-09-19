@@ -1,3 +1,5 @@
+#chemistry #chgn121 [[CHGN121LAB - 2023-08-29]]
+
 #### Q11:
 Acetonitrile
 $$\frac{52.6ml}{1}*\frac{0.89g}{mL}=46.8g$$
