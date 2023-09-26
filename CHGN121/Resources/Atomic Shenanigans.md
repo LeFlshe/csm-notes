@@ -1,4 +1,4 @@
-#chemistry #notes #chgn121
+#chemistry #chgn121 #resource 
 
 
 |   |   |   |   |   |
