@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH111/MATH111 - 2023-09-26.md",
+                "file": "CHGN121/CHGN121 - 2023-09-29.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d48535e42013c8c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH111/MATH111 - 2023-09-26.md",
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH111/MATH111 - 2023-09-26.md",
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH111/MATH111 - 2023-09-26.md"
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf"
               }
             }
           },
@@ -159,41 +170,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e41f71f3a94fbe0",
+  "active": "1d48535e42013c8c",
   "lastOpenFiles": [
+    "CHGN121/CHGN121 - 2023-09-29.md",
+    "CHGN121/Resources/Annotated Periodic Table.pdf",
+    "CHGN121/Resources/Equations Sheet.pdf",
+    "Excalidraw/MATH11 2023-09-29 Sign chart.excalidraw.md",
+    "MATH111/MATH111 - 2023-09-29.md",
+    "MATH111/MATH111 - 2023-09-27.md",
+    "MATH111/Tangent Line.md",
+    "MATH111/Sign Chart.md",
+    "MATH111/MATH111 - 2023-08-22.md",
+    "CHGN121/Resources/Atomic Shenanigans.md",
+    "CSM101/CSM101 - 2023-09-28.md",
+    "Attachments/609569E1-C696-484A-8D15-1C49858C9F56_1_105_c.jpeg",
+    "CHGN121/CHGN121 - 2023-09-27.md",
+    "CHGN121/CHGN121LAB - 2023-08-29.md",
     "MATH111/MATH111 - 2023-09-25.md",
     "MATH111/MATH111 - 2023-09-26.md",
-    "CHGN121/Resources/Annotated Periodic Table.pdf",
+    "EDNS151/EDNS151 - 2023-09-27.md",
+    "MATH111/Untitled",
+    "CHGN121/CHGN121LAB Scratch - 2023-09-26.md",
+    "MATH111/Secant Line.md",
+    "MATH111/Trigonometric Identities.md",
     "CHGN121/Measurements.md",
     "CHGN121/States of Matter.md",
     "CHGN121/Significant Figures.md",
-    "CHGN121/Resources/Atomic Shenanigans.md",
     "EBGN201/EBGN201 - 2023-09-26.md",
     "EBGN201/In-Class Activity (Delivery prices).md",
     "Attachments/Econ in class shift spreadsheet.png",
     "EBGN201/Colorado Retail Delivery Fees.md",
     "Excalidraw/Econ Colorado Fee Drawing.md",
     "MATH111/MATH111 - 2023-09-19.md",
-    "CHGN121/CHGN121 - 2023-09-22.md",
-    "CHGN121/CHGN121 - 2023-09-25.md",
-    "Excalidraw/Drawing 2023-09-25 07.34.29.excalidraw.md",
-    "EDNS151/EDNS151 - 2023-09-25.md",
     "Excalidraw",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "EBGN201/Econ Tin Memo.md",
     "Attachments/Screenshot 2023-09-22 at 6.06.50 PM.png",
     "Attachments/Screenshot 2023-09-22 at 5.57.13 PM.png",
     "Attachments/Screenshot 2023-09-22 at 5.45.24 PM.png",
-    "CHGN121/Resources/Equations Sheet.pdf",
-    "MATH111/Latex Scratchpaper.md",
-    "CHGN121/CHGN121LAB - 2023-08-29.md",
-    "MATH111/MATH111 - 2023-09-08.md",
-    "MATH111/Unit Circle.md",
-    "MATH111/Trigonometric Identities.md",
-    "MATH111/Secant Line.md",
-    "MATH111/Tangent Line.md",
-    "CSM101/CSM101 - 2023-09-21.md",
-    "CSM101/CSM101 - Faculty Connection Assignment.md",
     "Attachments/IMG_0745.jpg",
     "Untitled.canvas",
     "CHGN121/~$A Lab Report.docx",
@@ -206,8 +219,6 @@
     "Attachments/Screenshot 2023-09-18 at 8.07.29 PM.png",
     "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas",
-    "MATH111/Daily (Math) Notes",
-    "CHGN121/pmp1 backup.docx",
-    "Attachments/population standard deviation.png"
+    "MATH111/Daily (Math) Notes"
   ]
 }
