@@ -47,5 +47,31 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "templater-obsidian:System Folders/Templates/Limit Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:System Folders/Templates/Subscript Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:System Folders/Templates/Fraction Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:save": []
 }

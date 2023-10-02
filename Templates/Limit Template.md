@@ -1,1 +1,0 @@
-\lim\limits_{x \to y}

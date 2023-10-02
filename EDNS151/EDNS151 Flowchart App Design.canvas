@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"3a69bdf9b02ceafa","type":"text","text":"# Advanced Option: If the user knows specific device:\n- Prompt for specific device name / identifier","x":225,"y":-20,"width":255,"height":140},
+		{"id":"30f50ee2f49d733b","type":"text","text":"# Dropdown Menu:\n- Present several options, including CRT televisions, flatscreen TV, etc\n- \n","x":220,"y":-215,"width":260,"height":100},
+		{"id":"794e3b2dfa46a032","type":"text","text":"# User asks \"Where can I recycle this?\"","x":-140,"y":-380,"width":250,"height":60},
+		{"id":"9558b411c91a61dc","type":"text","text":"## Ask user what the item is","x":-140,"y":-215,"width":250,"height":60},
+		{"id":"90d22d115269463d","type":"text","text":"# Ask user where they purchased the item","x":-140,"y":-110,"width":250,"height":60},
+		{"id":"16b8d2dc7e61ddee","type":"text","text":"# Dropdown Menu:\n- Present options of producers who are known to take their products (Apple, Best Buy, etc)","x":-520,"y":-165,"width":250,"height":130},
+		{"id":"7e52709a4a70df5a","type":"text","text":"# Other:\n- If the user selects none of the above, move on, disregarding source","x":-520,"y":20,"width":250,"height":100},
+		{"id":"f2cf7562b852f78e","type":"text","text":"# Prompt user for location\n","x":-140,"y":20,"width":250,"height":60},
+		{"id":"fb22fa54bd62cf1d","type":"text","text":"# Use device location info","x":-390,"y":180,"width":250,"height":60},
+		{"id":"7a616b52df69a1c0","type":"text","text":"# Enter zip code, city, etc","x":110,"y":180,"width":250,"height":60},
+		{"id":"84306f5176d2cab8","type":"text","text":"# Output a list of potential recyclers\n- Include fees if relevant, hours, address, and other relevant information\n- If the user entered a known producer who takes back products, included in the liste\n- ","x":-140,"y":380,"width":250,"height":235},
+		{"id":"949596899d759a9f","type":"file","file":"System Folders/Attachments/ENDS151 App Design Screenshot Representation.png","x":180,"y":450,"width":777,"height":329},
+		{"id":"50e69b1a93b408c7","type":"text","text":"# Include a map of locations\n- Similar to this Google result, but for the specific device that the user inputted","x":180,"y":360,"width":420,"height":90},
+		{"id":"974e53f321b46f53","type":"text","text":"## Recycling App Flowchart, Alec Malcangio, 10/1/23","x":220,"y":-380,"width":260,"height":60}
+	],
+	"edges":[
+		{"id":"357a7050258e7452","fromNode":"794e3b2dfa46a032","fromSide":"bottom","toNode":"9558b411c91a61dc","toSide":"top"},
+		{"id":"e462174cfe83f848","fromNode":"9558b411c91a61dc","fromSide":"right","toNode":"30f50ee2f49d733b","toSide":"left","color":"5"},
+		{"id":"56b0018d345d1914","fromNode":"9558b411c91a61dc","fromSide":"right","toNode":"3a69bdf9b02ceafa","toSide":"left","color":"2"},
+		{"id":"44958ac5fa662939","fromNode":"9558b411c91a61dc","fromSide":"bottom","toNode":"90d22d115269463d","toSide":"top"},
+		{"id":"ca9b9822100cbf59","fromNode":"90d22d115269463d","fromSide":"left","toNode":"16b8d2dc7e61ddee","toSide":"right","color":"5"},
+		{"id":"ca9c782369702fcc","fromNode":"90d22d115269463d","fromSide":"left","toNode":"7e52709a4a70df5a","toSide":"right","color":"1"},
+		{"id":"f28755ecce2d2b59","fromNode":"90d22d115269463d","fromSide":"bottom","toNode":"f2cf7562b852f78e","toSide":"top"},
+		{"id":"59bbb95b1bc2e323","fromNode":"f2cf7562b852f78e","fromSide":"bottom","toNode":"fb22fa54bd62cf1d","toSide":"top","color":"5"},
+		{"id":"09532485333b3840","fromNode":"f2cf7562b852f78e","fromSide":"bottom","toNode":"7a616b52df69a1c0","toSide":"top","color":"2"},
+		{"id":"f9eb9064233405ba","fromNode":"fb22fa54bd62cf1d","fromSide":"bottom","toNode":"84306f5176d2cab8","toSide":"top"},
+		{"id":"7a9e2b2036dba99e","fromNode":"7a616b52df69a1c0","fromSide":"bottom","toNode":"84306f5176d2cab8","toSide":"top"}
+	]
+}

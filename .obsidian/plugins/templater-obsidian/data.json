@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "System Folders/Templates",
   "templates_pairs": [
     [
       "",
@@ -16,31 +16,31 @@
   "folder_templates": [
     {
       "folder": "CHGN121",
-      "template": "Templates/Chemistry Template.md"
+      "template": "System Folders/Templates/Chemistry Template.md"
     },
     {
       "folder": "EDNS151",
-      "template": "Templates/ENDS151 - Template.md"
+      "template": "System Folders/Templates/EDNS151 - Template.md"
     },
     {
       "folder": "CSM101",
-      "template": "Templates/CSM101 Template.md"
+      "template": "System Folders/Templates/CSM101 Template.md"
     },
     {
       "folder": "MATH111",
-      "template": "Templates/Calc 1 Template.md"
+      "template": "System Folders/Templates/Calc 1 Template.md"
     },
     {
       "folder": "EBGN201",
-      "template": "Templates/Econ Template.md"
+      "template": "System Folders/Templates/Econ Template.md"
     }
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "Templates/Subscript Template.md",
-    "Templates/Limit Template.md",
-    "Templates/Fraction Template.md",
-    "Templates/Square Root Template.md"
+    "System Folders/Templates/Subscript Template.md",
+    "System Folders/Templates/Limit Template.md",
+    "System Folders/Templates/Fraction Template.md",
+    "System Folders/Templates/Square Root Template.md"
   ],
   "startup_templates": [
     ""
