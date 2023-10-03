@@ -38,7 +38,7 @@
 - The tighter the problem definition
 - Note: how are we going to motivate people for our solution
 - Trash days
-	- E-trash days (Arvada) #toDo RESEARCH THAT
+	- E-trash days (Arvada)  RESEARCH THAT
 	- They filled trucks in a matter of hours that they expected to take weeks
 - As a Judge
 	- Big fan of practical testing

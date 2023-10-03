@@ -1,0 +1,2 @@
+#econ #ebgn201 
+One example of price discrimination is an Amazon Prime membership - if consumers are willing to pass the hurdle of paying for a membership in the first place, they are offered additional deals and offers. While Amazon further offers additional forms of price discrimination (such as group pricing for the Prime Membership), Prime itself is an excellent example of hurdle pricing, as it rewards consumers who are willing to pass the initial hurdle. 
