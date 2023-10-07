@@ -1,73 +1,65 @@
-#math #math111 
-$$\lim\limits_{x \to 4}\frac{(x+2)^{2}-9x}{4-x}=\lim\limits_{x \to 4}\frac{x^2-5x+4}{4-x}=\lim\limits_{x \to 4}\frac{(x-4)(x-1)}{4-x}*-1=\lim\limits_{x \to 4}\frac{(x+4)(-x+1)}{4+x}=\lim\limits_{x \to 4}x-1=-3$$
-
-$$\lim\limits_{x \to 0}\frac{x}{\sqrt{6x+1}-1}*\frac{\sqrt{6x+1}+1}{\sqrt{6x+1}+1}=\lim\limits_{x \to 0}\frac{(x)(\sqrt{6x+1}+1)}{6(x)}=\lim\limits_{x \to 0}\frac{\sqrt{6x+1}+1}{6}=\lim\limits_{x \to 0}\frac{2}{6}=\lim\limits_{x \to 0}\frac{1}{3}=\frac{1}{3}$$
-$$\lim\limits_{x \to -4}\frac{x^2+4x}{x^3+2x^2-8x}=\lim\limits_{x \to -4}\frac{x(x+4)}{x(x^2+2x-8)}=\lim\limits_{x \to -4}\frac{(x)(x+4)}{(x)(x+4)(x-2)}=\lim\limits_{x \to -4}\frac{1}{x-2}=-\frac{1}{6}$$
-3x-4ln(2) = ln(14)
-
-(5x+2)\*ln(2) = ln(18)
-
-$$\frac{\ln{18}}{5*\ln{2}}+\frac{2}{5}$$
-
-$$e^{11k}=5$$
-
-
-------------
-
-$$4*2^{x-5}=12 \ , /4$$
-$$2^{x-5}=3$$
-$$(x-5)\ln(2)=\ln(3)$$
-$$x-5=\frac{\ln(3)}{\ln(2)}$$
-$$x=5+\frac{\ln(3)}{\ln(2)}$$
-
+$$f(x) = (5x^{-3})^2$$
+$$f(x)=5x^{-1}$$
+$$f'(x) = -5x^{0} $$$$f'(x)=-5$$---
+$$f(p) = \frac{10}{p^{\frac{1}{5}}}$$
+$$f(p)=10p^{\frac{-1}{5}}$$
+$$f'(p)=-2p^\frac{-6}{5}$$
 
 ---
-$$\ln(x-1)+\ln(x+1)=\ln(12)$$
-$$(x-1)(x+1)=12$$
-$$x^2-1=12$$
-$$x=\sqrt{13}$$
-----
-$$\lim\limits_{x \to \infty}\frac{e^x}{1+e^{-x}}=\lim\limits_{x \to \infty}\frac{\infty}{1+0}=\lim\limits_{x \to \infty}\infty=\infty$$
-------
-$$\lim\limits_{x \to \infty}\frac{e^x}{1+e^{-x}}=\lim\limits_{x \to \infty}\frac{0}{1+\infty}=\lim\limits_{x \to \infty}0=0$$
+$$h(t) = \frac{\sqrt{4t}}{-8}$$
+$$h(t)= \frac{(4t)^{\frac{1}{2}}}{-8}$$
+$$h(t)=-\frac{1}{2}(4t)^\frac{1}{2}$$
 
--------
-$$\lim\limits_{x \to -\infty}\frac{3x^2+4x}{x+1}=\lim\limits_{x \to -\infty}\frac{(x)(3x+4)}{x+1}=\lim\limits_{x \to \infty}\frac{-\infty*-\infty}{-\infty}=-\infty$$
-$$\lim\limits_{x \to -\infty}\frac{-\infty^2-\infty}{-\infty}=\lim\limits_{x \to -\infty}\frac{+\infty*-\infty}{-\infty}=-\infty$$
------ 
-$$f(x)=0$$
-$$\lim\limits_{x \to 0^+}f(x)=\lim\limits_{x \to 0^+}\cos(x)=1$$
-$$\lim\limits_{x \to 0^{+}}\neq f(x)$$
------
-$$f(x)=\frac{x^3+2x^2+x}{x^3-x^2-2x}=\frac{(x)(x^2+2x+1)}{(x)(x^2-x-2)}=\frac{(x+1)(x+1)}{(x-2)(x+1)}=\frac{(x+1)}{(x-2)}$$
-$$\lim\limits_{x \to 2^+}\frac{(x+1)}{(z-2)}=\lim\limits_{x \to 2^+}\frac{3}{\text{small}}=\infty$$
-$$\lim\limits_{x \to 2^-}\frac{(x+1)}{(z-2)}=\lim\limits_{x \to -}\frac{3}{\text{-small}}=-\infty$$
+$$h'(t)=\frac{-1}{4}(4t)^\frac{-1}{2}*4$$
+$$h'(t)=-(4t)^{\frac{-1}{2}}$$
+
 ---
-$$g'(x)=\lim\limits_{h \to 0}\frac{\sqrt{x+h-1}-\sqrt{x-1}}{h}$$
-$$\lim\limits_{h \to 0}\frac{(\sqrt{x+h-1}-\sqrt{x-1})}{h}*\frac{(\sqrt{x+h-1}+\sqrt{x-1})}{(h)(\sqrt{x+h-1}+\sqrt{x-1})}$$
-$$\lim\limits_{h \to 0}\frac{x+h+1-x-1}{(h)(\sqrt{x+h-1}+\sqrt{x-1})}$$
-$$\frac{1}{\sqrt{x-1}+\sqrt{x-1}}=\frac{1}{2\sqrt{x-1}}$$
-$$\frac{1}{2\sqrt{1}}=\frac{1}{2}=g'(2)$$
+$$g(w)=\frac{2}{\sqrt{w} }^{-4} $$
+$$g(w)=(2w^\frac{-1}{2})^{-4}$$
+$$g(w)=2w^{-2}$$
+$$g'(w)=-4w^{-3}$$
+
 ---
-$$y-1=\frac{1}{2}(x-2)$$
-$$y=\frac{1}{2}x$$
+$$y=x+ \tan(x)$$
+$$y'=1+\sec^2(x)$$
+$$\text{at pi  } y'=0$$
+$$x+\tan(x) =\pi + 0$$
+$$\text{equation is }y=\pi$$
+
 ---
-$$\lim\limits_{h \to 0}\frac{\frac{1}{3x+h-1}-\frac{1}{3x-1}}{h}$$
-$$\lim\limits_{h \to 0}\frac{\frac{(1)(3x-1)}{(3x+h-1)(3x-1)}-\frac{1(3x+h-1)}{(3x-1)(3x+h-1)}}{h}$$
-$$\lim\limits_{h \to 0}\frac{\frac{3x-1-3x-h+1}{9x^2-3x+3xh-h-3x+1}}{h}=\lim\limits_{h \to 0}\frac{-1}{9x^2-6x+3xh-h}$$
-$$f'(x) =\frac{-1}{9x^2-6x}=\frac{-1}{(3x)(3x-2)}$$
-$$f'(1)=\frac{-1}{(3)(3-2)}=-\frac{1}{3}$$
+$$f'(x)=\frac{(2+\sin{x})(-\sin x)-(\cos x)(\cos x)}{(2+\sin x)^2}$$
+This is equal to 0 when sin or cos^2 are 0, meaning at x = 0, $\frac{\pi}{2}$ , $\pi$, $\frac{3\pi}{4}$
+Or at sin(x) = -2, which is impossible
+
 ---
-$$y - \frac{1}{2}=-\frac{1}{3}(x-1)$$
-$$y = - \frac{1}{3}x+ \frac{5}{6}$$
+
+$$f(x) = (1+(x-1)^{3})^\frac{1}{2}$$
+$$f'(x)=\frac{1}{2}(1+(x-1)^{3)^{\frac{-1}{2}}} * \frac{d}{dx}(1+(x-1)^3)$$
+$$f'(x)=\frac{1}{2}(1+(x-1)^{3) ^{\frac{-1}{2}}} * 3(x-1)^{2} * 1$$
+$$f'(x)=\frac{3(x-1)^2}{2\sqrt{1+(x-1)^3}}$$
 ---
-$$\lim\limits_{h \to 0}\frac{4(x+h)^2+2(x+h)+1-(4x^2+2x+1)}{h}$$
-$$\lim\limits_{h \to 0}\frac{4x^2+8xh+4h^2+2x+2h+1-4x^2-2x-1}{h}$$
-$$\lim\limits_{h \to 0}\frac{8xh+4h^2+2h}{h}$$
-$$\lim\limits_{h \to 0}8x+4h+2$$
-$$f'(x)=8x+2$$
+$$f'(x)=\frac{3(x-1)^2}{2\sqrt{1+(x-1)^3}}$$
+
+$$\frac{d}{dx}\Big|_{x=3}\frac{3(2)^3}{2\sqrt{1+(2)^3}}=\frac{24}{6}=4$$
+$$f(3) = \sqrt{1+(3-1)^3}=3$$
+$$y-3 = 4(x-3)$$
+$$y=4x-12+3 \ \ \||||\ \ \  y=4x-9$$
 ---
-$$f'(x)=-10$$
-$$-10=8x+2$$
-$$-12=8x$$
-$$x= \frac{-12}{8}=-1.5$$
+$$v(t)=27-3t^2$$
+$$a(t)=-6t$$
+---
+$$v(t)=3(9-t^2)$$
+Velocity is 0 at x = -3 and 3
+For any value beyond, negative, within (-3,3) x is positive
+So on the interval t >= 0, particle is moving right from \[0,3) and left from (3,$\infty$)
+
+---
+$$a(t) = -6t$$
+Acceleration is positive for any value of t < 0, and negative for any value of t > 0 
+Slowing down when signs are not matching, so slowing down on the interval (0,3)
+Speeding up when signs match, so speeding up on the interval (3,$\infty$)
+
+---
+Distance  before turn $$27(3)-3^{3}=54$$
+Position  after turn: $$27(6)-6^3=-54$$
+Total distance: $$54 + (54--54)=162\text{ft}$$

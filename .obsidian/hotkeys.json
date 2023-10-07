@@ -73,5 +73,13 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "obsidian-excalidraw-plugin:save": []
+  "obsidian-excalidraw-plugin:save": [],
+  "templater-obsidian:System Folders/Templates/Derivative; Integral Evaluation Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ]
 }

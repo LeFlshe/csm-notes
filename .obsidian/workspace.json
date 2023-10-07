@@ -8,31 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d48535e42013c8c",
+            "id": "e34428aa8e696861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-09-20.md",
-                "mode": "source",
-                "source": false
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf"
               }
             }
           },
           {
-            "id": "08af69e4355b6475",
+            "id": "1d48535e42013c8c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CHGN121/Resources/Equations Sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "d8224c186c382950",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH111/MATH111 - 2023-08-21.md",
+                "file": "CHGN121/CHGN121 - 2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -61,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#toDo",
+                "query": "clicker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH111/MATH111 - 2023-08-21.md",
+                "file": "CHGN121/CHGN121 - 2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH111/MATH111 - 2023-08-21.md",
+                "file": "CHGN121/CHGN121 - 2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH111/MATH111 - 2023-08-21.md"
+                "file": "CHGN121/CHGN121 - 2023-10-06.md"
               }
             }
           },
@@ -172,53 +181,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08af69e4355b6475",
+  "active": "deaf344948347ad7",
   "lastOpenFiles": [
-    "MATH111/MATH111 - 2023-08-29.md",
-    "README.md",
-    "MATH111/MATH111 - 2023-10-03.md",
-    "EBGN201/EBGN201 - 2023-10-03.md",
-    "CHGN121/CHGN121 - 2023-09-20.md",
-    "EDNS151/Librarian Meeting.md",
-    "CSM101/CSM101 - 2023-09-07.md",
-    "CHGN121/CHGN121LAB - 2023-08-29.md",
-    "CHGN121/CHGN121 - 2023-09-18.md",
-    "CHGN121/CHGN121 - 2023-09-15.md",
-    "CHGN121/CHGN121 - 2023-09-11.md",
-    "MATH111/MATH111 - 2023-09-26.md",
-    "EBGN201/EBGN Mod 5 in class.md",
-    "MATH111/MATH111 - 2023-09-25.md",
-    "MATH111/MATH111 - 2023-09-15.md",
-    "MATH111/MATH111 - 2023-09-18.md",
-    "MATH111/MATH111 - 2023-09-19.md",
-    "MATH111/MATH111 - 2023-10-02.md",
-    "System Folders/Attachments/Screenshot 2023-10-03 at 9.04.35 AM.png",
-    "CHGN121/CHGN121 - 2023-10-02.md",
-    "EBGN201/Price Discrimination Pre-Class.md",
-    "Untitled.canvas",
     "CHGN121/Resources/Equations Sheet.pdf",
+    "CHGN121/CHGN121 - 2023-10-06.md",
+    "MATH111/MATH111 - 2023-10-06.md",
     "CHGN121/Resources/Annotated Periodic Table.pdf",
+    "CSM101/Plan For \"What's Your Story\" Project.md",
+    "System Folders/Attachments/A824B1F5-008E-47E7-9E87-FCD07EB58EE4_1_105_c.jpeg",
+    "System Folders/Attachments/C79DE739-4740-40A9-B792-60DB040058D6_1_102_o.jpeg",
+    "System Folders/Attachments/1FE8A819-552A-4287-9D3E-1428580B466D_1_105_c.jpeg",
+    "System Folders/Attachments/CFBB6C73-9FEE-4145-8AF7-64B96DFC8A69_1_105_c.jpeg",
+    "CSM101/CSM101 - 2023-09-28.md",
+    "EDNS151/EDNS151 - 2023-10-04.md",
+    "CHGN121/CHGN121 - 2023-10-04.md",
+    "CHGN121/CHGN121LAB - 2023-08-29.md",
     "CHGN121/CHGN121 - 2023-09-29.md",
-    "MATH111/MATH111 - 2023-09-08.md",
-    "MATH111/MATH111 - 2023-09-27.md",
+    "CHGN121/CHGN121 - 2023-10-02.md",
+    "MATH111/MATH111 - 2023-09-26.md",
+    "MATH111/Latex Scratchpaper.md",
     "MATH111/MATH111 - 2023-09-29.md",
+    "MATH111/Derivative.md",
+    "MATH111/Limit.md",
+    "MATH111/MATH111 - 2023-10-04.md",
+    "MATH111/MATH111 - 2023-08-28.md",
+    "MATH111/MATH111 - 2023-09-27.md",
+    "MATH111/MATH111 - 2023-10-02.md",
+    "System Folders/Templates/Derivative; Integral Evaluation Template.md",
+    "MATH111/Untitled 1.md",
+    "CHGN121/CHGN121 - 2023-09-20.md",
+    "EDNS151/EDNS151 - 2023-08-30.md",
+    "CHGN121/CHGN121 - 2023-09-08.md",
+    "MATH111/MATH111 - 2023-09-19.md",
+    "MATH111/MATH111 - 2023-09-25.md",
+    "System Folders/Attachments/Screenshot 2023-10-03 at 9.04.35 AM.png",
+    "Untitled.canvas",
     "System Folders/Attachments/EDNS151 - Looks Like Prototype.png",
     "System Folders/Attachments/C2311B9D-0CC1-4023-A58C-9AF72696BE72_1_105_c.jpeg",
     "EDNS151/EDNS151 Flowchart App Design.canvas",
-    "EDNS151/EDNS151 - 2023-10-02.md",
-    "Excalidraw/Drawing 2023-10-02 07.30.31.excalidraw.md",
     "Excalidraw",
     "System Folders/Attachments/EDNS151 Flowchart App Design.png",
     "System Folders",
     "System Folders/Attachments/ENDS151 App Design Screenshot Representation.png",
     "System Folders/Attachments/609569E1-C696-484A-8D15-1C49858C9F56_1_105_c.jpeg",
     "MATH111/Untitled",
-    "System Folders/Attachments/Econ in class shift spreadsheet.png",
     "System Folders/Excalidraw",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "System Folders/Attachments/Screenshot 2023-09-22 at 6.06.50 PM.png",
-    "System Folders/Attachments/Screenshot 2023-09-22 at 5.57.13 PM.png",
-    "System Folders/Attachments/Screenshot 2023-09-22 at 5.45.24 PM.png",
     "CHGN121/~$A Lab Report.docx",
     "CHGN121/CoA Lab Report.docx",
     "CHGN121/~$P2 backup.dotx",
