@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a1e46044eb05b459","type":"text","text":"# Tasks and Functions\n\n\n## 1. Command and control\n## 2. Overall Strucutre\n### - HVAC\n\n## 3. Communication to operator\n\n## 4. Housing of waste\n\n## 5. Waste database\n\n## 6. Power distribution\n","x":-140,"y":-437,"width":439,"height":328},
+		{"id":"556141ddd5482586","type":"text","text":"# Outputs\n\n## 1. Organized electronic waste\n## 2. Electronic waste statistics (type, weight)\n\n## 3. Labeled electronic waste\n\n## ","x":540,"y":-437,"width":250,"height":328},
+		{"id":"c115602a90d1098e","type":"text","text":"# Inputs\n\n## Electronic waste\n\n## Operator of center\n\n## Recycler (one with waste)\n\n## Authorization \n\n## Waste \n## Power\n","x":-664,"y":-379,"width":250,"height":411}
+	],
+	"edges":[
+		{"id":"e29a77e2103b14a4","fromNode":"c115602a90d1098e","fromSide":"right","toNode":"a1e46044eb05b459","toSide":"left"},
+		{"id":"a3c2b6ffc967e0f3","fromNode":"a1e46044eb05b459","fromSide":"right","toNode":"556141ddd5482586","toSide":"left"}
+	]
+}
