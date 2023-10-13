@@ -1,11 +1,26 @@
 {
 	"nodes":[
-		{"id":"a1e46044eb05b459","type":"text","text":"# Tasks and Functions\n\n\n## 1. Command and control\n## 2. Overall Strucutre\n### - HVAC\n\n## 3. Communication to operator\n\n## 4. Housing of waste\n\n## 5. Waste database\n\n## 6. Power distribution\n","x":-140,"y":-437,"width":439,"height":328},
+		{"id":"a1e46044eb05b459","type":"text","text":"# Tasks and Functions\n\n\n## 1. Command and control\n## 2. Overall Structure\n### - HVAC\n\n## 3. Communication to operator\n\n## 4. Housing of waste\n\n## 5. Waste database\n\n## 6. Power distribution\n\n","x":-140,"y":-437,"width":439,"height":328},
 		{"id":"556141ddd5482586","type":"text","text":"# Outputs\n\n## 1. Organized electronic waste\n## 2. Electronic waste statistics (type, weight)\n\n## 3. Labeled electronic waste\n\n## ","x":540,"y":-437,"width":250,"height":328},
-		{"id":"c115602a90d1098e","type":"text","text":"# Inputs\n\n## Electronic waste\n\n## Operator of center\n\n## Recycler (one with waste)\n\n## Authorization \n\n## Waste \n## Power\n","x":-664,"y":-379,"width":250,"height":411}
+		{"id":"c115602a90d1098e","type":"text","text":"# Inputs\n\n## Electronic waste\n\n## Operator of center\n\n## Recycler (one with waste)\n\n## Authorization \n## Power\n\n","x":-650,"y":-478,"width":250,"height":411},
+		{"id":"0ee7ecc94e2f66ae","type":"file","file":"EDNS151/MERC Drafting/(MERC) Housing.md","x":-876,"y":1562,"width":400,"height":400},
+		{"id":"082d65d6588825e7","x":94,"y":1562,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Database.md"},
+		{"id":"d1d86c14d3fc68ba","x":179,"y":225,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Lockers.md"},
+		{"id":"6d19fa606aaad3ab","x":-925,"y":225,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Kiosk.md"},
+		{"id":"9abfd2c6baf3afde","x":-1736,"y":913,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Power.md"}
 	],
 	"edges":[
 		{"id":"e29a77e2103b14a4","fromNode":"c115602a90d1098e","fromSide":"right","toNode":"a1e46044eb05b459","toSide":"left"},
-		{"id":"a3c2b6ffc967e0f3","fromNode":"a1e46044eb05b459","fromSide":"right","toNode":"556141ddd5482586","toSide":"left"}
+		{"id":"a3c2b6ffc967e0f3","fromNode":"a1e46044eb05b459","fromSide":"right","toNode":"556141ddd5482586","toSide":"left"},
+		{"id":"52dfadaec83eb17c","fromNode":"9abfd2c6baf3afde","fromSide":"right","toNode":"6d19fa606aaad3ab","toSide":"bottom","color":"4"},
+		{"id":"f2333f32bd9e6bc7","fromNode":"9abfd2c6baf3afde","fromSide":"right","toNode":"d1d86c14d3fc68ba","toSide":"bottom","color":"4"},
+		{"id":"2c3855c86885e2e3","fromNode":"9abfd2c6baf3afde","fromSide":"right","toNode":"0ee7ecc94e2f66ae","toSide":"top","color":"4"},
+		{"id":"28f9386e7c9d0fef","fromNode":"6d19fa606aaad3ab","fromSide":"bottom","toNode":"082d65d6588825e7","toSide":"top","color":"5"},
+		{"id":"c8c5fc950362f6f0","fromNode":"6d19fa606aaad3ab","fromSide":"right","toNode":"d1d86c14d3fc68ba","toSide":"left","fromEnd":"arrow","color":"5"},
+		{"id":"ccb52aa18ca5bc8f","fromNode":"6d19fa606aaad3ab","fromSide":"right","toNode":"d1d86c14d3fc68ba","toSide":"top","color":"4"},
+		{"id":"8552d906f984b8c1","fromNode":"9abfd2c6baf3afde","fromSide":"right","toNode":"6d19fa606aaad3ab","toSide":"left","fromEnd":"arrow","color":"1"},
+		{"id":"f13f28ac1c803de4","fromNode":"9abfd2c6baf3afde","fromSide":"right","toNode":"0ee7ecc94e2f66ae","toSide":"left","fromEnd":"arrow","color":"1"},
+		{"id":"12598fb27a54bd34","fromNode":"0ee7ecc94e2f66ae","fromSide":"top","toNode":"6d19fa606aaad3ab","toSide":"bottom","fromEnd":"arrow","color":"1"},
+		{"id":"26b59c1041082726","fromNode":"d1d86c14d3fc68ba","fromSide":"bottom","toNode":"0ee7ecc94e2f66ae","toSide":"top","fromEnd":"arrow","color":"1"}
 	]
 }
