@@ -12,3 +12,12 @@
 4. Bins (with lock)**
 5. Open shelves
 	1. With legalese
+
+
+
+
+## Stakeholder Feedback
+- Jim Tice
+	- Lockers for smaller, more valuable electronics - cell phones, laptops, etc
+	- Maybe just open shelves for televisions, CRTs, printers
+	- 

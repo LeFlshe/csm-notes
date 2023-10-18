@@ -8,46 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1164251ef2012d49",
+            "id": "f019f5f8445c033c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "EDNS151/EDNS151 - System design.canvas",
+                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
                 "viewState": {
-                  "x": 80.09640069518477,
-                  "y": 1112.512245216477,
-                  "zoom": -1.645854283199614
+                  "x": -132.75330382849305,
+                  "y": 1047.7060926735135,
+                  "zoom": -1.6908593317866325
                 }
               }
             }
-          },
-          {
-            "id": "21b29919a8a79af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EDNS151/MERC Drafting/MERC Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "801e41fa34056429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSM101/What's Your Story Artist's Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -113,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDNS151/MERC Drafting/MERC Planning.md",
+                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDNS151/MERC Drafting/MERC Planning.md",
+                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDNS151/MERC Drafting/MERC Planning.md"
+                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas"
               }
             }
           },
@@ -184,42 +160,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c7bbf6ac68c147e",
+  "active": "f019f5f8445c033c",
   "lastOpenFiles": [
-    "EDNS151/MERC Drafting/(MERC) Database.md",
-    "EDNS151/MERC Drafting/MERC Planning.md",
-    "EDNS151/EDNS151 - System design.canvas",
-    "EDNS151/EDNS151 Flowchart App Design.canvas",
-    "EDNS151/MERC Drafting/(MERC) Kiosk.md",
-    "EDNS151/MERC Drafting",
-    "EDNS151/MERC Drafting",
-    "EDNS151/MERC Drafting/(MERC) Power.md",
-    "EDNS151/MERC Drafting/(MERC) Lockers.md",
+    "EDNS151/EDNS151 - 2023-10-18.md",
+    "EDNS151/Group Meetings/MERC Drafting/(MERC) Database.md",
+    "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
+    "EDNS151/Problem Definition.md",
+    "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
     "EDNS151/MERC Drafting/(MERC) Mechanical System.md",
-    "(MERC) Communication to Operator.md",
-    "Electronic Housing.md",
-    "EDNS151/MERC Drafting/(MERC) Housing.md",
-    "(MERC) Command and Control.md",
-    "CSM101/What's Your Story Artist's Note.md",
-    "CSM101/CSM101 - 2023-10-12.md",
-    "CSM101/Plan For \"What's Your Story\" Project.md",
-    "CHGN121/CHGN121 - 2023-10-11.md",
-    "CHGN121/CHGN121 - 2023-10-06.md",
-    "CHGN121/Resources/Equations Sheet.pdf",
+    "EDNS151/Module 2 Reflection.md",
+    "MATH111/Latex Scratchpaper.md",
     "CHGN121/Resources/Annotated Periodic Table.pdf",
-    "CHGN121/CHGN121 - 2023-10-09.md",
-    "MATH111/MATH111 - 2023-10-11.md",
-    "EBGN201/EBGN201 - 2023-08-29.md",
     "MATH111/MATH111 - 2023-10-09.md",
+    "MATH111/MATH111 - 2023-10-10.md",
+    "MATH111/MATH111 - 2023-10-11.md",
+    "MATH111/MATH111 - 2023-10-13.md",
+    "MATH111/MATH111 - 2023-08-25.md",
     "MATH111/MATH111 - 2023-10-02.md",
     "MATH111/MATH111 - 2023-10-03.md",
     "MATH111/MATH111 - 2023-10-04.md",
     "MATH111/MATH111 - 2023-10-06.md",
-    "EDNS151/EDNS151 - 2023-10-11.md",
-    "CHGN121/Rocket Scratchpaper.md",
+    "CHGN121/Resources/Equations Sheet.pdf",
+    "MATH111/Unit Circle.md",
+    "MATH111/MATH111 - 2023-09-29.md",
+    "MATH111/MATH111 - 2023-09-27.md",
+    "MATH111/MATH111 - 2023-09-26.md",
+    "MATH111/MATH111 - 2023-09-25.md",
+    "MATH111/MATH111 - 2023-09-19.md",
+    "MATH111/MATH111 - 2023-09-18.md",
+    "MATH111/MATH111 - 2023-09-15.md",
+    "MATH111/MATH111 - 2023-08-21.md",
+    "CHGN121/CHGN121 - 2023-10-13.md",
+    "EDNS151/EDNS151 Flowchart App Design.canvas",
+    "EDNS151/Group Meetings/MERC Drafting",
+    "EDNS151/Group Meetings/MERC Drafting",
     "MATH111/Concepts",
     "MATH111/Class Notes",
     "System Folders/Attachments/Screenshot 2023-10-10 at 9.52.45 AM.png",
@@ -236,7 +214,6 @@
     "System Folders/Attachments/ENDS151 App Design Screenshot Representation.png",
     "System Folders/Excalidraw",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "CHGN121/~$A Lab Report.docx",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
 }

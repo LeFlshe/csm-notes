@@ -32,7 +32,7 @@ Governor, I fully recommend increasing the excise tax on beer. Increasing the ta
 #### Miscellaneous Calculations
 |   |   |   |   |   |
 |---|---|---|---|---|
-|Price Elasticity of Demand|0.3||Consumer Tax Incidence|80.645%|
+|Price Elasticity of Demand|0.3 \[3]||Consumer Tax Incidence|80.645%|
 |Price Elasticity of Supply|1.25||Supplier Tax Incidence|19.355%|
 |Price of Beer|$10.44|Price Post Tax|$10.64||
 |||%|1.91570881226054||

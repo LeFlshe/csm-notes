@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"a1e46044eb05b459","type":"text","text":"# Tasks and Functions\n\n\n## 1. Command and control\n## 2. Overall Structure\n### - HVAC\n\n## 3. Communication to operator\n\n## 4. Housing of waste\n\n## 5. Waste database\n\n## 6. Power distribution\n\n","x":-140,"y":-437,"width":439,"height":328},
-		{"id":"556141ddd5482586","type":"text","text":"# Outputs\n\n## 1. Organized electronic waste\n## 2. Electronic waste statistics (type, weight)\n\n## 3. Labeled electronic waste\n\n## ","x":540,"y":-437,"width":250,"height":328},
+		{"id":"a1e46044eb05b459","type":"text","text":"# Tasks and Functions\n\n\n## 1. Command and control\n\n## 2. Database\n## 3. Overall Housing\n## 4. Kiosk\n\n## 5. Lockers\n## 6. Power","x":-140,"y":-437,"width":439,"height":399},
+		{"id":"556141ddd5482586","type":"text","text":"# Outputs\n\n## 1. Organized electronic waste\n## 2. Electronic waste statistics (type, weight)\n\n## 3. Labeled electronic waste\n\n## ","x":540,"y":-437,"width":250,"height":350},
 		{"id":"c115602a90d1098e","type":"text","text":"# Inputs\n\n## Electronic waste\n\n## Operator of center\n\n## Recycler (one with waste)\n\n## Authorization \n## Power\n\n","x":-650,"y":-478,"width":250,"height":411},
-		{"id":"0ee7ecc94e2f66ae","type":"file","file":"EDNS151/MERC Drafting/(MERC) Housing.md","x":-876,"y":1562,"width":400,"height":400},
-		{"id":"082d65d6588825e7","x":94,"y":1562,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Database.md"},
-		{"id":"d1d86c14d3fc68ba","x":179,"y":225,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Lockers.md"},
-		{"id":"6d19fa606aaad3ab","x":-925,"y":225,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Kiosk.md"},
-		{"id":"9abfd2c6baf3afde","x":-1736,"y":913,"width":400,"height":400,"type":"file","file":"EDNS151/MERC Drafting/(MERC) Power.md"}
+		{"id":"0ee7ecc94e2f66ae","type":"file","file":"EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md","x":-876,"y":1562,"width":400,"height":400},
+		{"id":"d1d86c14d3fc68ba","type":"file","file":"EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md","x":179,"y":225,"width":400,"height":400},
+		{"id":"6d19fa606aaad3ab","type":"file","file":"EDNS151/Group Meetings/MERC Drafting/(MERC) Kiosk.md","x":-925,"y":225,"width":400,"height":400},
+		{"id":"9abfd2c6baf3afde","type":"file","file":"EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md","x":-1736,"y":913,"width":400,"height":400},
+		{"id":"082d65d6588825e7","type":"file","file":"EDNS151/Group Meetings/MERC Drafting/(MERC) Database.md","x":97,"y":1553,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e29a77e2103b14a4","fromNode":"c115602a90d1098e","fromSide":"right","toNode":"a1e46044eb05b459","toSide":"left"},

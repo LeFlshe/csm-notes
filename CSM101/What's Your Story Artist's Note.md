@@ -1,0 +1,6 @@
+#csm101 
+
+So with this project I really wanted to do something creative that I enjoyed doing, the problem being that even though I'm very involved in creative process like tech theater, I had some trouble thinking of a good set piece that would tell my story or something of the like, so I went with a presentation. I've been a big fan of presentations since a simply amazing teacher in eighth grade really pushed presentations, and I seriously enjoyed my communications class I took last semester, so getting to tell my story in this format was super enjoyable. 
+
+The prompt I decided to go with was one of stories I had brainstormed in class, and how it was meaningful and how that moment helped me in the future. I touched on this through my presentation, but really looking back and realizing quite how well different eras of my life were divided and represented by these various art pieces was an interesting insight into who I was and who I am now. In addition to that, just thinking about being represented by those pictures, I tend to use them as profile pictures on various things - so over covid, especially when we were purely online, a lot of how I was represented was through a silly little drawing of my cat wearing sunglasses, so articulating and reflecting on that in the process of doing a couple takes for this presentation was super interesting. 
+
