@@ -14,4 +14,11 @@
 4. Exterior kiosk
 5. Operator on site
 	1. Jerry.
-6. 
+
+## Validation
+- Stakeholders
+	- They already like it! Awesome!
+- Testing
+	- Mockup of User Interface, see what buttons user hits
+- Analysis?
+	- Data amount, steps, etc

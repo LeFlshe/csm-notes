@@ -17,3 +17,11 @@
 	1. Nightly rounds, seeing if center can receive more e-waste
 5. Sensors in the lockers
 	1. Presence 
+
+## Validation
+- Analysis
+	- How much data to expect, etc
+- Stakeholder validation
+	- How much data do they want?
+- Test data transfer
+	- Make sure data entry is being stored and is retrievable 

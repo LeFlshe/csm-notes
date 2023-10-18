@@ -9,3 +9,10 @@
 3. Use existing facility power
 4. Wind turbine
 5. Battery
+
+## Validation
+- Analysis
+	- Math, etc
+- Stakeholders
+- Research
+- Probably not testing, but it could be!

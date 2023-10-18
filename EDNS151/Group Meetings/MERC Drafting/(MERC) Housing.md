@@ -11,3 +11,10 @@
 4. Place inside existing building
 5. Modular building
 6. Underground
+
+
+## Validation
+- Physical Testing
+	- Materials, temperature
+- Stakeholder validation
+- Analysis

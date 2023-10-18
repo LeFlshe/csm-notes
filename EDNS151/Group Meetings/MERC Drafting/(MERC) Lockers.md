@@ -20,4 +20,9 @@
 - Jim Tice
 	- Lockers for smaller, more valuable electronics - cell phones, laptops, etc
 	- Maybe just open shelves for televisions, CRTs, printers
-	- 
+
+## Validation
+- Analysis
+	- Different sizes of waste needed, etc
+- Stakeholder validation
+- Physical test of like, door n stuff

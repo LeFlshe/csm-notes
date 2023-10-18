@@ -15,10 +15,22 @@
               "state": {
                 "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
                 "viewState": {
-                  "x": -132.75330382849305,
-                  "y": 1047.7060926735135,
-                  "zoom": -1.6908593317866325
+                  "x": -168.94798246489333,
+                  "y": 1051.2418613006978,
+                  "zoom": -1.5
                 }
+              }
+            }
+          },
+          {
+            "id": "71151f0fa69dc4f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EDNS151/EDNS151 - 2023-10-18.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -167,8 +179,8 @@
   "active": "f019f5f8445c033c",
   "lastOpenFiles": [
     "EDNS151/EDNS151 - 2023-10-18.md",
-    "EDNS151/Group Meetings/MERC Drafting/(MERC) Database.md",
     "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
+    "EDNS151/Group Meetings/MERC Drafting/(MERC) Database.md",
     "EDNS151/Problem Definition.md",
     "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
     "EDNS151/MERC Drafting/(MERC) Mechanical System.md",
