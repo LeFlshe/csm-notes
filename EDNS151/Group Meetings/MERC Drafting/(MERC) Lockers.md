@@ -26,3 +26,12 @@
 	- Different sizes of waste needed, etc
 - Stakeholder validation
 - Physical test of like, door n stuff
+
+## Requirements
+
+### Key Functionality
+- Shelving for TVs, printers, and monitors
+- Lockers for cell phones, tablets, and laptops
+
+### Key Components
+- 

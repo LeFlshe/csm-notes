@@ -8,33 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f019f5f8445c033c",
+            "id": "71151f0fa69dc4f5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
                 "viewState": {
-                  "x": -168.94798246489333,
-                  "y": 1051.2418613006978,
-                  "zoom": -1.5
+                  "x": -121.64037032332271,
+                  "y": 1170.3313773669613,
+                  "zoom": -2.015975078932564
                 }
               }
             }
           },
           {
-            "id": "71151f0fa69dc4f5",
+            "id": "f2f2eca87587bb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDNS151/EDNS151 - 2023-10-18.md",
+                "file": "MATH111/MATH111 - 2023-10-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
+                "file": "MATH111/MATH111 - 2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
+                "file": "MATH111/MATH111 - 2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas"
+                "file": "MATH111/MATH111 - 2023-10-20.md"
               }
             }
           },
@@ -154,9 +154,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "7b56c046ed0a57a6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,37 +184,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f019f5f8445c033c",
+  "active": "f2f2eca87587bb08",
   "lastOpenFiles": [
-    "EDNS151/EDNS151 - 2023-10-18.md",
+    "MATH111/MATH111 - 2023-10-20.md",
     "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
+    "EDNS151/Group Meetings/MERC Drafting/(MERC) Kiosk.md",
+    "EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md",
+    "EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md",
+    "EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md",
+    "CSM101/CSM101 - 2023-10-19.md",
+    "CHGN121/CHGN121 - 2023-10-18.md",
+    "Excalidraw/Drawing 2023-10-18 12.45.35.excalidraw.md",
+    "Excalidraw",
+    "CHGN121/Resources/Equations Sheet.pdf",
+    "CHGN121/Resources/Annotated Periodic Table.pdf",
+    "System Folders/Templates/EDNS151 - Template.md",
+    "System Folders/Templates/Subscript Template.md",
+    "System Folders/Templates/Square Root Template.md",
+    "System Folders/Templates/Limit Template.md",
+    "System Folders/Templates/Fraction Template.md",
+    "CHGN121/CHGN121LAB - 2023-08-29.md",
+    "System Folders/Templates/Econ Template.md",
+    "System Folders/Templates/Derivative; Integral Evaluation Template.md",
+    "MATH111/MATH111 - 2023-10-18.md",
+    "MATH111/MATH111 - 2023-10-09.md",
+    "MATH111/MATH111 - 2023-10-10.md",
+    "MATH111/MATH111 - 2023-10-11.md",
+    "EDNS151/EDNS151 - 2023-10-18.md",
     "EDNS151/Group Meetings/MERC Drafting/(MERC) Database.md",
     "EDNS151/Problem Definition.md",
     "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
     "EDNS151/MERC Drafting/(MERC) Mechanical System.md",
     "EDNS151/Module 2 Reflection.md",
     "MATH111/Latex Scratchpaper.md",
-    "CHGN121/Resources/Annotated Periodic Table.pdf",
-    "MATH111/MATH111 - 2023-10-09.md",
-    "MATH111/MATH111 - 2023-10-10.md",
-    "MATH111/MATH111 - 2023-10-11.md",
-    "MATH111/MATH111 - 2023-10-13.md",
-    "MATH111/MATH111 - 2023-08-25.md",
-    "MATH111/MATH111 - 2023-10-02.md",
-    "MATH111/MATH111 - 2023-10-03.md",
-    "MATH111/MATH111 - 2023-10-04.md",
-    "MATH111/MATH111 - 2023-10-06.md",
-    "CHGN121/Resources/Equations Sheet.pdf",
-    "MATH111/Unit Circle.md",
-    "MATH111/MATH111 - 2023-09-29.md",
-    "MATH111/MATH111 - 2023-09-27.md",
-    "MATH111/MATH111 - 2023-09-26.md",
-    "MATH111/MATH111 - 2023-09-25.md",
-    "MATH111/MATH111 - 2023-09-19.md",
-    "MATH111/MATH111 - 2023-09-18.md",
-    "MATH111/MATH111 - 2023-09-15.md",
-    "MATH111/MATH111 - 2023-08-21.md",
-    "CHGN121/CHGN121 - 2023-10-13.md",
     "EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/MERC Drafting",
     "EDNS151/Group Meetings/MERC Drafting",
@@ -220,7 +230,6 @@
     "System Folders/Attachments/Screenshot 2023-10-03 at 9.04.35 AM.png",
     "System Folders/Attachments/EDNS151 - Looks Like Prototype.png",
     "System Folders/Attachments/C2311B9D-0CC1-4023-A58C-9AF72696BE72_1_105_c.jpeg",
-    "Excalidraw",
     "System Folders/Attachments/EDNS151 Flowchart App Design.png",
     "System Folders",
     "System Folders/Attachments/ENDS151 App Design Screenshot Representation.png",
