@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0d2356e8e60b77",
+        "id": "63317e0b3b95193e",
         "type": "tabs",
         "children": [
           {
-            "id": "a489704b8a6099ea",
+            "id": "8c84b7156738075b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Launch/Career Center.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05c188b10094971e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall Kickoff/Student Orientation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f85bdecea279c7fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EDNS151/First Floor Meeting.md",
+                "file": "CHGN121/CHGN121 - 2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "first",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,9 +71,19 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "5a86c49630b6df18",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "959178e33dbf5e3c",
@@ -110,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EDNS151/First Floor Meeting.md",
+            "file": "CHGN121/CHGN121 - 2023-11-03.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "EDNS151/First Floor Meeting.md",
+            "file": "CHGN121/CHGN121 - 2023-11-03.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "EDNS151/First Floor Meeting.md"
+            "file": "CHGN121/CHGN121 - 2023-11-03.md"
           }
         }
       }
@@ -148,6 +133,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -157,8 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f85bdecea279c7fd",
+  "active": "8c84b7156738075b",
   "lastOpenFiles": [
+    "CHGN121/CHGN121 - 2023-09-29.md",
+    "MATH111/MATH111 - 2023-10-11.md",
+    "MATH111/MATH111 - 2023-10-10.md",
+    "MATH111/MATH111 - 2023-10-20.md",
+    "MATH111/MATH111 - 2023-10-23.md",
+    "MATH111/MATH111 - 2023-10-24.md",
+    "MATH111/MATH111 - 2023-10-25.md",
     "Fall Kickoff/Student Orientation.md",
     "First Floor Meeting.md",
     "Virtual Launch/Career Center.md",
@@ -189,11 +183,6 @@
     "Registrar.md",
     "Virtual Launch.md",
     "Bursar.md",
-    "Career Center.md",
-    "Meta",
-    "Health Insurance.md",
-    "Initial Session.md",
-    "Four Offices Presentations.md",
-    "Peer Discussion.md"
+    "Meta"
   ]
 }

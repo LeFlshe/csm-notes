@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarHospital",
       "FarPenToSquare",
       "RiExchangeDollarLine",
       "RiDivideFill",
-      "RiAddLine",
-      "RiHomeSmileLine"
+      "RiAddLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,7 @@
   },
   "MATH111": "RiDivideFill",
   "EBGN201": "RiExchangeDollarLine",
-  "CSM101": "RiHomeSmileLine"
+  "CSM101": "RiHomeSmileLine",
+  "MATH111/MATH111 - 2023-11-01.md": "FarHospital",
+  "MATH111/MATH111 - 2023-11-03.md": "FarHospital"
 }
