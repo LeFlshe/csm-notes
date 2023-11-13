@@ -1,0 +1,4 @@
+#edns151 #design 
+
+- This unit, the most significant thing that I learned was the intricacies of interactions between disparate systems - in our case, subsystems of our recycling center, but also broadly working as a team. I had a plan for my section and my prototype that I was working on, and I required information from two other subsystems throughout the entire process. As I wrapped up my prototype, I realized I had been asking all this information from these other systems, but not sharing anything about my own - so reflecting back on this module, what I would like to do is attempt to be more transparent with my work. I started strong on this front with the project plan, then fell off as I got deep into my problem solving before sharing more when it was done - so I want to make an effort to actually share more in-progress, instead of just at the end. 
+- 
