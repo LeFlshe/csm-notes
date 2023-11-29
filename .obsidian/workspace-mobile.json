@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH111/MATH111 - 2023-10-06.md",
-                "mode": "source",
+                "file": "MATH111/MATH111 - 2023-10-30.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MATH111/MATH111 - 2023-10-06.md",
+            "file": "MATH111/MATH111 - 2023-10-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MATH111/MATH111 - 2023-10-06.md",
+            "file": "MATH111/MATH111 - 2023-10-30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MATH111/MATH111 - 2023-10-06.md"
+            "file": "MATH111/MATH111 - 2023-10-30.md"
           }
         }
       }
@@ -144,29 +144,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c84b7156738075b",
+  "active": "cab7ff2733acdc97",
   "lastOpenFiles": [
-    "CHGN121/CHGN121 - 2023-09-29.md",
-    "MATH111/MATH111 - 2023-10-11.md",
-    "MATH111/MATH111 - 2023-10-10.md",
-    "MATH111/MATH111 - 2023-10-20.md",
-    "MATH111/MATH111 - 2023-10-23.md",
-    "MATH111/MATH111 - 2023-10-24.md",
     "MATH111/MATH111 - 2023-10-25.md",
-    "Fall Kickoff/Student Orientation.md",
-    "First Floor Meeting.md",
-    "Virtual Launch/Career Center.md",
-    "CSM101/CSM101 - 2023-08-17.md",
-    "Virtual Launch/Registrar.md",
+    "MATH111/MATH111 - 2023-11-07.md",
+    "MATH111/MATH111 - 2023-11-03.md",
+    "MATH111/MATH111 - 2023-11-13.md",
+    "EBGN201/EBGN201 - 2023-10-10.md",
+    "EBGN201/EBGN201 - 2023-10-31.md",
+    "CSM101/CSM101 - 2023-11-02.md",
+    "EDNS151/EDNS151 - 2023-10-04.md",
+    "EDNS151/EDNS151 - 2023-10-18.md",
+    "EDNS151/EDNS151 - 2023-11-06.md",
+    "EDNS151/EDNS151 - 2023-11-08.md",
+    "EDNS151/EDNS151 - 2023-11-09.md",
+    "MATH111/MATH111 - 2023-11-08.md",
+    "MATH111/MATH111 - 2023-11-10.md",
+    "CHGN121/CHGN121 - 2023-10-02.md",
+    "CHGN121/CHGN121 - 2023-10-04.md",
+    "CHGN121/CHGN121 - 2023-10-09.md",
+    "CHGN121/CHGN121 - 2023-10-11.md",
+    "CHGN121/CHGN121 - 2023-10-13.md",
+    "CHGN121/CHGN121 - 2023-10-27.md",
+    "CHGN121/CHGN121 - 2023-10-25.md",
+    "CHGN121/CHGN121 - 2023-10-30.md",
+    "CHGN121/CHGN121LAB Scratch - 2023-09-26.md",
+    "CHGN121/CHGN121 - 2023-11-10.md",
+    "CHGN121/CHGN121LAB - 2023-08-29.md",
+    "CHGN121/CHGN121 - 2023-11-13.md",
     "Fall Kickoff",
-    "Virtual Launch/Peer Discussion.md",
-    "Virtual Launch/Academic Advising.md",
-    "Virtual Launch/Virtual Launch.md",
-    "Virtual Launch/Initial Session.md",
-    "Virtual Launch/Residence Life.md",
-    "Virtual Launch/Health Insurance.md",
-    "Virtual Launch/Four Offices Presentations.md",
-    "Virtual Launch/Financial Aid.md",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 12.17.45 PM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.42.55 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.35.37 AM.png",
@@ -177,12 +183,6 @@
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.01.20 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 8.29.01 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 8.23.44 AM.png",
-    "Academic Advising.md",
-    "Residence Life.md",
-    "Financial Aid.md",
-    "Registrar.md",
-    "Virtual Launch.md",
-    "Bursar.md",
     "Meta"
   ]
 }

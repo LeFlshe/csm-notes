@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a00f71ffbded717d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHGN121/CHGN121 - 2023-11-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0c234c35d7fdbed",
             "type": "leaf",
             "state": {
@@ -18,14 +30,34 @@
             }
           },
           {
-            "id": "801f56f6a7085d59",
+            "id": "59f7aa5a599f66e1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CHGN121/Resources/Annotated Periodic Table.pdf"
+              }
+            }
+          },
+          {
+            "id": "a9d0dbee64bd909e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-11-13.md",
+                "file": "Econ In-Class 11.28.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b252cb6586624c97",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-27 22.11.19.excalidraw.md"
               }
             }
           }
@@ -96,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-11-13.md",
+                "file": "CHGN121/Resources/Equations Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-11-13.md",
+                "file": "CHGN121/Resources/Equations Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHGN121/CHGN121 - 2023-11-13.md"
+                "file": "CHGN121/Resources/Equations Sheet.pdf"
               }
             }
           },
@@ -178,35 +210,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "801f56f6a7085d59",
+  "active": "d0c234c35d7fdbed",
   "lastOpenFiles": [
-    "CHGN121/CHGN121 - 2023-11-06.md",
-    "CHGN121/CHGN121 - 2023-11-10.md",
-    "CHGN121/CHGN121 - 2023-11-13.md",
-    "CHGN121/Resources/Equations Sheet.pdf",
     "CHGN121/Resources/Annotated Periodic Table.pdf",
-    "CHGN121/CHGN121 - 2023-11-01.md",
-    "CHGN121/CHGN121 - 2023-10-30.md",
-    "CHGN121/CHGN121 - 2023-11-03.md",
-    "CHGN121/CHGN121 - 2023-10-27.md",
-    "CHGN121/CHGN121 - 2023-10-25.md",
-    "CHGN121/CHGN121 - 2023-11-08.md",
-    "CHGN121/CHGN121 - 2023-10-23.md",
-    "CHGN121/CHGN121 - 2023-10-13.md",
-    "MATH111/MATH111 - 2023-11-13.md",
-    "MATH111/MATH111 - 2023-11-08.md",
-    "MATH111/MATH111 - 2023-11-10.md",
-    "MATH111/Trigonometric Identities.md",
-    "MATH111/MATH111 - 2023-10-31.md",
-    "MATH111/MATH111 - 2023-09-25.md",
-    "MATH111/MATH111 - 2023-09-19.md",
-    "MATH111/MATH111 - 2023-09-18.md",
-    "MATH111/MATH111 - 2023-09-15.md",
+    "Econ In-Class 11.28.md",
+    "CHGN121/Resources/Equations Sheet.pdf",
+    "Excalidraw/Drawing 2023-11-27 22.11.19.excalidraw.md",
+    "CHGN121/CHGN121 - 2023-11-27.md",
+    "Excalidraw/Drawing 2023-11-15 12.28.50.excalidraw.md",
+    "MATH111/MATH111 - 2023-11-27.md",
+    "System Folders/Templates/Derivative; Integral Evaluation Template.md",
+    "EDNS151/EDNS151 - 2023-11-27.md",
+    "Untitled.canvas",
+    "EBGN201/Econ Singapore Memo.md",
+    "EBGN201/Econ Beer Memo.md",
+    "EBGN201/Econ Tin Memo.md",
+    "EBGN201/EBGN201 - 2023-10-31.md",
     "MATH111/MATH111 - 2023-10-02.md",
     "MATH111/MATH111 - 2023-10-03.md",
-    "MATH111/MATH111 - 2023-09-29.md",
-    "MATH111/MATH111 - 2023-09-27.md",
     "MATH111/MATH111 - 2023-10-04.md",
+    "MATH111/MATH111 - 2023-10-06.md",
+    "MATH111/MATH111 - 2023-10-09.md",
+    "MATH111/MATH111 - 2023-10-10.md",
+    "MATH111/MATH111 - 2023-10-11.md",
+    "MATH111/MATH111 - 2023-10-18.md",
+    "MATH111/MATH111 - 2023-10-13.md",
+    "MATH111/MATH111 - 2023-10-20.md",
+    "MATH111/MATH111 - 2023-10-23.md",
+    "MATH111/MATH111 - 2023-10-24.md",
+    "MATH111/MATH111 - 2023-10-25.md",
+    "MATH111/MATH111 - 2023-10-30.md",
     "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
     "EDNS151/CFP Fall 2023 Upcycle Everything.pdf",
     "Excalidraw",
