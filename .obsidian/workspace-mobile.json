@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH111/MATH111 - 2023-10-30.md",
-                "mode": "preview",
+                "file": "MATH111/Unit Circle.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MATH111/MATH111 - 2023-10-30.md",
+            "file": "MATH111/Unit Circle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MATH111/MATH111 - 2023-10-30.md",
+            "file": "MATH111/Unit Circle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MATH111/MATH111 - 2023-10-30.md"
+            "file": "MATH111/Unit Circle.md"
           }
         }
       }
@@ -146,6 +146,7 @@
   },
   "active": "cab7ff2733acdc97",
   "lastOpenFiles": [
+    "MATH111/MATH111 - 2023-10-30.md",
     "MATH111/MATH111 - 2023-10-25.md",
     "MATH111/MATH111 - 2023-11-07.md",
     "MATH111/MATH111 - 2023-11-03.md",
@@ -171,7 +172,6 @@
     "CHGN121/CHGN121LAB Scratch - 2023-09-26.md",
     "CHGN121/CHGN121 - 2023-11-10.md",
     "CHGN121/CHGN121LAB - 2023-08-29.md",
-    "CHGN121/CHGN121 - 2023-11-13.md",
     "Fall Kickoff",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 12.17.45 PM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.42.55 AM.png",
