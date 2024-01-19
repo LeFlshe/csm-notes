@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "System Folders/Attachments",
+  "attachmentFolderPath": "System Folders /Attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,

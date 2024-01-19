@@ -1,3 +1,5 @@
+#ebgn201 #econ 
+
 ![[Screenshot 2023-10-03 at 9.04.35 AM.png]]
 
 - They should charge until marginal revenue = marginal cost, which happens at quantity = 12; plugging back in to price, they should charge $5 per unit

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "System Folders/Templates",
+  "templates_folder": "System Folders /Templates",
   "templates_pairs": [
     [
       "",
@@ -15,33 +15,29 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "CHGN121",
-      "template": "System Folders/Templates/Chemistry Template.md"
+      "folder": "MATH112",
+      "template": "System Folders /Templates/Calc 2 Template.md"
     },
     {
-      "folder": "EDNS151",
-      "template": "System Folders/Templates/EDNS151 - Template.md"
+      "folder": "PHGN100",
+      "template": "System Folders /Templates/PHGN 100 Template.md"
     },
     {
-      "folder": "CSM101",
-      "template": "System Folders/Templates/CSM101 Template.md"
+      "folder": "EDNS200",
+      "template": "System Folders /Templates/EDNS200 - Template.md"
     },
     {
-      "folder": "MATH111",
-      "template": "System Folders/Templates/Calc 1 Template.md"
-    },
-    {
-      "folder": "EBGN201",
-      "template": "System Folders/Templates/Econ Template.md"
+      "folder": "HASS298",
+      "template": "System Folders /Templates/HASS298 - Template.md"
     }
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "System Folders/Templates/Subscript Template.md",
-    "System Folders/Templates/Limit Template.md",
-    "System Folders/Templates/Fraction Template.md",
-    "System Folders/Templates/Square Root Template.md",
-    "System Folders/Templates/Derivative; Integral Evaluation Template.md"
+    "System Folders /Templates/Subscript Template.md",
+    "System Folders /Templates/Limit Template.md",
+    "System Folders /Templates/Fraction Template.md",
+    "System Folders /Templates/Square Root Template.md",
+    "System Folders /Templates/Derivative; Integral Evaluation Template.md"
   ],
   "startup_templates": [
     ""

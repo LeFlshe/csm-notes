@@ -11,7 +11,7 @@
 		{"id":"fb22fa54bd62cf1d","type":"text","text":"# Use device location info","x":-390,"y":180,"width":250,"height":60},
 		{"id":"7a616b52df69a1c0","type":"text","text":"# Enter zip code, city, etc","x":110,"y":180,"width":250,"height":60},
 		{"id":"84306f5176d2cab8","type":"text","text":"# Output a list of potential recyclers\n- Include fees if relevant, hours, address, and other relevant information\n- If the user entered a known producer who takes back products, included in the liste\n- ","x":-140,"y":380,"width":250,"height":235},
-		{"id":"949596899d759a9f","type":"file","file":"System Folders/Attachments/ENDS151 App Design Screenshot Representation.png","x":180,"y":450,"width":777,"height":329},
+		{"id":"949596899d759a9f","type":"file","file":"System Folders /Attachments/ENDS151 App Design Screenshot Representation.png","x":180,"y":450,"width":777,"height":329},
 		{"id":"50e69b1a93b408c7","type":"text","text":"# Include a map of locations\n- Similar to this Google result, but for the specific device that the user inputted","x":180,"y":360,"width":420,"height":90},
 		{"id":"974e53f321b46f53","type":"text","text":"## Recycling App Flowchart, Alec Malcangio, 10/1/23","x":220,"y":-380,"width":260,"height":60}
 	],

@@ -81,5 +81,45 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:System Folders /Templates/Limit Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:System Folders /Templates/Subscript Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:System Folders /Templates/Square Root Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:System Folders /Templates/Fraction Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ],
+  "templater-obsidian:System Folders /Templates/Derivative; Integral Evaluation Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
   ]
 }

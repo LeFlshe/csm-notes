@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiRuler2Line",
+      "RiGlobalLine",
+      "FarPaperPlane",
       "FarHospital",
-      "FarPenToSquare",
-      "RiExchangeDollarLine",
-      "RiDivideFill",
-      "RiAddLine"
+      "FarPenToSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,15 +22,19 @@
     },
     "iconInTabsEnabled": false
   },
-  "CHGN121": "RiFlaskFill",
-  "EDNS151": "RiRulerLine",
   "CHGN121/2023-08-17.md": {
     "iconName": null,
     "inheritanceIcon": "RiFlaskFill"
   },
-  "MATH111": "RiDivideFill",
-  "EBGN201": "RiExchangeDollarLine",
-  "CSM101": "RiHomeSmileLine",
-  "MATH111/MATH111 - 2023-11-01.md": "FarHospital",
-  "MATH111/MATH111 - 2023-11-03.md": "FarHospital"
+  "PHGN100": "FarPaperPlane",
+  "MATH112": "RiDivideFill",
+  "Semester 1/CHGN121": "RiFlaskFill",
+  "Semester 1/CSM101": "RiHomeSmileLine",
+  "Semester 1/EBGN201": "RiExchangeDollarLine",
+  "Semester 1/EDNS151": "RiRulerLine",
+  "Semester 1/MATH111": "RiDivideFill",
+  "Semester 1/MATH111/MATH111 - 2023-11-01.md": "FarHospital",
+  "Semester 1/MATH111/MATH111 - 2023-11-03.md": "FarHospital",
+  "HASS298": "RiGlobalLine",
+  "EDNS200": "RiRuler2Line"
 }
