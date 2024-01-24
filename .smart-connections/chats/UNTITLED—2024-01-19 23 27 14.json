@@ -1,0 +1,27 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Summarize this note\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "This note is asking for a summary, but it does not provide any information or context to summarize."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Summarize [[MATH112 - 2024-01-19]] \n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "In this set of notes for MATH112, the topics covered include applications of vectors, circles and spheres in 2D and 3D, vector operations such as addition and subtraction, and the concept of unit vectors. The notes provide examples and explanations for each topic, including formulas and conventions.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[MATH112 - 2024-01-19]]---\n#notes #math112 #math #calc\n\n\n#### Reading Assignment\n13.1 \n\tApplications of vectors, pages 811-813\n13.2\n\tExample 7, p.832\n\nAlright apparently 6c is fun\n- If you're given a problem, feel free to parametrize $y=t$ instead\n\n\n---\n\n## realzies notes\n- Distance is the $\\sqrt()$ of all the differences between components squared\n- So now let's define a 2d circle rq\n\t- $(x-x_{0})^{2} +(y-y_{0})^{2}=r^{2}$\n\t\t- Radius r, centered at $(x_{0},y_{0})$\n\t\t- If it's less than or equal to, it's a disk\n\t\t\t- $\\geq$ is everything outside the circle\n- a 3d circle is known as... a sphere! 🤯\n\t-  $(x-x_{0})^{2} +(y-y_{0})^{2} + (z-z_{0})^{2}=r^{2}$\n\t\t- Astoundingly, it still has radius r, and is now centered at $(x_{0}, y_{0}, z_{0})$\n\t\t\t- $\\leq$ includes everything inside of it, and is called a ball\n\n##### Example\n- Find the sphere centered at the point $(1,2,0)$ that passes through the point $(3,4,5)$\n\t- We need our radius, which is really just finding the distance between the two points it passes through $r^{2}= \\sqrt{ (3-1)^{2} + (4-2)^{2}+ (5-0)^{2}} = r^{2}= \\sqrt{4 + 4 + 25} ||| r^{2}=33$\n\t- $r=\\sqrt{33}$\n- Equation for the sphere is now $(x-1)^{2} + (y-2)^{2} +(z)^{2}=33$\n\n\n### Alright, that was fun with coords, back to vectors\n- Vectors, again, have magnitude and direction \n\t- Let's say we have the point $P= (x_{0}, y_{0})$\n\t\t- and $Q = (x_{1}, y_{1})$\n\t- And we want $\\vec{PQ}$\n\t\t- This is the vector with tail at P and tip at Q\n\t- So $\\vec{PQ}$ would just be $<x_{1}-x_{0}, y_{1}-y_{0}>$\n- Vectors do not give *a single damn* about position\n\t- You can toss a vector anywhere in space\n\t- $P= (3,4), Q=(2,7)$\n\t- $S=(2,-3),T=(1,0)$\n\t- Find the vector $\\vec{PQ}$\n\t\t- This would end up as like, $\\vec{PQ}=<-1,3>$\n\t- Find the vector $\\vec{ST}$\n\t\t- Get like, $<-1,3>$\n\t- Oh hey, $\\vec{PQ}=\\vec{ST}$\n\t- Even though we got here different ways and they're vaguely different points in space, they're actually like, the same vector\n- It's convention if you have the vector $<a,b>$, that this vector would be from the origin\n\t- Convention to call that a position vector\n\t- Rounded brackets are for points\n-\n\n#### Magnitude of a Vector\n- Common notations\n\t- $| <a,b>|=||<a,b>||$\n\t\t- Textbook tends to use single bar like it's an absolute value\n\t\t- These are both equal to $\\sqrt{a^{2}+b^{2}}$\n\t\t\t- Mildly shockingly, this works no matter how many dimensions your vectors have, which is a little surprising\n- Scalar multiplication\n\t- $c<a,b>$, where c is a scalar and $<a,b>$ is our vector\n\t\t- Scalar just means that we scale each component by it\n\t\t- so resultant would just be $<ca,cb>$\n\t\t- if we want the magnitude of $|c<a,b>|$\n\t\t\t- $|<ca,cb>|=\\sqrt{ca^{2}+cb^{2}}$\n\t\t\t\t- Could also just be $\\sqrt{c^{2}(a^{2}+b^{2})}$\n\t\t\t\t- We could drag that out $|c|\\sqrt{a^{2}+b^{2}}$\n\t\t\t\t\t- Abs is to force positive of the c, since any magnitude has to be positive\n\t\t\t\t\t- You're just scaling the mag, same as the rest of the vector! It's not hard!\n##### Examples?\n- if $|c|> 1$ then magnitude increases\n- if $|c|<1$ then we're going to shrink it\n- if just straight up $c >0$, then we keep the same direction\n- if $c<0$, we're looking like a family business based out of waco (flipping)\n- if $c=0$, then we end up with the vector $<0,0>$, that's just a point, it's kinda boring\n\t- it is technically still a vector though \n\n\n#### Vector Addition\n- $<a,b,c>+<c,e,d>\\ = <a+c,b+e,c+d>$\n\t- This works the *exact same* for subtraction\n\t\t- Let's say that first vector was $\\vec{u}$ and the second was the $\\vec{v}$\n- $\\vec{u}+\\vec{v}=\\vec{v}+\\vec{u}$ commutative property goes WILD\n- This is the algebraic approach to adding vectors together\n- There is also the geometric point of view for vectors\n\t- This is what we in the business call \"tip to tail\"\n\t\t- The final resultantant is the original tail to final tip\n\t- Parallelogram also exists but like. bRuh.\n- Easiest way to think about subtraction is like a scalar of $-1$ \n\n\n\n- Oh boy, one final definition\n\t- $\\vec v$ is a unit vector is $|\\vec{v}|=1$\n\t\t- $\\hat\\imath=<1,0,0>$\n\t\t- $\\hat\\jmath=<0,1,0>$\n\t\t- $\\hat k=<0,0,1>$\n\t\t- These are all referred to as the standard or coordinate unit vectors\n\t- If I have some vector $\\vec v$ , I can make a unit vector $\\vec u$ in the same direction ad $\\vec v$\n\t\t- Let $\\vec u$ = $\\frac{1}{|\\vec v|} *\\vec v$\n\t\t- ---END NOTE---\n"
+    }
+  ]
+]

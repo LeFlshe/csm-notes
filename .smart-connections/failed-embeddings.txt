@@ -1,0 +1,543 @@
+
+EDNS200/EDNS200 - 2024-01-10.md
+EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics
+EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Memorable
+EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Prosaic
+EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Significant? Something else
+EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Transcendent?
+EDNS200/EDNS200 - 2024-01-10.md#Justification of Good Design
+EDNS200/EDNS200 - 2024-01-17.md
+EDNS200/EDNS200 - 2024-01-17.md#Balance
+EDNS200/EDNS200 - 2024-01-17.md#Elements of Good Design
+EDNS200/EDNS200 - 2024-01-17.md#Emphasis
+EDNS200/EDNS200 - 2024-01-17.md#Some quick other ones
+HASS298/HASS298 - 2024-01-12.md
+HASS298/HASS298 - 2024-01-22.md
+MATH112/MATH112 - 2024-01-09.md
+MATH112/MATH112 - 2024-01-10.md
+MATH112/MATH112 - 2024-01-10.md#General Goals Today
+MATH112/MATH112 - 2024-01-10.md#General Goals Today#Bracket Notation
+MATH112/MATH112 - 2024-01-10.md#General Goals Today#Scalar Multiplication
+MATH112/MATH112 - 2024-01-10.md#General Goals Today#Triangle Representation
+MATH112/MATH112 - 2024-01-10.md#Parametric Equations
+MATH112/MATH112 - 2024-01-12.md
+MATH112/MATH112 - 2024-01-12.md#Parametrics
+MATH112/MATH112 - 2024-01-12.md#Parametrics#Now les talk about LINES
+MATH112/MATH112 - 2024-01-17.md
+MATH112/MATH112 - 2024-01-17.md#Polar Coordinates!
+MATH112/MATH112 - 2024-01-17.md#Polar Equations!#$r=f(\theta)$
+MATH112/MATH112 - 2024-01-17.md#V-v-vectors!
+MATH112/MATH112 - 2024-01-19.md
+MATH112/MATH112 - 2024-01-19.md#Reading Assignment
+MATH112/MATH112 - 2024-01-19.md#realzies notes
+MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors
+MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors#Magnitude of a Vector
+MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors#Magnitude of a Vector#Examples?
+MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors#Vector Addition
+MATH112/MATH112 - 2024-01-19.md#realzies notes#Example
+MATH112/MATH112 - 2024-01-22.md
+MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)#algebra way
+MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)#geometric way
+MATH112/MATH112 - 2024-01-23.md
+Misc Mines Housekeeping/First Floor Meeting.md
+Misc Mines Housekeeping/Second Year Housing Zoom.md
+Misc Mines Housekeeping/Second Year Housing Zoom.md#1750 Jackson
+Misc Mines Housekeeping/Second Year Housing Zoom.md#Application Timeline
+Misc Mines Housekeeping/Second Year Housing Zoom.md#Environmental Justice SLC
+Misc Mines Housekeeping/Second Year Housing Zoom.md#Jackson v Maple
+Misc Mines Housekeeping/Second Year Housing Zoom.md#Maple Hall
+Misc Mines Housekeeping/Second Year Housing Zoom.md#Mines Park
+Misc Mines Housekeeping/Second Year Housing Zoom.md#Roommate Groups
+Misc Mines Housekeeping/Student Orientation.md
+Misc Mines Housekeeping/Student Orientation.md#Community Standards Office
+Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life
+Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life#Memories about Swim Lessons
+Misc Mines Housekeeping/Student Orientation.md#Mines police
+Misc Mines Housekeeping/Student Orientation.md#Title IX Stuff
+PHGN100/PHGN 100 - 2024-01-22.md
+PHGN100/PHGN 100 STUDIO - 2024-01-18.md
+PHGN100/PHGN 100 STUDIO - 2024-01-23.md
+PHGN100/PHGN 100 STUDIO EI - 2024-01-23.md
+PHGN100/PHGN 100 STUDIO PSSD - 2024-01-18.md
+PHGN100/PHGN100 Studio 1-1 Calc & Kinematics.md
+PHGN100/PHGN100STUDIO - 2024-01-11.md
+PHGN100/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
+PHGN100/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation#EI Follow Up Questions
+README.md
+Semester 1/CHGN121/CHGN121 - 2023-08-21.md
+Semester 1/CHGN121/CHGN121 - 2023-08-23.md
+Semester 1/CHGN121/CHGN121 - 2023-08-23.md#Fall '22 Cohort Advice
+Semester 1/CHGN121/CHGN121 - 2023-08-23.md#[[Measurements]]
+Semester 1/CHGN121/CHGN121 - 2023-08-23.md#[[Significant Figures]] Rules#Algebra Rules#Adding or Subtracting
+Semester 1/CHGN121/CHGN121 - 2023-08-23.md#[[Significant Figures]] Rules#Significant Digits
+Semester 1/CHGN121/CHGN121 - 2023-08-25.md
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Change#Chemical Change
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Change#Physical Change
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Classifying [[States of Matter]]#Gas (g)
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Classifying [[States of Matter]]#Liquid (*l*)
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Classifying [[States of Matter]]#Solids (s)
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Examples
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Properties of Matter#Extensive Properties
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Properties of Matter#Intensive Property
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Recap
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Review?#Precision vs Accuracy
+Semester 1/CHGN121/CHGN121 - 2023-08-28.md#Review?#Structure -> Properties -> Function
+Semester 1/CHGN121/CHGN121 - 2023-08-30.md
+Semester 1/CHGN121/CHGN121 - 2023-08-30.md#Classifying Matter (Based on composition)#Mixture
+Semester 1/CHGN121/CHGN121 - 2023-08-30.md#Classifying Matter (Based on composition)#Mixture#Heterogeneous Mixture
+Semester 1/CHGN121/CHGN121 - 2023-08-30.md#Classifying Matter (Based on composition)#Mixture#Homogenous Mixture
+Semester 1/CHGN121/CHGN121 - 2023-08-30.md#Classifying Matter (Based on composition)#Pure Substance
+Semester 1/CHGN121/CHGN121 - 2023-08-30.md#Classifying Matter (Based on composition)#Pure Substance#Further breakdown of pure substances
+Semester 1/CHGN121/CHGN121 - 2023-09-01.md
+Semester 1/CHGN121/CHGN121 - 2023-09-01.md#Atomic Stuff
+Semester 1/CHGN121/CHGN121 - 2023-09-01.md#Avogadro's Constant
+Semester 1/CHGN121/CHGN121 - 2023-09-01.md#Avogadro's Constant#Other thing
+Semester 1/CHGN121/CHGN121 - 2023-09-01.md#Clicker stuff
+Semester 1/CHGN121/CHGN121 - 2023-09-06.md
+Semester 1/CHGN121/CHGN121 - 2023-09-08.md
+Semester 1/CHGN121/CHGN121 - 2023-09-11.md
+Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Electron Distribution Examples
+Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Electron Shenanigans
+Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Intramolecular Bonds
+Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Ionic Bonds
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md#IMFS
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md#Ionic vs Molecular
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md#Quick calc examples
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md#notes ig#Covalent Compounds
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md#notes ig#Ionic Compounds
+Semester 1/CHGN121/CHGN121 - 2023-09-13.md#notes ig#Metals
+Semester 1/CHGN121/CHGN121 - 2023-09-15.md
+Semester 1/CHGN121/CHGN121 - 2023-09-18.md
+Semester 1/CHGN121/CHGN121 - 2023-09-18.md#Chemical Naming
+Semester 1/CHGN121/CHGN121 - 2023-09-18.md#oh thank god we finally got to talking about reactions
+Semester 1/CHGN121/CHGN121 - 2023-09-20.md
+Semester 1/CHGN121/CHGN121 - 2023-09-20.md#actual notes
+Semester 1/CHGN121/CHGN121 - 2023-09-20.md#actual notes (real)
+Semester 1/CHGN121/CHGN121 - 2023-09-20.md#actual notes#scratchwork
+Semester 1/CHGN121/CHGN121 - 2023-09-22.md
+Semester 1/CHGN121/CHGN121 - 2023-09-22.md#Preclass Clickers
+Semester 1/CHGN121/CHGN121 - 2023-09-22.md#Real notes time
+Semester 1/CHGN121/CHGN121 - 2023-09-22.md#What if we were given volume of reactant instead of mass?
+Semester 1/CHGN121/CHGN121 - 2023-09-22.md#What if we were given volume of reactant instead of mass?#grilled cheese (reprise)
+Semester 1/CHGN121/CHGN121 - 2023-09-25.md
+Semester 1/CHGN121/CHGN121 - 2023-09-25.md#more fun stoich
+Semester 1/CHGN121/CHGN121 - 2023-09-25.md#survey review stuff
+Semester 1/CHGN121/CHGN121 - 2023-09-27.md
+Semester 1/CHGN121/CHGN121 - 2023-09-29.md
+Semester 1/CHGN121/CHGN121 - 2023-10-02.md
+Semester 1/CHGN121/CHGN121 - 2023-10-02.md#Precipitation Reactions
+Semester 1/CHGN121/CHGN121 - 2023-10-02.md#Three Reasons for a reaction to occur
+Semester 1/CHGN121/CHGN121 - 2023-10-04.md
+Semester 1/CHGN121/CHGN121 - 2023-10-04.md#notes
+Semester 1/CHGN121/CHGN121 - 2023-10-04.md#notes#acid base time
+Semester 1/CHGN121/CHGN121 - 2023-10-04.md#notes#acid base time#acids
+Semester 1/CHGN121/CHGN121 - 2023-10-04.md#notes#bases
+Semester 1/CHGN121/CHGN121 - 2023-10-06.md
+Semester 1/CHGN121/CHGN121 - 2023-10-06.md#Chem 1 being for babies#Acids
+Semester 1/CHGN121/CHGN121 - 2023-10-06.md#Chem 1 being for babies#Bases
+Semester 1/CHGN121/CHGN121 - 2023-10-06.md#strong acids and bases
+Semester 1/CHGN121/CHGN121 - 2023-10-09.md
+Semester 1/CHGN121/CHGN121 - 2023-10-09.md#clicker questions
+Semester 1/CHGN121/CHGN121 - 2023-10-09.md#notes probably#redox (combustion) time
+Semester 1/CHGN121/CHGN121 - 2023-10-11.md
+Semester 1/CHGN121/CHGN121 - 2023-10-11.md#activity series
+Semester 1/CHGN121/CHGN121 - 2023-10-11.md#toDo
+Semester 1/CHGN121/CHGN121 - 2023-10-13.md
+Semester 1/CHGN121/CHGN121 - 2023-10-13.md#activity series stuff
+Semester 1/CHGN121/CHGN121 - 2023-10-13.md#baby clicker questions for babies
+Semester 1/CHGN121/CHGN121 - 2023-10-18.md
+Semester 1/CHGN121/CHGN121 - 2023-10-20.md
+Semester 1/CHGN121/CHGN121 - 2023-10-20.md#Clickers
+Semester 1/CHGN121/CHGN121 - 2023-10-20.md#Get real.
+Semester 1/CHGN121/CHGN121 - 2023-10-20.md#partial pressures
+Semester 1/CHGN121/CHGN121 - 2023-10-20.md#partial pressures#time to talk about why ideal is cringe
+Semester 1/CHGN121/CHGN121 - 2023-10-23.md
+Semester 1/CHGN121/CHGN121 - 2023-10-25.md
+Semester 1/CHGN121/CHGN121 - 2023-10-27.md
+Semester 1/CHGN121/CHGN121 - 2023-10-27.md#ion sizes
+Semester 1/CHGN121/CHGN121 - 2023-10-27.md#quick review of wednesday
+Semester 1/CHGN121/CHGN121 - 2023-10-30.md
+Semester 1/CHGN121/CHGN121 - 2023-10-30.md#lecture *stuff*
+Semester 1/CHGN121/CHGN121 - 2023-10-30.md#lecture *stuff*#Ionization Energy
+Semester 1/CHGN121/CHGN121 - 2023-11-01.md
+Semester 1/CHGN121/CHGN121 - 2023-11-03.md
+Semester 1/CHGN121/CHGN121 - 2023-11-03.md#oh boy, clickers for monday
+Semester 1/CHGN121/CHGN121 - 2023-11-03.md#oh boy, clickers for monday#formal charge
+Semester 1/CHGN121/CHGN121 - 2023-11-06.md
+Semester 1/CHGN121/CHGN121 - 2023-11-10.md
+Semester 1/CHGN121/CHGN121 - 2023-11-15.md
+Semester 1/CHGN121/CHGN121 - 2023-11-15.md#hydrogen bond quick stuff
+Semester 1/CHGN121/CHGN121 - 2023-11-15.md#property shenanigans
+Semester 1/CHGN121/CHGN121 - 2023-11-27.md
+Semester 1/CHGN121/CHGN121 - 2023-11-29.md
+Semester 1/CHGN121/CHGN121 - 2023-12-04.md
+Semester 1/CHGN121/CHGN121LAB - 2023-08-29.md
+Semester 1/CHGN121/CHGN121LAB - 2023-08-29.md#Actual Lab
+Semester 1/CHGN121/CHGN121LAB - 2023-08-29.md#Prelab#Definitions
+Semester 1/CHGN121/CHGN121LAB - 2023-08-29.md#Prelab#Equations:
+Semester 1/CHGN121/CHGN121LAB - 2023-08-29.md#Prelab#Q Test
+Semester 1/CHGN121/CHGN121LAB Scratch - 2023-09-26.md
+Semester 1/CHGN121/Ion.md
+Semester 1/CHGN121/MMM Scratchpaper.md
+Semester 1/CHGN121/MMM Scratchpaper.md#Q11:
+Semester 1/CHGN121/MMM Scratchpaper.md#Q15:
+Semester 1/CHGN121/MMM Scratchpaper.md#Q16:
+Semester 1/CHGN121/MMM Scratchpaper.md#Q17:
+Semester 1/CHGN121/MMM Scratchpaper.md#Q19:
+Semester 1/CHGN121/MMM Scratchpaper.md#Q20:
+Semester 1/CHGN121/Measurements.md
+Semester 1/CHGN121/Resources/Atomic Shenanigans.md
+Semester 1/CHGN121/Rocket Scratchpaper.md
+Semester 1/CHGN121/Significant Figures.md
+Semester 1/CHGN121/Significant Figures.md#Significant Figures Rules
+Semester 1/CHGN121/Significant Figures.md#Significant Figures Rules#Algebra Rules#Adding or Subtracting
+Semester 1/CHGN121/States of Matter.md
+Semester 1/CHGN121/States of Matter.md#Gas
+Semester 1/CHGN121/States of Matter.md#Liquid
+Semester 1/CHGN121/States of Matter.md#Solids
+Semester 1/CSM101/CSM101 - 2023-08-24.md
+Semester 1/CSM101/CSM101 - 2023-08-24.md#Classroom Contract
+Semester 1/CSM101/CSM101 - 2023-08-24.md#Classroom Contract#Be Treated
+Semester 1/CSM101/CSM101 - 2023-08-31.md
+Semester 1/CSM101/CSM101 - 2023-09-07.md
+Semester 1/CSM101/CSM101 - 2023-09-07.md#Career Fair, Career Center, etc
+Semester 1/CSM101/CSM101 - 2023-09-07.md#Career Fair, Career Center, etc#Career Fair
+Semester 1/CSM101/CSM101 - 2023-09-07.md#Career Fair, Career Center, etc#Diggernet
+Semester 1/CSM101/CSM101 - 2023-09-14.md
+Semester 1/CSM101/CSM101 - 2023-09-21.md
+Semester 1/CSM101/CSM101 - 2023-09-28.md
+Semester 1/CSM101/CSM101 - 2023-10-19.md
+Semester 1/CSM101/CSM101 - 2023-11-02.md
+Semester 1/CSM101/CSM101 - 2023-11-02.md#General First-Year Advice
+Semester 1/CSM101/CSM101 - 2023-11-02.md#General Q&A
+Semester 1/CSM101/CSM101 - 2023-11-02.md#Questions
+Semester 1/CSM101/CSM101 - Faculty Connection Assignment.md
+Semester 1/CSM101/CSM101 - Scavenger Hunt.md
+Semester 1/CSM101/Plan For "What's Your Story" Project.md
+Semester 1/CSM101/Plan For "What's Your Story" Project.md#Art Pieces#Original Picture:  April 2017
+Semester 1/CSM101/Plan For "What's Your Story" Project.md#Art Pieces#Piece 1: May 2019
+Semester 1/CSM101/Plan For "What's Your Story" Project.md#Art Pieces#Piece 2: July 2022
+Semester 1/CSM101/Plan For "What's Your Story" Project.md#Art Pieces#Piece 3: June 2023
+Semester 1/CSM101/Plan For "What's Your Story" Project.md#Plan: Presentation#Background:
+Semester 1/CSM101/What's Your Story Artist's Note.md
+Semester 1/EBGN201/08 Preclass.md
+Semester 1/EBGN201/Coal Mine Analysis.md
+Semester 1/EBGN201/Colorado Retail Delivery Fees.md
+Semester 1/EBGN201/Cost-Benefit Principle.md
+Semester 1/EBGN201/EBGN Mod 5 in class.md
+Semester 1/EBGN201/EBGN201 - 2023-08-22.md
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#Decision Making Core Principles#Pizza Activity
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#Decision Making Core Principles#[[Cost-Benefit Principle]]
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#Decision Making Core Principles#[[Interdependence Principle]]
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#Decision Making Core Principles#[[Interdependence Principle]]#Hecla Mining Trucks
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#Decision Making Core Principles#[[Marginal Principle]]
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#Decision Making Core Principles#[[Opportunity Cost]]
+Semester 1/EBGN201/EBGN201 - 2023-08-29.md#HINT
+Semester 1/EBGN201/EBGN201 - 2023-09-05.md
+Semester 1/EBGN201/EBGN201 - 2023-09-05.md#Demand
+Semester 1/EBGN201/EBGN201 - 2023-09-05.md#Supply
+Semester 1/EBGN201/EBGN201 - 2023-09-18.md
+Semester 1/EBGN201/EBGN201 - 2023-09-19.md
+Semester 1/EBGN201/EBGN201 - 2023-09-26.md
+Semester 1/EBGN201/EBGN201 - 2023-09-26.md#Government Regulations
+Semester 1/EBGN201/EBGN201 - 2023-09-26.md#Price Regulations
+Semester 1/EBGN201/EBGN201 - 2023-09-26.md#Price Regulations#Quantity Regulations
+Semester 1/EBGN201/EBGN201 - 2023-09-26.md#efficiency
+Semester 1/EBGN201/EBGN201 - 2023-10-03.md
+Semester 1/EBGN201/EBGN201 - 2023-10-03.md#Market Power
+Semester 1/EBGN201/EBGN201 - 2023-10-03.md#Market Power#Demand Curves
+Semester 1/EBGN201/EBGN201 - 2023-10-03.md#What is marginal revenue?
+Semester 1/EBGN201/EBGN201 - 2023-10-10.md
+Semester 1/EBGN201/EBGN201 - 2023-10-24.md
+Semester 1/EBGN201/EBGN201 - 2023-10-31.md
+Semester 1/EBGN201/Econ Beer Memo.md
+Semester 1/EBGN201/Econ Beer Memo.md#Comparison to Other States
+Semester 1/EBGN201/Econ Beer Memo.md#Economic Rationales for Beer Tax
+Semester 1/EBGN201/Econ Beer Memo.md#Economic Rationales for Beer Tax#Effects of the tax
+Semester 1/EBGN201/Econ Beer Memo.md#Economic Rationales for Beer Tax#Impact on Other Markets
+Semester 1/EBGN201/Econ Beer Memo.md#Summary
+Semester 1/EBGN201/Econ Beer Memo.md#Tables of Economic Values#Assorted Excise Taxes
+Semester 1/EBGN201/Econ Beer Memo.md#Tables of Economic Values#Miscellaneous Calculations
+Semester 1/EBGN201/Econ Beer Memo.md#Tables of Economic Values#Works cited
+Semester 1/EBGN201/Econ In-Class 11.28.md
+Semester 1/EBGN201/Econ Singapore Memo.md
+Semester 1/EBGN201/Econ Singapore Memo.md#Economic Growth Analysis
+Semester 1/EBGN201/Econ Singapore Memo.md#Empirical Analysis Table
+Semester 1/EBGN201/Econ Singapore Memo.md#Recommendation to The Board
+Semester 1/EBGN201/Econ Singapore Memo.md#Specific Analysis of the 1970s
+Semester 1/EBGN201/Econ Tin Memo.md
+Semester 1/EBGN201/In Class Activity ( Movie Tickets).md#Part 1
+Semester 1/EBGN201/In Class Activity ( Movie Tickets).md#Part 2
+Semester 1/EBGN201/In-Class Activity (Delivery prices).md
+Semester 1/EBGN201/Interdependence Principle.md
+Semester 1/EBGN201/Landmine Clearance in Cambodia.md
+Semester 1/EBGN201/Marginal Principle.md
+Semester 1/EBGN201/Opportunity Cost.md
+Semester 1/EBGN201/Price Discrimination Pre-Class.md
+Semester 1/EDNS151/Drafting for Mod 1 Report.md
+Semester 1/EDNS151/EDNS151 - 2023-08-21.md
+Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Homework
+Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Homework#Design a Container
+Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Teams Bug List#Dysfunctional Teams
+Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Teams Bug List#High Functioning Team
+Semester 1/EDNS151/EDNS151 - 2023-08-23.md
+Semester 1/EDNS151/EDNS151 - 2023-08-28.md
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#done for next week
+Semester 1/EDNS151/EDNS151 - 2023-09-06.md
+Semester 1/EDNS151/EDNS151 - 2023-09-11.md
+Semester 1/EDNS151/EDNS151 - 2023-09-13.md
+Semester 1/EDNS151/EDNS151 - 2023-09-13.md#Feedback from Other Groups
+Semester 1/EDNS151/EDNS151 - 2023-09-13.md#notes
+Semester 1/EDNS151/EDNS151 - 2023-09-18.md
+Semester 1/EDNS151/EDNS151 - 2023-09-20.md
+Semester 1/EDNS151/EDNS151 - 2023-09-25.md
+Semester 1/EDNS151/EDNS151 - 2023-09-27.md
+Semester 1/EDNS151/EDNS151 - 2023-09-27.md#professional attire
+Semester 1/EDNS151/EDNS151 - 2023-09-27.md#professional attire#Business Professional
+Semester 1/EDNS151/EDNS151 - 2023-09-27.md#professional attire#Casual
+Semester 1/EDNS151/EDNS151 - 2023-10-04.md
+Semester 1/EDNS151/EDNS151 - 2023-10-04.md#Suggested Presentation Outline
+Semester 1/EDNS151/EDNS151 - 2023-10-04.md#Suggested Presentation Outline#Presentation stuff#Formatting
+Semester 1/EDNS151/EDNS151 - 2023-10-04.md#Suggested Presentation Outline#Presentation stuff#Know your audience
+Semester 1/EDNS151/EDNS151 - 2023-10-11.md
+Semester 1/EDNS151/EDNS151 - 2023-10-18.md
+Semester 1/EDNS151/EDNS151 - 2023-11-06.md
+Semester 1/EDNS151/EDNS151 Final Reflection.md
+Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas
+Semester 1/EDNS151/EDNS151 scratchpaper.md
+Semester 1/EDNS151/EDNS151LAB - 2023-08-24.md
+Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md
+Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches
+Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches#Adding Depth to Sketches
+Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches#Arrows
+Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches#Make sketches communicate meaningful info!
+Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches#What to aim for in sketches
+Semester 1/EDNS151/ENDS151 Looks-Like Prototype Upload.md
+Semester 1/EDNS151/Group Meetings/First Group Meeting/Bugs About Waste.md
+Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas
+Semester 1/EDNS151/Group Meetings/First Group Meeting/Electronic Waste.md
+Semester 1/EDNS151/Group Meetings/First Group Meeting/Top 5 Hard to Recycle.md
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md#Possible Implementations
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md#Responsibilities
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md#Validation
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Kiosk.md
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Kiosk.md#Possible Implementations
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Kiosk.md#Responsibilities
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Kiosk.md#Validation
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Implementations
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Requirements
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Requirements#Key Functionality
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Stakeholder Feedback
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Validation
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md#Possible Implementations
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md#Validation
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md#Implementations
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md#Responsibilities
+Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md#Validation
+Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas
+Semester 1/EDNS151/Group Meetings/MERC Drafting/MERC Planning.md
+Semester 1/EDNS151/Introduce Yourself.md
+Semester 1/EDNS151/Introduce Yourself.md#Assignment
+Semester 1/EDNS151/Introduce Yourself.md#Script
+Semester 1/EDNS151/Librarian Meeting.md
+Semester 1/EDNS151/Librarian Meeting.md#Authoritative
+Semester 1/EDNS151/Librarian Meeting.md#Problem Stuff
+Semester 1/EDNS151/Librarian Meeting.md#Scholarly
+Semester 1/EDNS151/Mod 3 Reflection.md
+Semester 1/EDNS151/Module 2 Reflection.md
+Semester 1/MATH111/Concepts/Concavity.md
+Semester 1/MATH111/Concepts/Derivative.md
+Semester 1/MATH111/Concepts/Limit.md
+Semester 1/MATH111/Latex Scratchpaper.md
+Semester 1/MATH111/MATH111 - 2023-08-21.md
+Semester 1/MATH111/MATH111 - 2023-08-22.md
+Semester 1/MATH111/MATH111 - 2023-08-23.md
+Semester 1/MATH111/MATH111 - 2023-08-23.md#Goals
+Semester 1/MATH111/MATH111 - 2023-08-23.md#Goals#Examples
+Semester 1/MATH111/MATH111 - 2023-08-23.md#Goals#Examples but again
+Semester 1/MATH111/MATH111 - 2023-08-23.md#Goals#Examples but again#Theorem: Relationship between one-sided and two-sided limits
+Semester 1/MATH111/MATH111 - 2023-08-25.md
+Semester 1/MATH111/MATH111 - 2023-08-25.md#Trig Stuff (Review)
+Semester 1/MATH111/MATH111 - 2023-08-25.md#Trig Stuff (Review)#Special Right Triangles#30-60-90
+Semester 1/MATH111/MATH111 - 2023-08-25.md#Trig Stuff (Review)#Special Right Triangles#45-45-90
+Semester 1/MATH111/MATH111 - 2023-08-25.md#Trig Stuff (Review)#[[Unit Circle]] Stuff
+Semester 1/MATH111/MATH111 - 2023-08-28.md
+Semester 1/MATH111/MATH111 - 2023-08-28.md#Identities#Double/Half-Angle Identities
+Semester 1/MATH111/MATH111 - 2023-08-28.md#Identities#Double/Half-Angle Identities#Example
+Semester 1/MATH111/MATH111 - 2023-08-28.md#Identities#Pythagorean Identities
+Semester 1/MATH111/MATH111 - 2023-08-29.md
+Semester 1/MATH111/MATH111 - 2023-08-29.md#Big Goal: Evaluating Limits Algebraically#Elementary
+Semester 1/MATH111/MATH111 - 2023-08-29.md#Big Goal: Evaluating Limits Algebraically#Quick Review:
+Semester 1/MATH111/MATH111 - 2023-08-29.md#Big Goal: Evaluating Limits Algebraically#Theorem 2.3: Limit Laws
+Semester 1/MATH111/MATH111 - 2023-08-29.md#Big Goal: Evaluating Limits Algebraically#Theorem 2.3: Limit Laws#Ex
+Semester 1/MATH111/MATH111 - 2023-08-30.md
+Semester 1/MATH111/MATH111 - 2023-08-30.md#New Strategy!#Multiply by the conjugate
+Semester 1/MATH111/MATH111 - 2023-08-30.md#Pro Tip: Only multiply the conjugate terms
+Semester 1/MATH111/MATH111 - 2023-08-30.md#Whatcha do when the limit comes for you?
+Semester 1/MATH111/MATH111 - 2023-08-30.md#Whatcha do when the limit comes for you?#Ex
+Semester 1/MATH111/MATH111 - 2023-09-01.md
+Semester 1/MATH111/MATH111 - 2023-09-01.md#Definition
+Semester 1/MATH111/MATH111 - 2023-09-01.md#Infinite Limits {bum bum bum}
+Semester 1/MATH111/MATH111 - 2023-09-01.md#Infinite Limits {bum bum bum}#Expectation for Limit Answers
+Semester 1/MATH111/MATH111 - 2023-09-01.md#Lil Bit of 2.3 (Computing piecewise algebraically)
+Semester 1/MATH111/MATH111 - 2023-09-05.md
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Any number over $\infty$ is 0#Yet more practice problems
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Definition: Horizontal Asymptote
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Definition: Horizontal Asymptote#Couple practice problems
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Limits at Infinity
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Technique for Limits to Infinity (with rational functions)#Example
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Technique for Limits to Infinity (with rational functions)#Example but again
+Semester 1/MATH111/MATH111 - 2023-09-05.md#Technique for Limits to Infinity (with rational functions)#Now that we've done that icky, gross method, back to shortcuts
+Semester 1/MATH111/MATH111 - 2023-09-06.md
+Semester 1/MATH111/MATH111 - 2023-09-06.md#Example
+Semester 1/MATH111/MATH111 - 2023-09-06.md#The real example
+Semester 1/MATH111/MATH111 - 2023-09-06.md#ok other example rq
+Semester 1/MATH111/MATH111 - 2023-09-08.md
+Semester 1/MATH111/MATH111 - 2023-09-08.md#Log Rules
+Semester 1/MATH111/MATH111 - 2023-09-08.md#Notes
+Semester 1/MATH111/MATH111 - 2023-09-08.md#Notes#Practice stuff
+Semester 1/MATH111/MATH111 - 2023-09-11.md
+Semester 1/MATH111/MATH111 - 2023-09-11.md#Continuity Checklist
+Semester 1/MATH111/MATH111 - 2023-09-11.md#Continuity Checklist#Checking some continuity jazz
+Semester 1/MATH111/MATH111 - 2023-09-11.md#Continuity Checklist#checking more continuity jazz
+Semester 1/MATH111/MATH111 - 2023-09-12.md
+Semester 1/MATH111/MATH111 - 2023-09-13.md
+Semester 1/MATH111/MATH111 - 2023-09-13.md#3.1 Definition of the [[Derivative]]
+Semester 1/MATH111/MATH111 - 2023-09-13.md#3.1 Definition of the [[Derivative]]#Derivative Time.
+Semester 1/MATH111/MATH111 - 2023-09-13.md#3.1 Definition of the [[Derivative]]#Derivative Time.#Quick Example (Reprise (Reprise))
+Semester 1/MATH111/MATH111 - 2023-09-13.md#3.1 Definition of the [[Derivative]]#Quick Example
+Semester 1/MATH111/MATH111 - 2023-09-13.md#3.1 Definition of the [[Derivative]]#Quick Example (Reprise)
+Semester 1/MATH111/MATH111 - 2023-09-13.md#3.1 Definition of the [[Derivative]]#Quickly, scramble!
+Semester 1/MATH111/MATH111 - 2023-09-15.md
+Semester 1/MATH111/MATH111 - 2023-09-18.md
+Semester 1/MATH111/MATH111 - 2023-09-19.md
+Semester 1/MATH111/MATH111 - 2023-09-19.md#Alright time to learn shortcuts#Constant Multiple Rule
+Semester 1/MATH111/MATH111 - 2023-09-19.md#Alright time to learn shortcuts#Constant Rule
+Semester 1/MATH111/MATH111 - 2023-09-19.md#Alright time to learn shortcuts#Example
+Semester 1/MATH111/MATH111 - 2023-09-19.md#Alright time to learn shortcuts#Power Rule
+Semester 1/MATH111/MATH111 - 2023-09-19.md#Alright time to learn shortcuts#Sum (and Difference) Rule
+Semester 1/MATH111/MATH111 - 2023-09-19.md#Notion aside
+Semester 1/MATH111/MATH111 - 2023-09-19.md#we did some matching stuff
+Semester 1/MATH111/MATH111 - 2023-09-25.md
+Semester 1/MATH111/MATH111 - 2023-09-25.md#okie dokie time for the real notes#Product Rule
+Semester 1/MATH111/MATH111 - 2023-09-25.md#okie dokie time for the real notes#Product Rule#Example: Find $h'(x)$ = $h(x) = 6x^{3} (2x^{2} -1 )$
+Semester 1/MATH111/MATH111 - 2023-09-25.md#okie dokie time for the real notes#Product Rule#ex (again) Find $f'(x) = 2x^2e^x$
+Semester 1/MATH111/MATH111 - 2023-09-25.md#okie dokie time for the real notes#Product Rule#ex(three) Find $h'(x)(x^2+1)(3x^{-5} +x^{-1})$
+Semester 1/MATH111/MATH111 - 2023-09-26.md
+Semester 1/MATH111/MATH111 - 2023-09-26.md#Derivatives of Trig Functions
+Semester 1/MATH111/MATH111 - 2023-09-26.md#Quotient Rule
+Semester 1/MATH111/MATH111 - 2023-09-26.md#Quotient Rule#Ex
+Semester 1/MATH111/MATH111 - 2023-09-27.md
+Semester 1/MATH111/MATH111 - 2023-09-29.md
+Semester 1/MATH111/MATH111 - 2023-10-02.md
+Semester 1/MATH111/MATH111 - 2023-10-02.md#Chain Rule Objectives
+Semester 1/MATH111/MATH111 - 2023-10-02.md#Chain Rule Objectives#ex
+Semester 1/MATH111/MATH111 - 2023-10-02.md#Examples (but again)#Let $y = \sqrt{x^4-7x}$
+Semester 1/MATH111/MATH111 - 2023-10-02.md#Generalization Calls
+Semester 1/MATH111/MATH111 - 2023-10-03.md
+Semester 1/MATH111/MATH111 - 2023-10-04.md
+Semester 1/MATH111/MATH111 - 2023-10-06.md
+Semester 1/MATH111/MATH111 - 2023-10-09.md
+Semester 1/MATH111/MATH111 - 2023-10-09.md#Exponential Log Rules
+Semester 1/MATH111/MATH111 - 2023-10-09.md#Logarithmic Differentiation
+Semester 1/MATH111/MATH111 - 2023-10-09.md#Proof for non- $e$ log base
+Semester 1/MATH111/MATH111 - 2023-10-09.md#Quick Derivative Log Rules (Copy pasted from Friday)
+Semester 1/MATH111/MATH111 - 2023-10-10.md
+Semester 1/MATH111/MATH111 - 2023-10-11.md
+Semester 1/MATH111/MATH111 - 2023-10-11.md#Derivatives of Inverse Trig Functions
+Semester 1/MATH111/MATH111 - 2023-10-11.md#Maxima & Minima#Absolute Maxima and Minima
+Semester 1/MATH111/MATH111 - 2023-10-11.md#Maxima & Minima#Extreme Value Theorem
+Semester 1/MATH111/MATH111 - 2023-10-11.md#Maxima & Minima#Local Maxima and Minima
+Semester 1/MATH111/MATH111 - 2023-10-13.md
+Semester 1/MATH111/MATH111 - 2023-10-13.md#More extrema stuff#Critical Numbers / Critical Points
+Semester 1/MATH111/MATH111 - 2023-10-13.md#More extrema stuff#Critical Numbers / Critical Points#Example
+Semester 1/MATH111/MATH111 - 2023-10-13.md#More extrema stuff#Critical Numbers / Critical Points#Procedure
+Semester 1/MATH111/MATH111 - 2023-10-18.md
+Semester 1/MATH111/MATH111 - 2023-10-18.md#We gots to talk about the mean value theorem
+Semester 1/MATH111/MATH111 - 2023-10-18.md#We gots to talk about the mean value theorem#ex
+Semester 1/MATH111/MATH111 - 2023-10-20.md
+Semester 1/MATH111/MATH111 - 2023-10-20.md#How we can use the first derivative to test to identify local maxima and minima
+Semester 1/MATH111/MATH111 - 2023-10-20.md#How we can use the first derivative to test to identify local maxima and minima#Example
+Semester 1/MATH111/MATH111 - 2023-10-20.md#How we can use the first derivative to test to identify local maxima and minima#Example 2
+Semester 1/MATH111/MATH111 - 2023-10-20.md#How we can use the first derivative to test to identify local maxima and minima#First Derivative Test
+Semester 1/MATH111/MATH111 - 2023-10-23.md
+Semester 1/MATH111/MATH111 - 2023-10-23.md#Exam Stuff#Derivative Rules#Topics/Concepts:
+Semester 1/MATH111/MATH111 - 2023-10-23.md#Exam Stuff#Inverse Trig
+Semester 1/MATH111/MATH111 - 2023-10-24.md
+Semester 1/MATH111/MATH111 - 2023-10-24.md#Second Derivative Test
+Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Concave Down
+Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Concave Up
+Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Example
+Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Inflection Point
+Semester 1/MATH111/MATH111 - 2023-10-25.md
+Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#Extra Theorem
+Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#How to Optimization
+Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#How to Optimization#Example
+Semester 1/MATH111/MATH111 - 2023-10-30.md
+Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff
+Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff#Rectangular Solid
+Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff#Right Circular Cylinder
+Semester 1/MATH111/MATH111 - 2023-10-31.md
+Semester 1/MATH111/MATH111 - 2023-11-01.md
+Semester 1/MATH111/MATH111 - 2023-11-01.md#L'Hôpital's Rule
+Semester 1/MATH111/MATH111 - 2023-11-01.md#L'Hôpital's Rule#Ex
+Semester 1/MATH111/MATH111 - 2023-11-07.md
+Semester 1/MATH111/MATH111 - 2023-11-07.md#NOTE
+Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)
+Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)#Constant Multiple and Sum Rules
+Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)#Integrals of Inverse Trig & Logs n Shit
+Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)#Integrals of Trigonometric functions
+Semester 1/MATH111/MATH111 - 2023-11-08.md
+Semester 1/MATH111/MATH111 - 2023-11-08.md#Real Notes
+Semester 1/MATH111/MATH111 - 2023-11-08.md#examples:#ex 1:
+Semester 1/MATH111/MATH111 - 2023-11-08.md#examples:#ex 2
+Semester 1/MATH111/MATH111 - 2023-11-10.md
+Semester 1/MATH111/MATH111 - 2023-11-13.md
+Semester 1/MATH111/MATH111 - 2023-11-29.md
+Semester 1/MATH111/MATH111 - 2023-12-04.md
+Semester 1/MATH111/Mean Value Theorem.md
+Semester 1/MATH111/Sign Chart.md
+Semester 1/MATH111/Tangent Line.md
+Semester 1/MATH111/Trigonometric Identities.md
+Semester 1/MATH111/Trigonometric Identities.md#Double/Half-Angle Identities
+Semester 1/MATH111/Trigonometric Identities.md#Pythagorean Identities
+Semester 1/MATH111/Unit Circle.md
+System Folders / Excalidraw/Drawing 2024-01-10 09.54.59.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-01-11 11.16.14.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-01-18 10.32.30.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-01-23 10.13.46.excalidraw.md
+System Folders / Excalidraw/Orthogonal Projection calc112 1.22.24.md
+System Folders / Excalidraw/PSSD A 1 17.md
+System Folders / Excalidraw/PSSD A 1 17.md#Drawing
+System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
+System Folders / Excalidraw/PhysStudio1 Setup Sketch.md
+System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Drawing
+System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Text Elements
+System Folders / Excalidraw/Shooting Blaster Sketch.md
+System Folders / Excalidraw/Shooting Blaster Sketch.md#Drawing
+System Folders / Excalidraw/Shooting Blaster Sketch.md#Text Elements
+System Folders /Attachments/Attachments 1/Drawing 2023-09-25 07.34.29.excalidraw.md
+System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-10-18 12.45.35.excalidraw.md
+System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-10-24 08.41.55.excalidraw.md
+System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-03 12.03.39.excalidraw.md
+System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-08 12.02.57.excalidraw.md
+System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-15 12.28.50.excalidraw.md
+System Folders /Attachments/Attachments 1/MATH11 2023-09-29 Sign chart.excalidraw.md
+System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md
+System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Drawing
+System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Text Elements
+System Folders /Templates/Calc 2 Template.md
+System Folders /Templates/Chemistry Template.md
+System Folders /Templates/Derivative; Integral Evaluation Template.md
+System Folders /Templates/EDNS200 - Template.md
+System Folders /Templates/PHGN 100 Template.md
+System Folders /Templates/Square Root Template.md
