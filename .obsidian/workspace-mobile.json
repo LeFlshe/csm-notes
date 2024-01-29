@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6553b5bc500062da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH112/MATH112 - 2024-01-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "MATH112/MATH112 - 2024-01-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,6 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "MATH112/MATH112 - 2024-01-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +132,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "MATH112/MATH112 - 2024-01-24.md"
+          }
         }
       }
     ],
@@ -136,8 +153,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c84b7156738075b",
+  "active": "cab7ff2733acdc97",
   "lastOpenFiles": [
+    "MATH112/MATH112 - 2024-01-26.md",
+    "MATH112/MATH112 - 2024-01-24.md",
+    "PHGN100/PHGN 100 - 2024-01-24.md",
+    "HASS298/HASS298 - 2024-01-26.md",
+    "HASS298/HASS298 - 2024-01-22.md",
+    "HASS298/HASS298 - 2024-01-24.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-25.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md",
     "Semester 1/CHGN121/CHGN121 - 2023-10-20.md",
     "Semester 1/CHGN121/CHGN121 - 2023-10-25.md",
     "Semester 1/CHGN121/CHGN121 - 2023-10-27.md",
@@ -154,19 +179,11 @@
     "MATH112/MATH112 - 2024-01-23.md",
     "PHGN100/PHGN 100 - 2024-01-22.md",
     "HASS298/HASS298 - 2024-01-19.md",
-    "HASS298/HASS298 - 2024-01-22.md",
     "PHGN100/PHGN 100 - 2024-01-17.md",
     "PHGN100/PHGN 100 - 2024-01-10.md",
-    "MATH112/MATH112 - 2024-01-09.md",
-    "MATH112/MATH112 - 2024-01-10.md",
-    "MATH112/MATH112 - 2024-01-12.md",
-    "README.md",
-    "EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md",
     "EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
-    "CHGN121/CHGN121 - 2023-09-29.md",
-    "CHGN121/CHGN121 - 2023-10-02.md",
     "Excalidraw",
     "Fall Kickoff",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 12.17.45 PM.png",

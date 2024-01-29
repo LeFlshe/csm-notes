@@ -11,8 +11,12 @@ EDNS200/EDNS200 - 2024-01-17.md#Balance
 EDNS200/EDNS200 - 2024-01-17.md#Elements of Good Design
 EDNS200/EDNS200 - 2024-01-17.md#Emphasis
 EDNS200/EDNS200 - 2024-01-17.md#Some quick other ones
+EDNS200/EDNS200 - 2024-01-24.md
 HASS298/HASS298 - 2024-01-12.md
 HASS298/HASS298 - 2024-01-22.md
+HASS298/HASS298 - 2024-01-24.md
+HASS298/HASS298 - 2024-01-24.md#Capek
+HASS298/HASS298 - 2024-01-24.md#Capek#Arkwright
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
 MATH112/MATH112 - 2024-01-10.md#General Goals Today
@@ -40,6 +44,20 @@ MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)#algebra way
 MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)#geometric way
 MATH112/MATH112 - 2024-01-23.md
+MATH112/MATH112 - 2024-01-24.md
+MATH112/MATH112 - 2024-01-24.md#movin around
+MATH112/MATH112 - 2024-01-24.md#movin around#example
+MATH112/MATH112 - 2024-01-24.md#movin around#lines in 3d
+MATH112/MATH112 - 2024-01-24.md#movin around#lines in 3d#example
+MATH112/MATH112 - 2024-01-24.md#movin around#moving back on
+MATH112/MATH112 - 2024-01-24.md#today
+MATH112/MATH112 - 2024-01-26.md
+MATH112/MATH112 - 2024-01-26.md#notes#Torque
+MATH112/MATH112 - 2024-01-26.md#notes#alright back to lines
+MATH112/MATH112 - 2024-01-26.md#planes
+MATH112/MATH112 - 2024-01-26.md#planes#example
+MATH112/MATH112 - 2024-01-26.md#planes#examplier example (with numbers)
+MATH112/MATH112 - 2024-01-26.md#planes#the less ideal case example
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Second Year Housing Zoom.md
 Misc Mines Housekeeping/Second Year Housing Zoom.md#1750 Jackson
@@ -56,11 +74,20 @@ Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life#Memori
 Misc Mines Housekeeping/Student Orientation.md#Mines police
 Misc Mines Housekeeping/Student Orientation.md#Title IX Stuff
 PHGN100/PHGN 100 - 2024-01-22.md
+PHGN100/PHGN 100 - 2024-01-24.md
 PHGN100/PHGN 100 STUDIO - 2024-01-18.md
 PHGN100/PHGN 100 STUDIO - 2024-01-23.md
 PHGN100/PHGN 100 STUDIO EI - 2024-01-23.md
 PHGN100/PHGN 100 STUDIO PSSD - 2024-01-18.md
+PHGN100/PHGN 100 STUDIO1 - 2024-01-25.md
 PHGN100/PHGN100 Studio 1-1 Calc & Kinematics.md
+PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-18.md
+PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-23.md
+PHGN100/PHGN100 Studios/PHGN 100 STUDIO EI - 2024-01-23.md
+PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-18.md
+PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md
+PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-25.md
+PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md
 PHGN100/PHGN100STUDIO - 2024-01-11.md
 PHGN100/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
 PHGN100/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation#EI Follow Up Questions
@@ -515,10 +542,17 @@ System Folders / Excalidraw/Drawing 2024-01-10 09.54.59.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-11 11.16.14.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-18 10.32.30.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-23 10.13.46.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md#Drawing
+System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md#Text Elements
+System Folders / Excalidraw/Drawing 2024-01-25 10.52.03.excalidraw.md
 System Folders / Excalidraw/Orthogonal Projection calc112 1.22.24.md
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
 System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
+System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md
+System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md#Drawing
+System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md#Text Elements
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Drawing
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Text Elements
@@ -541,3 +575,4 @@ System Folders /Templates/Derivative; Integral Evaluation Template.md
 System Folders /Templates/EDNS200 - Template.md
 System Folders /Templates/PHGN 100 Template.md
 System Folders /Templates/Square Root Template.md
+Untitled.canvas
