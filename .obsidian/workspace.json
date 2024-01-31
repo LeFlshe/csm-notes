@@ -13,24 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-01-24.md",
+                "file": "MATH112/MATH112 - 2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac408797f34c1d35",
+            "id": "1e4669ccdd7b4e7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH112/MATH112 Line Flowchart.canvas",
-                "viewState": {
-                  "x": 291.34803200000016,
-                  "y": 64.17486399999994,
-                  "zoom": -0.8417853081854212
-                }
+                "file": "System Folders / Excalidraw/studiopssdelevator.md"
               }
             }
           }
@@ -100,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH112/MATH112 - 2024-01-24.md",
+                "file": "MATH112/MATH112 - 2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH112/MATH112 - 2024-01-24.md",
+                "file": "MATH112/MATH112 - 2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH112/MATH112 - 2024-01-24.md"
+                "file": "MATH112/MATH112 - 2024-01-26.md"
               }
             }
           },
@@ -201,36 +196,39 @@
   },
   "active": "5b4f6a4957eb6342",
   "lastOpenFiles": [
+    "MATH112/MATH112 - 2024-01-30.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 - 2024-01-30.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-18.md",
+    "System Folders /Attachments/IMG_1438.jpeg",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIOPSSD - 2024-01-30.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO EI - 2024-01-23.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-18.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md",
+    "System Folders /Attachments/IMG_1437.jpeg",
+    "System Folders /Attachments/IMG_1436.jpeg",
+    "System Folders / Excalidraw/studiopssdelevator.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-30.md",
+    "System Folders / Excalidraw/1.30.24 studio 2.md",
+    "System Folders / Excalidraw/1.30.24 studio 1.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO1 - 2024-01-25.md",
+    "MATH112/MATH112 - 2024-01-29.md",
+    "scratchtoDel.md",
+    "MATH112/MATH112 - 2024-01-24.md",
+    "MATH112/MATH112 Line Flowchart.canvas",
     "MATH112/MATH112 - 2024-01-26.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-25.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md",
+    "PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md",
+    "PHGN100/PHGN 100 - 2024-01-29.md",
+    "PHGN100/PHGN 100 - 2024-01-24.md",
+    "MATH112/MATH112 - 2024-01-22.md",
+    "MATH112/MATH112 - 2024-01-23.md",
     "EDNS200/EDNS200 - 2024-01-10.md",
     "EDNS200/EDNS200 - 2024-01-24.md",
     "EDNS200/EDNS200 - 2024-01-29.md",
-    "PHGN100/PHGN 100 - 2024-01-29.md",
     "System Folders /Attachments/Screenshot 2024-01-29 at 10.40.45 AM.png",
-    "Semester 1/MATH111/MATH111 - 2023-11-27.md",
-    "MATH112/MATH112 - LaTeX Scratch.md",
-    "MATH112/MATH112 - 2024-01-23.md",
-    "MATH112/MATH112 - 2024-01-24.md",
-    "MATH112/MATH112 Line Flowchart.canvas",
-    "HASS298/HASS298 - 2024-01-26.md",
-    "HASS298/HASS298 - 2024-01-24.md",
-    "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-25.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md",
-    "System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md",
-    "System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md",
-    "PHGN100/PHGN 100 - 2024-01-10.md",
     "PHGN100/PHGN100 Studios",
-    "PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO1 - 2024-01-25.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-23.md",
-    "MATH112/MATH112 - 2024-01-22.md",
-    "System Folders / Excalidraw/Drawing 2024-01-24 15.37.49.excalidraw.md",
-    "HASS298/Energy Timeline Draft.md",
-    "HASS298/HASS298 - 2024-01-22.md",
-    "PHGN100/PHGN 100 - 2024-01-24.md",
-    "Semester 1/MATH111/MATH111 - 2023-11-01.md",
     "Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "PHGN100/PHGN 100 - 2024-01-17.md",
     "System Folders /Attachments/Screenshot 2024-01-18 at 6.14.08 PM.png",
     "System Folders /Attachments/Attachments 1",
     "System Folders /Attachments/annotated-1704916580.7672029.jpg.pdf",
@@ -248,9 +246,6 @@
     "System Folders /Attachments/C79DE739-4740-40A9-B792-60DB040058D6_1_102_o.jpeg",
     "System Folders /Attachments/1FE8A819-552A-4287-9D3E-1428580B466D_1_105_c.jpeg",
     "System Folders /Attachments/CFBB6C73-9FEE-4145-8AF7-64B96DFC8A69_1_105_c.jpeg",
-    "System Folders /Attachments/Screenshot 2023-10-03 at 9.04.35 AM.png",
-    "System Folders /Attachments/EDNS151 - Looks Like Prototype.png",
-    "System Folders /Attachments/C2311B9D-0CC1-4023-A58C-9AF72696BE72_1_105_c.jpeg",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
 }
