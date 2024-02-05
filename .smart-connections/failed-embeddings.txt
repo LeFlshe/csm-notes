@@ -1,22 +1,9 @@
-
-EDNS200/EDNS200 - 2024-01-10.md
-EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics
-EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Memorable
-EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Prosaic
-EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Significant? Something else
-EDNS200/EDNS200 - 2024-01-10.md#General Discussion of Class Topics#Kinds of Experiences#Transcendent?
-EDNS200/EDNS200 - 2024-01-10.md#Justification of Good Design
 EDNS200/EDNS200 - 2024-01-17.md
 EDNS200/EDNS200 - 2024-01-17.md#Balance
 EDNS200/EDNS200 - 2024-01-17.md#Elements of Good Design
 EDNS200/EDNS200 - 2024-01-17.md#Emphasis
 EDNS200/EDNS200 - 2024-01-17.md#Some quick other ones
-EDNS200/EDNS200 - 2024-01-24.md
 HASS298/HASS298 - 2024-01-12.md
-HASS298/HASS298 - 2024-01-22.md
-HASS298/HASS298 - 2024-01-24.md
-HASS298/HASS298 - 2024-01-24.md#Capek
-HASS298/HASS298 - 2024-01-24.md#Capek#Arkwright
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
 MATH112/MATH112 - 2024-01-10.md#General Goals Today
@@ -31,32 +18,12 @@ MATH112/MATH112 - 2024-01-17.md
 MATH112/MATH112 - 2024-01-17.md#Polar Coordinates!
 MATH112/MATH112 - 2024-01-17.md#Polar Equations!#$r=f(\theta)$
 MATH112/MATH112 - 2024-01-17.md#V-v-vectors!
-MATH112/MATH112 - 2024-01-19.md
-MATH112/MATH112 - 2024-01-19.md#Reading Assignment
-MATH112/MATH112 - 2024-01-19.md#realzies notes
-MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors
-MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors#Magnitude of a Vector
-MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors#Magnitude of a Vector#Examples?
-MATH112/MATH112 - 2024-01-19.md#realzies notes#Alright, that was fun with coords, back to vectors#Vector Addition
-MATH112/MATH112 - 2024-01-19.md#realzies notes#Example
-MATH112/MATH112 - 2024-01-22.md
-MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
-MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)#algebra way
-MATH112/MATH112 - 2024-01-22.md#dot products (yippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)#geometric way
 MATH112/MATH112 - 2024-01-23.md
+MATH112/MATH112 - 2024-01-23.md#0
+MATH112/MATH112 - 2024-01-23.md#Determinants
+MATH112/MATH112 - 2024-01-23.md#Right Hand Rule
 MATH112/MATH112 - 2024-01-24.md
-MATH112/MATH112 - 2024-01-24.md#movin around
-MATH112/MATH112 - 2024-01-24.md#movin around#example
-MATH112/MATH112 - 2024-01-24.md#movin around#lines in 3d
-MATH112/MATH112 - 2024-01-24.md#movin around#lines in 3d#example
-MATH112/MATH112 - 2024-01-24.md#movin around#moving back on
-MATH112/MATH112 - 2024-01-24.md#today
-MATH112/MATH112 - 2024-01-26.md
-MATH112/MATH112 - 2024-01-26.md#notes#Torque
-MATH112/MATH112 - 2024-01-26.md#notes#alright back to lines
-MATH112/MATH112 - 2024-01-26.md#planes
-MATH112/MATH112 - 2024-01-26.md#planes#example
-MATH112/MATH112 - 2024-01-26.md#planes#examplier example (with numbers)
+MATH112/MATH112 - 2024-01-24.md#movin around#relationships between $\ell_{1}$ and $\ell_{2}$#they're in a relationship??? 😳😳😳😳
 MATH112/MATH112 - 2024-01-26.md#planes#the less ideal case example
 MATH112/MATH112 - 2024-01-29.md
 MATH112/MATH112 - 2024-01-29.md#14.1
@@ -64,48 +31,34 @@ MATH112/MATH112 - 2024-01-29.md#example
 MATH112/MATH112 - 2024-01-29.md#example#intersections
 MATH112/MATH112 - 2024-01-29.md#example#other example
 MATH112/MATH112 - 2024-01-29.md#previously on
+MATH112/MATH112 - 2024-01-30.md
+MATH112/MATH112 - 2024-01-30.md#4.2 is derivatives n fun stuff
+MATH112/MATH112 - 2024-01-30.md#calc of VVFs
+MATH112/MATH112 - 2024-01-30.md#notesises
+MATH112/MATH112 - 2024-01-31.md
+MATH112/MATH112 - 2024-01-31.md#14.3
+MATH112/MATH112 - 2024-01-31.md#14.3#deribatibs
+MATH112/MATH112 - 2024-01-31.md#14.3#integrals
+MATH112/MATH112 - 2024-01-31.md#14.3#integrals#example (trajectory problem with gravity)
+MATH112/MATH112 - 2024-01-31.md#integrals#definite integrals
 Misc Mines Housekeeping/First Floor Meeting.md
-Misc Mines Housekeeping/Second Year Housing Zoom.md
-Misc Mines Housekeeping/Second Year Housing Zoom.md#1750 Jackson
-Misc Mines Housekeeping/Second Year Housing Zoom.md#Application Timeline
-Misc Mines Housekeeping/Second Year Housing Zoom.md#Environmental Justice SLC
-Misc Mines Housekeeping/Second Year Housing Zoom.md#Jackson v Maple
-Misc Mines Housekeeping/Second Year Housing Zoom.md#Maple Hall
-Misc Mines Housekeeping/Second Year Housing Zoom.md#Mines Park
-Misc Mines Housekeeping/Second Year Housing Zoom.md#Roommate Groups
 Misc Mines Housekeeping/Student Orientation.md
 Misc Mines Housekeeping/Student Orientation.md#Community Standards Office
 Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life
 Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life#Memories about Swim Lessons
 Misc Mines Housekeeping/Student Orientation.md#Mines police
 Misc Mines Housekeeping/Student Orientation.md#Title IX Stuff
-PHGN100/PHGN 100 - 2024-01-22.md
 PHGN100/PHGN 100 - 2024-01-24.md
-PHGN100/PHGN 100 - 2024-01-29.md
-PHGN100/PHGN 100 - 2024-01-29.md#newton's laws (just to have them, ig)
-PHGN100/PHGN 100 STUDIO - 2024-01-18.md
-PHGN100/PHGN 100 STUDIO - 2024-01-23.md
-PHGN100/PHGN 100 STUDIO EI - 2024-01-23.md
-PHGN100/PHGN 100 STUDIO PSSD - 2024-01-18.md
-PHGN100/PHGN 100 STUDIO1 - 2024-01-25.md
-PHGN100/PHGN100 Studio 1-1 Calc & Kinematics.md
-PHGN100/PHGN100 Studios/PHGN 100 - 2024-01-30.md
-PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-18.md
-PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-23.md
-PHGN100/PHGN100 Studios/PHGN 100 STUDIO EI - 2024-01-23.md
-PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-18.md
-PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md
-PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-25.md
-PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-30.md
+PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics
+PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#piecewise fella
+PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#the chase
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIOPSSD - 2024-01-30.md
-PHGN100/PHGN100 Studios/PHGN100 Studio 1-1 Calc & Kinematics.md
-PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md
 PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
 PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation#EI Follow Up Questions
-PHGN100/PHGN100STUDIO - 2024-01-11.md
-PHGN100/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
-PHGN100/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation#EI Follow Up Questions
 README.md
 Semester 1/CHGN121/CHGN121 - 2023-08-21.md
 Semester 1/CHGN121/CHGN121 - 2023-08-23.md
@@ -312,8 +265,6 @@ Semester 1/EBGN201/Econ Singapore Memo.md#Empirical Analysis Table
 Semester 1/EBGN201/Econ Singapore Memo.md#Recommendation to The Board
 Semester 1/EBGN201/Econ Singapore Memo.md#Specific Analysis of the 1970s
 Semester 1/EBGN201/Econ Tin Memo.md
-Semester 1/EBGN201/In Class Activity ( Movie Tickets).md#Part 1
-Semester 1/EBGN201/In Class Activity ( Movie Tickets).md#Part 2
 Semester 1/EBGN201/In-Class Activity (Delivery prices).md
 Semester 1/EBGN201/Interdependence Principle.md
 Semester 1/EBGN201/Landmine Clearance in Cambodia.md
@@ -327,8 +278,24 @@ Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Homework#Design a Container
 Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Teams Bug List#Dysfunctional Teams
 Semester 1/EDNS151/EDNS151 - 2023-08-21.md#Teams Bug List#High Functioning Team
 Semester 1/EDNS151/EDNS151 - 2023-08-23.md
+Semester 1/EDNS151/EDNS151 - 2023-08-23.md#ASK MORE QUESTIONS#Extended Bug List
+Semester 1/EDNS151/EDNS151 - 2023-08-23.md#ASK MORE QUESTIONS#Where do problems come from?
 Semester 1/EDNS151/EDNS151 - 2023-08-28.md
+Semester 1/EDNS151/EDNS151 - 2023-08-28.md#Call For Proposals#"Upcycle Everything"
+Semester 1/EDNS151/EDNS151 - 2023-08-28.md#Call For Proposals#"Upcycle Everything"#Requirements
+Semester 1/EDNS151/EDNS151 - 2023-08-28.md#Problem Definition
+Semester 1/EDNS151/EDNS151 - 2023-08-28.md#Problem Definition#Department ideas
 Semester 1/EDNS151/EDNS151 - 2023-08-30.md
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#"Right Sizing" Your Problem
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Empathy#Observe
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Empathy#What is empathy?
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Interviews
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Problem Definition
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Problem Definition#A Good Problem Definition Includes
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Problem Definition#A Good Problem Definition Includes#Good & Bad Examples#Bad:
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#Problem Definition#A Good Problem Definition Includes#Good & Bad Examples#Good:
+Semester 1/EDNS151/EDNS151 - 2023-08-30.md#Design Process#User Empathy
 Semester 1/EDNS151/EDNS151 - 2023-08-30.md#done for next week
 Semester 1/EDNS151/EDNS151 - 2023-09-06.md
 Semester 1/EDNS151/EDNS151 - 2023-09-11.md
@@ -337,7 +304,6 @@ Semester 1/EDNS151/EDNS151 - 2023-09-13.md#Feedback from Other Groups
 Semester 1/EDNS151/EDNS151 - 2023-09-13.md#notes
 Semester 1/EDNS151/EDNS151 - 2023-09-18.md
 Semester 1/EDNS151/EDNS151 - 2023-09-20.md
-Semester 1/EDNS151/EDNS151 - 2023-09-25.md
 Semester 1/EDNS151/EDNS151 - 2023-09-27.md
 Semester 1/EDNS151/EDNS151 - 2023-09-27.md#professional attire
 Semester 1/EDNS151/EDNS151 - 2023-09-27.md#professional attire#Business Professional
@@ -361,7 +327,6 @@ Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches#Make sketches commu
 Semester 1/EDNS151/EDNS151LAB - 2023-08-31.md#Field Sketches#What to aim for in sketches
 Semester 1/EDNS151/ENDS151 Looks-Like Prototype Upload.md
 Semester 1/EDNS151/Group Meetings/First Group Meeting/Bugs About Waste.md
-Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas
 Semester 1/EDNS151/Group Meetings/First Group Meeting/Electronic Waste.md
 Semester 1/EDNS151/Group Meetings/First Group Meeting/Top 5 Hard to Recycle.md
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Housing.md
@@ -378,9 +343,6 @@ Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Requirements
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Requirements#Key Functionality
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Stakeholder Feedback
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Lockers.md#Validation
-Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md
-Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md#Possible Implementations
-Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Power.md#Validation
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md#Implementations
 Semester 1/EDNS151/Group Meetings/MERC Drafting/(MERC) Software.md#Responsibilities
@@ -520,70 +482,34 @@ Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Concave Down
 Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Concave Up
 Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Example
 Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Inflection Point
-Semester 1/MATH111/MATH111 - 2023-10-25.md
 Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#Extra Theorem
 Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#How to Optimization
 Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#How to Optimization#Example
 Semester 1/MATH111/MATH111 - 2023-10-30.md
-Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff
-Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff#Rectangular Solid
-Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff#Right Circular Cylinder
 Semester 1/MATH111/MATH111 - 2023-10-31.md
 Semester 1/MATH111/MATH111 - 2023-11-01.md
 Semester 1/MATH111/MATH111 - 2023-11-01.md#L'Hôpital's Rule
 Semester 1/MATH111/MATH111 - 2023-11-01.md#L'Hôpital's Rule#Ex
-Semester 1/MATH111/MATH111 - 2023-11-07.md
-Semester 1/MATH111/MATH111 - 2023-11-07.md#NOTE
-Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)
-Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)#Constant Multiple and Sum Rules
-Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)#Integrals of Inverse Trig & Logs n Shit
-Semester 1/MATH111/MATH111 - 2023-11-07.md#Power Rule (for integrals)#Integrals of Trigonometric functions
-Semester 1/MATH111/MATH111 - 2023-11-08.md
-Semester 1/MATH111/MATH111 - 2023-11-08.md#Real Notes
-Semester 1/MATH111/MATH111 - 2023-11-08.md#examples:#ex 1:
-Semester 1/MATH111/MATH111 - 2023-11-08.md#examples:#ex 2
 Semester 1/MATH111/MATH111 - 2023-11-10.md
 Semester 1/MATH111/MATH111 - 2023-11-13.md
 Semester 1/MATH111/MATH111 - 2023-11-29.md
-Semester 1/MATH111/MATH111 - 2023-12-04.md
 Semester 1/MATH111/Mean Value Theorem.md
 Semester 1/MATH111/Sign Chart.md
 Semester 1/MATH111/Tangent Line.md
-Semester 1/MATH111/Trigonometric Identities.md
 Semester 1/MATH111/Trigonometric Identities.md#Double/Half-Angle Identities
 Semester 1/MATH111/Trigonometric Identities.md#Pythagorean Identities
 Semester 1/MATH111/Unit Circle.md
 System Folders / Excalidraw/1.30.24 studio 1.md
 System Folders / Excalidraw/1.30.24 studio 1.md#Drawing
 System Folders / Excalidraw/1.30.24 studio 1.md#Text Elements
-System Folders / Excalidraw/1.30.24 studio 2.md
-System Folders / Excalidraw/1.30.24 studio 2.md#Drawing
-System Folders / Excalidraw/1.30.24 studio 2.md#Text Elements
-System Folders / Excalidraw/Boxes FBD.md
-System Folders / Excalidraw/Boxes FBD.md#Drawing
-System Folders / Excalidraw/Boxes FBD.md#Text Elements
 System Folders / Excalidraw/Drawing 2024-01-10 09.54.59.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-11 11.16.14.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-01-18 10.32.30.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-01-23 10.13.46.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md#Drawing
-System Folders / Excalidraw/Drawing 2024-01-25 10.23.00.excalidraw.md#Text Elements
-System Folders / Excalidraw/Drawing 2024-01-25 10.52.03.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-01-30 10.30.14.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-01-30 10.30.14.excalidraw.md#Drawing
-System Folders / Excalidraw/Drawing 2024-01-30 10.30.14.excalidraw.md#Text Elements
-System Folders / Excalidraw/Orthogonal Projection calc112 1.22.24.md
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
 System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
-System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md
-System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md#Drawing
-System Folders / Excalidraw/PSSD Pos Graph 1.25.24.md#Text Elements
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Drawing
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Text Elements
-System Folders / Excalidraw/Shooting Blaster Sketch.md
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Drawing
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Text Elements
 System Folders / Excalidraw/studiopssdelevator.md
@@ -591,19 +517,11 @@ System Folders / Excalidraw/studiopssdelevator.md#Drawing
 System Folders / Excalidraw/studiopssdelevator.md#Text Elements
 System Folders /Attachments/Attachments 1/Drawing 2023-09-25 07.34.29.excalidraw.md
 System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-10-18 12.45.35.excalidraw.md
-System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-10-24 08.41.55.excalidraw.md
 System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-03 12.03.39.excalidraw.md
 System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-08 12.02.57.excalidraw.md
 System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-15 12.28.50.excalidraw.md
 System Folders /Attachments/Attachments 1/MATH11 2023-09-29 Sign chart.excalidraw.md
-System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md
 System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Drawing
 System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Text Elements
-System Folders /Templates/Calc 2 Template.md
 System Folders /Templates/Chemistry Template.md
 System Folders /Templates/Derivative; Integral Evaluation Template.md
-System Folders /Templates/EDNS200 - Template.md
-System Folders /Templates/PHGN 100 Template.md
-System Folders /Templates/Square Root Template.md
-Untitled.canvas
-scratchtoDel.md

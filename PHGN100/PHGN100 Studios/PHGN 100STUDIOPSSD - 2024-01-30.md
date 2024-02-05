@@ -1,4 +1,4 @@
-#notes #phgn100 #physics
+ #phgn100 #physics
 
 ![[studiopssdelevator]]
 

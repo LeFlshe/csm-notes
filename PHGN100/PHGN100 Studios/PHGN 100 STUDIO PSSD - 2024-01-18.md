@@ -1,4 +1,4 @@
-#notes #phgn100 #physics
+ #phgn100 #physics
 
 Functions:
 Object 1 position = $\vec r_{1}(t)=At^{2}\hat\imath+B\hat\jmath$

@@ -1,7 +1,11 @@
 #math112 #math #calc 
+$$<91, -117, 0>$$
 
-$$\theta = \arccos\frac{(\vec u\cdot \vec v)}{|\vec u||\vec v|}$$
-$$\vec u \cdot \vec v= -12 + 0 +4=-8$$
-$$|\vec u| = \sqrt{14}, |\vec v|=\sqrt{20}$$
-$$\theta = \arccos(\frac{-8}{\sqrt20*\sqrt14})\approx 118.6\degree$$
 
+$$0+7y -8z = 67$$
+$$7y+5z=15$$
+$$7y = 67 + 8z$$
+$$67+8z + 5z = 15$$
+$$13z = -52$$
+$$z=4$$
+$$y=\frac{99}{7}$$
