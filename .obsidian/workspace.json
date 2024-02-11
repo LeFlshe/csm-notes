@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "017be87aba21a884",
+        "id": "be249856c8f38cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "0731110a2a6c3df1",
+            "id": "598a46d31266ea72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 1/CHGN121/CHGN121 - 2023-09-13.md",
+                "file": "MATH112/MATH112 - 2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "81637edf500677ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worksheet 1.4.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cad5ec1b73d9ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH112/MATH112 - 2024-02-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ed7a79fa246ef39",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/Drawing 2024-02-08 10.57.30.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "09-13",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/CHGN121/CHGN121 - 2023-09-13.md",
+                "file": "MATH112/MATH112 - 2024-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/CHGN121/CHGN121 - 2023-09-13.md",
+                "file": "MATH112/MATH112 - 2024-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/CHGN121/CHGN121 - 2023-09-13.md"
+                "file": "MATH112/MATH112 - 2024-02-07.md"
               }
             }
           },
@@ -185,34 +219,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0731110a2a6c3df1",
+  "active": "4cad5ec1b73d9ab5",
   "lastOpenFiles": [
-    "Semester 1/MATH111/MATH111 - 2023-09-13.md",
-    "Semester 1/EDNS151/EDNS151 - 2023-09-13.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-11-06.md",
-    "HASS298/HASS298 - 2024-02-07.md",
-    "HASS298/HASS298 - 2024-01-12.md",
-    "HASS298/HASS298 - 2024-01-17.md",
-    "MATH112/MATH112 - 2024-02-06.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-06.md",
-    "System Folders / Excalidraw/Studio PSSD Picture 1.6.24.md",
-    "System Folders / Excalidraw/Studio PSSD 1.6.24.md",
-    "System Folders / Excalidraw/Studio drawing 2.1.24.md",
+    "MATH112/MATH112 - 2024-02-09.md",
+    "MATH112/MATH112 - 2024-02-07.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md",
+    "Worksheet 1.4.md",
+    "Worksheet 1.4.5.md",
+    "HASS298/HASS298 - 2024-02-07.md",
+    "HASS298/HASS298 - 2024-02-08.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio1 - 2024-02-08.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio3 - 2024-02-01.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio2 - 2024-02-08.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-25.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-30.md",
+    "PHGN100/PHGN100 Studios/PHGN 100STUDIOPSSD - 2024-01-30.md",
+    "PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md",
+    "PHGN100/PHGN100 Studios/PHGN100 Studio 1-1 Calc & Kinematics.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md",
-    "Untitled.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md",
-    "PHGN100/PHGN 100 - 2024-01-24.md",
-    "PHGN100/PHGN 100 - 2024-01-29.md",
+    "System Folders / Excalidraw/Drawing 2024-02-08 10.57.30.excalidraw.md",
+    "System Folders / Excalidraw/Balls and Blocks galore.md",
+    "PHGN100/PHGN100 Studios/Untitled.md",
+    "Untitled.md",
+    "System Folders /Templates/Derivative; Integral Evaluation Template.md",
+    "System Folders /Attachments/Screenshot 2024-02-07 at 8.09.19 PM.png",
     "MATH112/MATH112 - 2024-02-05.md",
-    "HASS298/HASS298 - 2024-02-05.md",
-    "HASS298/HASS298 - 2024-02-02.md",
-    "HASS298/HASS298 - 2024-01-31.md",
-    "HASS298/HASS298 - 2024-01-19.md",
-    "HASS298/HASS298 - 2024-01-22.md",
-    "HASS298/HASS298 - 2024-01-24.md",
-    "HASS298/HASS298 - 2024-01-26.md",
-    "EDNS200/EDNS200 - 2024-01-31.md",
     "MATH112/MATH112 Line Flowchart.canvas",
     "System Folders /Attachments/IMG_1438.jpeg",
     "System Folders /Attachments/IMG_1437.jpeg",
@@ -236,7 +271,6 @@
     "System Folders /Attachments/A824B1F5-008E-47E7-9E87-FCD07EB58EE4_1_105_c.jpeg",
     "System Folders /Attachments/C79DE739-4740-40A9-B792-60DB040058D6_1_102_o.jpeg",
     "System Folders /Attachments/1FE8A819-552A-4287-9D3E-1428580B466D_1_105_c.jpeg",
-    "System Folders /Attachments/CFBB6C73-9FEE-4145-8AF7-64B96DFC8A69_1_105_c.jpeg",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
 }

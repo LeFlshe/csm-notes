@@ -7,6 +7,7 @@ EDNS200/EDNS200 - 2024-01-31.md
 HASS298/HASS298 - 2024-01-12.md
 HASS298/HASS298 - 2024-02-05.md
 HASS298/HASS298 - 2024-02-07.md
+HASS298/HASS298 - 2024-02-08.md
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
 MATH112/MATH112 - 2024-01-10.md#General Goals Today
@@ -47,6 +48,7 @@ MATH112/MATH112 - 2024-01-31.md#integrals#definite integrals
 MATH112/MATH112 - 2024-02-02.md
 MATH112/MATH112 - 2024-02-02.md#6.2#previous on calc 1
 MATH112/MATH112 - 2024-02-02.md#6.2#previous on calc 1#example
+MATH112/MATH112 - 2024-02-07.md
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -60,16 +62,25 @@ PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#piecewise fella
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#the chase
 PHGN100/PHGN 100 - 2024-02-05.md
+PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md
+PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
+PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#N2L
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-06.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#Follow Up Questions
+PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#N2L
+PHGN100/PHGN100 Studios/PHGN 100 Studio1 - 2024-02-08.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio2 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIOPSSD - 2024-01-30.md
 PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
 PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation#EI Follow Up Questions
+PHGN100/PHGN100 Studios/Untitled.md
 README.md
 Semester 1/CHGN121/CHGN121 - 2023-08-21.md
 Semester 1/CHGN121/CHGN121 - 2023-08-23.md
@@ -513,8 +524,13 @@ Semester 1/MATH111/Unit Circle.md
 System Folders / Excalidraw/1.30.24 studio 1.md
 System Folders / Excalidraw/1.30.24 studio 1.md#Drawing
 System Folders / Excalidraw/1.30.24 studio 1.md#Text Elements
+System Folders / Excalidraw/Balls and Blocks galore.md
+System Folders / Excalidraw/Balls and Blocks galore.md#Drawing
+System Folders / Excalidraw/Balls and Blocks galore.md#Text Elements
 System Folders / Excalidraw/Drawing 2024-01-10 09.54.59.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-11 11.16.14.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-08 10.05.35.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-08 10.57.30.excalidraw.md
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
 System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
@@ -542,3 +558,5 @@ System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 
 System Folders /Templates/Chemistry Template.md
 System Folders /Templates/Derivative; Integral Evaluation Template.md
 Untitled.md
+Worksheet 1.4.5.md
+Worksheet 1.4.md
