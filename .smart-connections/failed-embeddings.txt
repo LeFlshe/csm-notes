@@ -8,6 +8,7 @@ HASS298/HASS298 - 2024-01-12.md
 HASS298/HASS298 - 2024-02-05.md
 HASS298/HASS298 - 2024-02-07.md
 HASS298/HASS298 - 2024-02-08.md
+HASS298/HASS298 - 2024-02-14.md
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
 MATH112/MATH112 - 2024-01-10.md#General Goals Today
@@ -49,6 +50,21 @@ MATH112/MATH112 - 2024-02-02.md
 MATH112/MATH112 - 2024-02-02.md#6.2#previous on calc 1
 MATH112/MATH112 - 2024-02-02.md#6.2#previous on calc 1#example
 MATH112/MATH112 - 2024-02-07.md
+MATH112/MATH112 - 2024-02-09.md
+MATH112/MATH112 - 2024-02-12.md
+MATH112/MATH112 - 2024-02-12.md#first up on the chopping block is springs
+MATH112/MATH112 - 2024-02-12.md#first up on the chopping block is springs#example
+MATH112/MATH112 - 2024-02-12.md#first up on the chopping block is springs#example but again
+MATH112/MATH112 - 2024-02-12.md#lifting problems
+MATH112/MATH112 - 2024-02-12.md#starting off with mass
+MATH112/MATH112 - 2024-02-12.md#what's up with today
+MATH112/MATH112 - 2024-02-12.md#work
+MATH112/MATH112 - 2024-02-12.md#work#Common units#Imperial
+MATH112/MATH112 - 2024-02-12.md#work#Common units#Metric
+MATH112/MATH112 - 2024-02-13.md
+MATH112/MATH112 - 2024-02-13.md#gravity with work
+MATH112/MATH112 - 2024-02-13.md#pumping problems#megan? that you?
+MATH112/MATH112 - 2024-02-14.md
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -62,6 +78,7 @@ PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#piecewise fella
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#the chase
 PHGN100/PHGN 100 - 2024-02-05.md
+PHGN100/PHGN 100 - 2024-02-12.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#N2L
@@ -531,6 +548,8 @@ System Folders / Excalidraw/Drawing 2024-01-10 09.54.59.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-11 11.16.14.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-08 10.05.35.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-08 10.57.30.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-12 14.58.09.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-13 15.31.55.excalidraw.md
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
 System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
@@ -544,6 +563,7 @@ System Folders / Excalidraw/Studio PSSD Picture 1.6.24.md
 System Folders / Excalidraw/Studio drawing 2.1.24.md
 System Folders / Excalidraw/Studio drawing 2.1.24.md#Drawing
 System Folders / Excalidraw/Studio drawing 2.1.24.md#Text Elements
+System Folders / Excalidraw/Tank Sketch.md
 System Folders / Excalidraw/studiopssdelevator.md
 System Folders / Excalidraw/studiopssdelevator.md#Drawing
 System Folders / Excalidraw/studiopssdelevator.md#Text Elements
@@ -557,6 +577,7 @@ System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 
 System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Text Elements
 System Folders /Templates/Chemistry Template.md
 System Folders /Templates/Derivative; Integral Evaluation Template.md
+Untitled.canvas
 Untitled.md
 Worksheet 1.4.5.md
 Worksheet 1.4.md
