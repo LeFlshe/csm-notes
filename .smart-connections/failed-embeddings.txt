@@ -65,6 +65,12 @@ MATH112/MATH112 - 2024-02-13.md
 MATH112/MATH112 - 2024-02-13.md#gravity with work
 MATH112/MATH112 - 2024-02-13.md#pumping problems#megan? that you?
 MATH112/MATH112 - 2024-02-14.md
+MATH112/MATH112 - 2024-02-14.md#"basic" integration#Completing the Square
+MATH112/MATH112 - 2024-02-14.md#"basic" integration#Splitting Fractions
+MATH112/MATH112 - 2024-02-14.md#"basic" integration#rational division
+MATH112/MATH112 - 2024-02-14.md#"basic" integration#rational division#long division time
+MATH112/MATH112 - 2024-02-14.md#"basic" integration#u sub
+MATH112/MATH112 - 2024-02-14.md#homework problem
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -79,18 +85,22 @@ PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#piecewise fella
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#the chase
 PHGN100/PHGN 100 - 2024-02-05.md
 PHGN100/PHGN 100 - 2024-02-12.md
+PHGN100/PHGN 100 - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#N2L
+PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#N2L
+PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio1 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio2 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md
@@ -550,6 +560,14 @@ System Folders / Excalidraw/Drawing 2024-02-08 10.05.35.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-08 10.57.30.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-12 14.58.09.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-13 15.31.55.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-14 15.44.21.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-14 20.25.34.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-15 10.14.42.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-15 10.18.09.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-15 10.23.02.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-15 10.26.43.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-15 10.47.09.excalidraw.md
+System Folders / Excalidraw/Long Division Example.md
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
 System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
@@ -558,6 +576,17 @@ System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Drawing
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Text Elements
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Drawing
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Text Elements
+System Folders / Excalidraw/Studio 2.15 Diagram Car.md
+System Folders / Excalidraw/Studio 2.15 Diagram Car.md#Drawing
+System Folders / Excalidraw/Studio 2.15 Diagram Car.md#Text Elements
+System Folders / Excalidraw/Studio 2.15 Diagram Necklace.md
+System Folders / Excalidraw/Studio 2.15 Diagram Necklace.md#Drawing
+System Folders / Excalidraw/Studio 2.15 Diagram Necklace.md#Text Elements
+System Folders / Excalidraw/Studio 2.15 Diagram Satellite.md
+System Folders / Excalidraw/Studio 2.15 Diagrams.md
+System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md
+System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md#Drawing
+System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md#Text Elements
 System Folders / Excalidraw/Studio PSSD 1.6.24.md
 System Folders / Excalidraw/Studio PSSD Picture 1.6.24.md
 System Folders / Excalidraw/Studio drawing 2.1.24.md
@@ -581,3 +610,4 @@ Untitled.canvas
 Untitled.md
 Worksheet 1.4.5.md
 Worksheet 1.4.md
+scratchyscratch paper.md
