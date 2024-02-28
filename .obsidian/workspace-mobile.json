@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-01-29.md",
+                "file": "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -104,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MATH112/MATH112 - 2024-01-29.md",
+            "file": "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MATH112/MATH112 - 2024-01-29.md",
+            "file": "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MATH112/MATH112 - 2024-01-29.md"
+            "file": "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md"
           }
         }
       }
@@ -155,6 +157,7 @@
   },
   "active": "6553b5bc500062da",
   "lastOpenFiles": [
+    "MATH112/MATH112 - 2024-01-29.md",
     "System Folders /Attachments/IMG_1438.jpeg",
     "PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md",
     "PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-30.md",
@@ -195,7 +198,6 @@
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 11.32.35 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.04.26 AM.png",
     "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.03.37 AM.png",
-    "Virtual Launch/Meta/Screen Shot 2023-07-10 at 9.01.20 AM.png",
     "Meta"
   ]
 }

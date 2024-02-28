@@ -9,6 +9,9 @@ HASS298/HASS298 - 2024-02-05.md
 HASS298/HASS298 - 2024-02-07.md
 HASS298/HASS298 - 2024-02-08.md
 HASS298/HASS298 - 2024-02-14.md
+HASS298/HASS298 - 2024-02-21.md
+HASS298/HASS298 - 2024-02-26.md
+MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
 MATH112/MATH112 - 2024-01-10.md#General Goals Today
@@ -71,6 +74,15 @@ MATH112/MATH112 - 2024-02-14.md#"basic" integration#rational division
 MATH112/MATH112 - 2024-02-14.md#"basic" integration#rational division#long division time
 MATH112/MATH112 - 2024-02-14.md#"basic" integration#u sub
 MATH112/MATH112 - 2024-02-14.md#homework problem
+MATH112/MATH112 - 2024-02-21.md
+MATH112/MATH112 - 2024-02-21.md#Integration by Parts
+MATH112/MATH112 - 2024-02-21.md#Integration by Parts#example time
+MATH112/MATH112 - 2024-02-23.md
+MATH112/MATH112 - 2024-02-26.md
+MATH112/MATH112 - 2024-02-27.md
+MATH112/MATH112 - 2024-02-27.md#Powers of trig functions, integrations
+MATH112/MATH112 - 2024-02-27.md#general steps
+MATH112/MATH112 - 2024-02-27.md#general steps#case 1 or 2
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -86,14 +98,26 @@ PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#the chase
 PHGN100/PHGN 100 - 2024-02-05.md
 PHGN100/PHGN 100 - 2024-02-12.md
 PHGN100/PHGN 100 - 2024-02-15.md
+PHGN100/PHGN 100 - 2024-02-21.md
+PHGN100/PHGN 100 - 2024-02-26.md
+PHGN100/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#N2L
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-15.md
+PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-22.md
+PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md
+PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Observations#Oscillating
+PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Observations#Static Equilibrium
+PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Overall
+PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Questions
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-15.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-22.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-27.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-02-27.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-06.md
@@ -101,8 +125,10 @@ PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#N2L
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-15.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-27.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio1 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio2 - 2024-02-08.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio2 - 2024-02-22.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIO2 - 2024-01-25.md
 PHGN100/PHGN100 Studios/PHGN 100STUDIOPSSD - 2024-01-30.md
 PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
@@ -567,6 +593,19 @@ System Folders / Excalidraw/Drawing 2024-02-15 10.18.09.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-15 10.23.02.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-15 10.26.43.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-15 10.47.09.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-21 15.28.39.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-22 10.17.30.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-22 10.19.40.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-22 10.30.21.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-27 10.25.03.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-27 10.41.16.excalidraw.md
+System Folders / Excalidraw/Elliptical Orbit Sketch.md
+System Folders / Excalidraw/Elliptical Orbit Sketch.md#Drawing
+System Folders / Excalidraw/Elliptical Orbit Sketch.md#Text Elements
+System Folders / Excalidraw/FBDs Hanging Spring.md
+System Folders / Excalidraw/FBDs Hanging Spring.md#Drawing
+System Folders / Excalidraw/FBDs Hanging Spring.md#Text Elements
+System Folders / Excalidraw/General Oscillation Sketch.md
 System Folders / Excalidraw/Long Division Example.md
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
@@ -574,6 +613,7 @@ System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Drawing
 System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Text Elements
+System Folders / Excalidraw/Satellite Sketch.md
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Drawing
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Text Elements
 System Folders / Excalidraw/Studio 2.15 Diagram Car.md
@@ -610,4 +650,5 @@ Untitled.canvas
 Untitled.md
 Worksheet 1.4.5.md
 Worksheet 1.4.md
+scratch.md
 scratchyscratch paper.md
