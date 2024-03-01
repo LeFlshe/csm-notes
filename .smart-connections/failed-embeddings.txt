@@ -11,6 +11,44 @@ HASS298/HASS298 - 2024-02-08.md
 HASS298/HASS298 - 2024-02-14.md
 HASS298/HASS298 - 2024-02-21.md
 HASS298/HASS298 - 2024-02-26.md
+HASS298/HASS298 - 2024-02-28.md
+HASS298/HASS298 - 2024-02-28.md#PEST Analysis#E(conomic)
+HASS298/HASS298 - 2024-02-28.md#PEST Analysis#P(olitical)
+HASS298/HASS298 - 2024-02-28.md#PEST Analysis#S(ociocultural)
+HASS298/HASS298 - 2024-02-28.md#PEST Analysis#T(echnological)
+HASS298/HASS298 - 2024-03-01.md
+HASS298/HASS298 - 2024-03-01.md#ICP - Wicked Problems#2. Why Interesting?
+HASS298/HASS298 - 2024-03-01.md#ICP - Wicked Problems#4.
+HASS298/HASS298 - 2024-03-01.md#ICP - Wicked Problems#Definitions of a wicked problem
+HASS298/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Unironically, we're doing Wicked Problems
+HASS298/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Wicked Problems: The Ten Properties of Wickedness
+HASS298/HASS298 PEST Analysis.md
+HASS298/Horan/Energy Timeline Draft.md
+HASS298/Horan/HASS298 - 2024-01-17.md
+HASS298/Horan/HASS298 - 2024-01-19.md
+HASS298/Horan/HASS298 - 2024-01-22.md
+HASS298/Horan/HASS298 - 2024-01-24.md
+HASS298/Horan/HASS298 - 2024-01-24.md#Capek
+HASS298/Horan/HASS298 - 2024-01-24.md#Capek#Arkwright
+HASS298/Horan/HASS298 - 2024-01-26.md
+HASS298/Horan/HASS298 - 2024-01-31.md
+HASS298/Horan/HASS298 - 2024-02-02.md
+HASS298/Horan/HASS298 - 2024-02-05.md
+HASS298/Horan/HASS298 - 2024-02-07.md
+HASS298/Horan/HASS298 - 2024-02-08.md
+HASS298/Suiter/HASS298 - 2024-02-21.md
+HASS298/Suiter/HASS298 - 2024-02-21.md#Social Entrepreneurship#Definitions#Entrepreneur
+HASS298/Suiter/HASS298 - 2024-02-21.md#Social Entrepreneurship#Definitions#Social Entrepeneur
+HASS298/Suiter/HASS298 - 2024-02-26.md
+HASS298/Suiter/HASS298 - 2024-02-28.md
+HASS298/Suiter/HASS298 - 2024-02-28.md#PEST Analysis#E(conomic)
+HASS298/Suiter/HASS298 - 2024-02-28.md#PEST Analysis#P(olitical)
+HASS298/Suiter/HASS298 - 2024-02-28.md#PEST Analysis#S(ociocultural)
+HASS298/Suiter/HASS298 - 2024-02-28.md#PEST Analysis#T(echnological)
+HASS298/Suiter/HASS298 - 2024-03-01.md
+HASS298/Suiter/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Unironically, we're doing Wicked Problems
+HASS298/Suiter/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Wicked Problems: The Ten Properties of Wickedness
+HASS298/Suiter/HASS298 PEST Analysis.md
 MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
@@ -81,8 +119,24 @@ MATH112/MATH112 - 2024-02-23.md
 MATH112/MATH112 - 2024-02-26.md
 MATH112/MATH112 - 2024-02-27.md
 MATH112/MATH112 - 2024-02-27.md#Powers of trig functions, integrations
+MATH112/MATH112 - 2024-02-27.md#case 3
 MATH112/MATH112 - 2024-02-27.md#general steps
 MATH112/MATH112 - 2024-02-27.md#general steps#case 1 or 2
+MATH112/MATH112 - 2024-02-28.md
+MATH112/MATH112 - 2024-02-28.md#case 1#step four!
+MATH112/MATH112 - 2024-02-28.md#case 1#step one!
+MATH112/MATH112 - 2024-02-28.md#case 1#step three!
+MATH112/MATH112 - 2024-02-28.md#case 1#step two!
+MATH112/MATH112 - 2024-02-28.md#case 2#step 1
+MATH112/MATH112 - 2024-02-28.md#case 2#step 2
+MATH112/MATH112 - 2024-02-28.md#case 2#step 3
+MATH112/MATH112 - 2024-02-28.md#case 2#step 4
+MATH112/MATH112 - 2024-02-28.md#cases for $\int\tan^{m}(x)\sec^{n}(x)dx$#Case 3 ☹
+MATH112/MATH112 - 2024-02-28.md#today is fun with tangents and secants
+MATH112/MATH112 - 2024-02-28.md#trig sub
+MATH112/MATH112 - 2024-02-28.md#trig sub#case 1
+MATH112/MATH112 - 2024-02-28.md#trig sub#case 1#example with triangle
+MATH112/MATH112 - 2024-02-28.md#trig sub#case 1#trig sub
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -91,6 +145,7 @@ Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life
 Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life#Memories about Swim Lessons
 Misc Mines Housekeeping/Student Orientation.md#Mines police
 Misc Mines Housekeeping/Student Orientation.md#Title IX Stuff
+PHGN100/Matrix Webwork 2-29.md
 PHGN100/PHGN 100 - 2024-01-24.md
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#piecewise fella
@@ -100,6 +155,7 @@ PHGN100/PHGN 100 - 2024-02-12.md
 PHGN100/PHGN 100 - 2024-02-15.md
 PHGN100/PHGN 100 - 2024-02-21.md
 PHGN100/PHGN 100 - 2024-02-26.md
+PHGN100/PHGN 100 - 2024-02-28.md
 PHGN100/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
@@ -117,9 +173,13 @@ PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-22.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-27.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md#methods of torque
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md#torque for rocket 1
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-02-27.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md
+PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-29.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md#Follow Up Questions
@@ -599,6 +659,7 @@ System Folders / Excalidraw/Drawing 2024-02-22 10.19.40.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-22 10.30.21.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-27 10.25.03.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-27 10.41.16.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-02-29 10.16.39.excalidraw.md
 System Folders / Excalidraw/Elliptical Orbit Sketch.md
 System Folders / Excalidraw/Elliptical Orbit Sketch.md#Drawing
 System Folders / Excalidraw/Elliptical Orbit Sketch.md#Text Elements
@@ -616,6 +677,9 @@ System Folders / Excalidraw/PhysStudio1 Setup Sketch.md#Text Elements
 System Folders / Excalidraw/Satellite Sketch.md
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Drawing
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Text Elements
+System Folders / Excalidraw/Stick EFBD.md
+System Folders / Excalidraw/Stick EFBD.md#Drawing
+System Folders / Excalidraw/Stick EFBD.md#Text Elements
 System Folders / Excalidraw/Studio 2.15 Diagram Car.md
 System Folders / Excalidraw/Studio 2.15 Diagram Car.md#Drawing
 System Folders / Excalidraw/Studio 2.15 Diagram Car.md#Text Elements
@@ -646,6 +710,7 @@ System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 
 System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Text Elements
 System Folders /Templates/Chemistry Template.md
 System Folders /Templates/Derivative; Integral Evaluation Template.md
+Untitled 1.md
 Untitled.canvas
 Untitled.md
 Worksheet 1.4.5.md

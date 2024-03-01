@@ -56522,7 +56522,9 @@
     },
     {
       "char": "☹",
-      "name": "white frowning face"
+      "name": "white frowning face",
+      "useCount": 1,
+      "lastUsed": 1709158321169
     },
     {
       "char": "♡",
