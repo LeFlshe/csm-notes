@@ -1,4 +1,4 @@
-#hass298 #hass 
+#hass298 #hass #horan
 One of the preliminary discussion points regarding the future of energy was about simplification, and I expect the next energy transition to represent a major step up in the simplification of energy, especially in production. All energy production on Earth can be traced to the Sun, and beyond that, nuclear fusion - I fully expect the next major shift in energy production to represent a step up the tree, with either the expansion of solar energy or, ideally, a full shift into nuclear fusion as a primary power source. 
 
 Further expanding along the lines of simplification, ideally energy transportation will additionally experience a simplification - the vast majority of energy transported nowadays is done through either lithium ion batteries, or direct transport of fuel - so simplification of energy inputs across society, like from gasoline powered cars to electric, would represent further simplification. Ideally, the next big energy transition would also represent a shift away from lithium ion batteries, to a less disposable resource - but I am currently uncertain about what that would entail. 
