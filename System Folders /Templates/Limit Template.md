@@ -1,1 +1,1 @@
-\lim\limits_{x \to y}
+\lim\limits_{n \to \infty}
