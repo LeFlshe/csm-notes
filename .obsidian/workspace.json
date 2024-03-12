@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASS298/Suiter/Draft of Water Problem.md",
+                "file": "MATH112/MATH112 - 2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASS298/Suiter/Draft of Water Problem.md",
+                "file": "MATH112/MATH112 - 2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASS298/Suiter/Draft of Water Problem.md",
+                "file": "MATH112/MATH112 - 2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASS298/Suiter/Draft of Water Problem.md"
+                "file": "MATH112/MATH112 - 2024-03-12.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HASS298/Suiter/Draft of Water Problem.md"
+                "file": "MATH112/MATH112 - 2024-03-12.md"
               }
             }
           },
@@ -209,12 +209,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c7bbf6ac68c147e",
+  "active": "f919d455c442673f",
   "lastOpenFiles": [
-    "System Folders /Attachments/Pasted image 20240310210809.png",
-    "HASS298/Suiter/Draft of Water Problem.md",
-    "System Folders /Attachments/Pasted image 20240310204734.png",
+    "MATH112/MATH112 - 2024-01-26.md",
     "MATH112/MATH112 - 2024-03-04.md",
+    "MATH112/MATH112 - 2024-03-12.md",
+    "System Folders / Excalidraw/Drawing 2024-03-12 11.11.38.excalidraw.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-03-12.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-12.md",
+    "System Folders / Excalidraw/Swingy Ball FBD (tension bait).md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-03-07.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md",
+    "PHGN100/PHGN 100 - 2024-03-11.md",
+    "MATH112/MATH112 - 2024-03-11.md",
+    "PHGN100/PHGN 100 - 2024-03-06.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-03-05.md",
+    "PHGN100/PHGN 100 - 2024-02-28.md",
+    "HASS298/Suiter/HASS298 - 2024-03-11.md",
+    "HASS298/Suiter/Draft of Water Problem.md",
+    "System Folders /Attachments/Pasted image 20240310210809.png",
+    "System Folders /Attachments/Pasted image 20240310204734.png",
     "MATH112/MATH112 - 2024-02-28.md",
     "MATH112/MATH112 - 2024-03-05.md",
     "System Folders /Templates/Calc 2 Template.md",
@@ -225,19 +239,6 @@
     "MATH112/MATH112 - 2024-03-06.md",
     "HASS298/Suiter/HASS298 - 2024-03-08.md",
     "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-07.md",
-    "System Folders / Excalidraw/Two Cylinder PSSD Pain.md",
-    "PHGN100/PHGN 100 - 2024-03-06.md",
-    "MATH112/MATH112 - 2024-02-21.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-03-07.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-02-27.md",
-    "System Folders / Excalidraw/Rolling Object Sketch.md",
-    "MATH112/MATH112 - 2024-02-27.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-03-05.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-18.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-29.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md",
     "System Folders /Attachments/Pasted image 20240305101309.png",
     "System Folders /Attachments/Screenshot 2024-03-04 at 10.28.18 AM.png",
     "HASS298/Suiter",
@@ -252,7 +253,6 @@
     "Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
     "System Folders /Attachments/Screenshot 2024-02-07 at 8.09.19 PM.png",
-    "System Folders /Attachments/IMG_1438.jpeg",
     "PHGN100/PHGN100 Studios",
     "System Folders /Attachments/Attachments 1",
     "System Folders /Attachments/annotated-1704916580.7672029.jpg.pdf",

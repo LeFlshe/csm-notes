@@ -1,9 +1,6 @@
 #suiter #hass #hass298 
 
 
-----
-
-
 My problem that I've identified is the high price of water in Southern California, largely due to industrial supply issues. San Diego already sources a distinct amount of water from "drought resistant sources," yet prices continue to raise year over year, as depicted in \[Figure 1] 
 ![[Pasted image 20240310204734.png]]
 Figure One: San Diego Water Rate
@@ -14,4 +11,8 @@ San Diego County (SDC) has already attempted to reduce this, especially by inves
 Figure Two: San Diego Water Use, 2005-2019
 
 
-Ideally, water usage up the water stream would be reduced (as the vast majority of California water is directed towards agricultural uses), but addressing that issue is practically another problem statement in and of itself. Instead, I intend to focus potential solutions on San Diego County, and even then, on the production of more water. Solutions attempting to address the consumption of water - from turf lawns to low flow shower heads - are quite literally flooding the market, and as such would be difficult to establish a successful business without some kind of significant market advantage. 
+Ideally, water usage up the water stream would be reduced (as the vast majority of California water is directed towards agricultural uses), but addressing that issue is practically another problem statement in and of itself. Instead, I intend to focus potential solutions on San Diego County, and even then, on the production of more water. Solutions attempting to address the consumption of water - from turf lawns to low flow shower heads - are quite literally flooding the market, and as such would be difficult to establish a successful business without some kind of significant market advantage. I believe the most viable areas to develop a successful solution and business would be through introducing some kind of desalination competition to Poseidon water - they effectively hold a monopoly in the region, and currently face little to no competition in desal based water production for San Diego. The technology making industrial levels of desalination possible are being continuously innovated - it would likely be eminently possible to break into the market if some kind of new technological development were able to establish a foothold. 
+
+Major steps involved in making this potential business a reality would involve, in an extremely simplified form, developing some kind of competitive advantage over Poseidon and any other water desalination companies that would pop up in the meantime. Poseidon, at current, is unable to support the needs of SDC, which has been forced to implement water price increases, as originally shown in Figure One. Once our theoretical company has our advantage - which would make us better suited to be able to provide water for SDC - we would need to secure funding to actually make it a reality, most likely through government contracts and subsidies. 
+
+Finally, to evaluate the success of our solution, the simplest method would be to analyze water prices vs water use in San Diego. If water prices remain constant, but water use goes up, that would mean our business has succeeded - we were able to reduce the price of water in San Diego County. Similar results could also be indicated by lower prices but a similar level of use, or at bare minimum a flattening of quite how steep the water price graph has become. 

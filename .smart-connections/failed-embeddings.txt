@@ -36,6 +36,7 @@ HASS298/Horan/HASS298 - 2024-02-02.md
 HASS298/Horan/HASS298 - 2024-02-05.md
 HASS298/Horan/HASS298 - 2024-02-07.md
 HASS298/Horan/HASS298 - 2024-02-08.md
+HASS298/Suiter/Draft of Water Problem.md
 HASS298/Suiter/HASS298 - 2024-02-21.md
 HASS298/Suiter/HASS298 - 2024-02-21.md#Social Entrepreneurship#Definitions#Entrepreneur
 HASS298/Suiter/HASS298 - 2024-02-21.md#Social Entrepreneurship#Definitions#Social Entrepeneur
@@ -51,6 +52,7 @@ HASS298/Suiter/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Wicked
 HASS298/Suiter/HASS298 - 2024-03-04.md
 HASS298/Suiter/HASS298 - 2024-03-06.md
 HASS298/Suiter/HASS298 - 2024-03-08.md
+HASS298/Suiter/HASS298 - 2024-03-11.md
 HASS298/Suiter/HASS298 PEST Analysis.md
 HASS298/Suiter/ICP - Wicked Problems.md
 HASS298/Suiter/ICP - Wicked Problems.md#2. Why Interesting?
@@ -165,6 +167,14 @@ MATH112/MATH112 - 2024-03-06.md#Briggs 8.9 - Improper integrals#type 1 (but agai
 MATH112/MATH112 - 2024-03-06.md#Briggs 8.9 - Improper integrals#type 2
 MATH112/MATH112 - 2024-03-06.md#worksheet 2.7 \ 2
 MATH112/MATH112 - 2024-03-08.md
+MATH112/MATH112 - 2024-03-11.md
+MATH112/MATH112 - 2024-03-12.md
+MATH112/MATH112 - 2024-03-12.md#10.2 sequences
+MATH112/MATH112 - 2024-03-12.md#Geometric Sequence
+MATH112/MATH112 - 2024-03-12.md#Geometric Sequence#Theorem
+MATH112/MATH112 - 2024-03-12.md#example
+MATH112/MATH112 - 2024-03-12.md#function matching
+MATH112/MATH112 - 2024-03-12.md#function matching#theorem
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -188,6 +198,7 @@ PHGN100/PHGN 100 - 2024-02-26.md
 PHGN100/PHGN 100 - 2024-02-28.md
 PHGN100/PHGN 100 - 2024-03-04.md
 PHGN100/PHGN 100 - 2024-03-06.md
+PHGN100/PHGN 100 - 2024-03-11.md
 PHGN100/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 - Block One.md
 PHGN100/PHGN100 - Block Two.md
@@ -198,6 +209,7 @@ PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#N2L
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-22.md
+PHGN100/PHGN100 Studios/PHGN 100 2 - 2024-03-12.md
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Observations#Oscillating
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Observations#Static Equilibrium
@@ -205,6 +217,7 @@ PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Overall
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Questions
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-03-05.md
 PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-07.md
+PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-12.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md
@@ -214,6 +227,7 @@ PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-27.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md#methods of torque
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md#torque for rocket 1
+PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-03-12.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-03-07.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-02-27.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md
@@ -706,6 +720,8 @@ System Folders / Excalidraw/Drawing 2024-03-05 10.24.32.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-03-05 10.27.18.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-03-07 10.16.15.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-03-07 11.27.21.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-03-12 10.46.50.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-03-12 11.11.38.excalidraw.md
 System Folders / Excalidraw/EI Pulley Bullshit 3.5.24.md
 System Folders / Excalidraw/EI hangar Bullshit 3.5.24.md
 System Folders / Excalidraw/EI hangar Bullshit 3.5.24.md#Drawing
@@ -750,6 +766,8 @@ System Folders / Excalidraw/Studio PSSD Picture 1.6.24.md
 System Folders / Excalidraw/Studio drawing 2.1.24.md
 System Folders / Excalidraw/Studio drawing 2.1.24.md#Drawing
 System Folders / Excalidraw/Studio drawing 2.1.24.md#Text Elements
+System Folders / Excalidraw/Swingy Ball FBD (tension bait).md
+System Folders / Excalidraw/Swingy Ball FBD.md
 System Folders / Excalidraw/Tank Sketch.md
 System Folders / Excalidraw/Two Cylinder PSSD Pain.md
 System Folders / Excalidraw/studiopssdelevator.md
