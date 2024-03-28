@@ -121,5 +121,13 @@
       ],
       "key": "I"
     }
+  ],
+  "templater-obsidian:System Folders /Templates/Series Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
   ]
 }

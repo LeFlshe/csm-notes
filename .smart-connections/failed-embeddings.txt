@@ -1,28 +1,12 @@
+
 EDNS200/EDNS200 - 2024-01-17.md
 EDNS200/EDNS200 - 2024-01-17.md#Balance
 EDNS200/EDNS200 - 2024-01-17.md#Elements of Good Design
 EDNS200/EDNS200 - 2024-01-17.md#Emphasis
 EDNS200/EDNS200 - 2024-01-17.md#Some quick other ones
-EDNS200/EDNS200 - 2024-01-31.md
-HASS298/HASS298 - 2024-01-12.md
-HASS298/HASS298 - 2024-02-05.md
-HASS298/HASS298 - 2024-02-07.md
-HASS298/HASS298 - 2024-02-08.md
+EDNS200/EDNS200 - 2024-03-25.md
 HASS298/HASS298 - 2024-02-14.md
-HASS298/HASS298 - 2024-02-21.md
-HASS298/HASS298 - 2024-02-26.md
-HASS298/HASS298 - 2024-02-28.md
-HASS298/HASS298 - 2024-02-28.md#PEST Analysis#E(conomic)
-HASS298/HASS298 - 2024-02-28.md#PEST Analysis#P(olitical)
-HASS298/HASS298 - 2024-02-28.md#PEST Analysis#S(ociocultural)
-HASS298/HASS298 - 2024-02-28.md#PEST Analysis#T(echnological)
-HASS298/HASS298 - 2024-03-01.md
-HASS298/HASS298 - 2024-03-01.md#ICP - Wicked Problems#2. Why Interesting?
-HASS298/HASS298 - 2024-03-01.md#ICP - Wicked Problems#4.
-HASS298/HASS298 - 2024-03-01.md#ICP - Wicked Problems#Definitions of a wicked problem
-HASS298/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Unironically, we're doing Wicked Problems
-HASS298/HASS298 - 2024-03-01.md#Wicked!#You're gonna be pop-u-lar.#Wicked Problems: The Ten Properties of Wickedness
-HASS298/HASS298 PEST Analysis.md
+HASS298/HASS298 - 2024-03-25.md
 HASS298/Horan/Energy Timeline Draft.md
 HASS298/Horan/HASS298 - 2024-01-17.md
 HASS298/Horan/HASS298 - 2024-01-19.md
@@ -53,12 +37,12 @@ HASS298/Suiter/HASS298 - 2024-03-04.md
 HASS298/Suiter/HASS298 - 2024-03-06.md
 HASS298/Suiter/HASS298 - 2024-03-08.md
 HASS298/Suiter/HASS298 - 2024-03-11.md
+HASS298/Suiter/HASS298 - 2024-03-13.md
 HASS298/Suiter/HASS298 PEST Analysis.md
 HASS298/Suiter/ICP - Wicked Problems.md
 HASS298/Suiter/ICP - Wicked Problems.md#2. Why Interesting?
 HASS298/Suiter/ICP - Wicked Problems.md#4.
 HASS298/Suiter/ICP - Wicked Problems.md#Definitions of a wicked problem
-MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-09.md
 MATH112/MATH112 - 2024-01-10.md
 MATH112/MATH112 - 2024-01-10.md#General Goals Today
@@ -90,16 +74,14 @@ MATH112/MATH112 - 2024-01-30.md
 MATH112/MATH112 - 2024-01-30.md#4.2 is derivatives n fun stuff
 MATH112/MATH112 - 2024-01-30.md#calc of VVFs
 MATH112/MATH112 - 2024-01-30.md#notesises
-MATH112/MATH112 - 2024-01-31.md
-MATH112/MATH112 - 2024-01-31.md#14.3
-MATH112/MATH112 - 2024-01-31.md#14.3#deribatibs
-MATH112/MATH112 - 2024-01-31.md#14.3#integrals
-MATH112/MATH112 - 2024-01-31.md#14.3#integrals#example (trajectory problem with gravity)
-MATH112/MATH112 - 2024-01-31.md#integrals#definite integrals
 MATH112/MATH112 - 2024-02-02.md
 MATH112/MATH112 - 2024-02-02.md#6.2#previous on calc 1
 MATH112/MATH112 - 2024-02-02.md#6.2#previous on calc 1#example
 MATH112/MATH112 - 2024-02-07.md
+MATH112/MATH112 - 2024-02-07.md#example... but again
+MATH112/MATH112 - 2024-02-07.md#go backwards
+MATH112/MATH112 - 2024-02-07.md#hershey kith
+MATH112/MATH112 - 2024-02-07.md#hey-ho, do it again, rotate around $x = -1$
 MATH112/MATH112 - 2024-02-09.md
 MATH112/MATH112 - 2024-02-12.md
 MATH112/MATH112 - 2024-02-12.md#first up on the chopping block is springs
@@ -124,7 +106,6 @@ MATH112/MATH112 - 2024-02-14.md#homework problem
 MATH112/MATH112 - 2024-02-21.md
 MATH112/MATH112 - 2024-02-21.md#Integration by Parts
 MATH112/MATH112 - 2024-02-21.md#Integration by Parts#example time
-MATH112/MATH112 - 2024-02-23.md
 MATH112/MATH112 - 2024-02-26.md
 MATH112/MATH112 - 2024-02-27.md
 MATH112/MATH112 - 2024-02-27.md#Powers of trig functions, integrations
@@ -167,6 +148,12 @@ MATH112/MATH112 - 2024-03-06.md#Briggs 8.9 - Improper integrals#type 1 (but agai
 MATH112/MATH112 - 2024-03-06.md#Briggs 8.9 - Improper integrals#type 2
 MATH112/MATH112 - 2024-03-06.md#worksheet 2.7 \ 2
 MATH112/MATH112 - 2024-03-08.md
+MATH112/MATH112 - 2024-03-08.md#Gabriel's horn shenanigans
+MATH112/MATH112 - 2024-03-08.md#ok now it's *actually* time for type 2 improper
+MATH112/MATH112 - 2024-03-08.md#ok now it's *actually* time for type 2 improper#example time
+MATH112/MATH112 - 2024-03-08.md#other versions of type 1
+MATH112/MATH112 - 2024-03-08.md#other versions of type 1#example
+MATH112/MATH112 - 2024-03-08.md#time for type 2 improper integrals
 MATH112/MATH112 - 2024-03-11.md
 MATH112/MATH112 - 2024-03-12.md
 MATH112/MATH112 - 2024-03-12.md#10.2 sequences
@@ -175,6 +162,16 @@ MATH112/MATH112 - 2024-03-12.md#Geometric Sequence#Theorem
 MATH112/MATH112 - 2024-03-12.md#example
 MATH112/MATH112 - 2024-03-12.md#function matching
 MATH112/MATH112 - 2024-03-12.md#function matching#theorem
+MATH112/MATH112 - 2024-03-12.md#growth rates
+MATH112/MATH112 - 2024-03-12.md#growth rates#theorem
+MATH112/MATH112 - 2024-03-13.md
+MATH112/MATH112 - 2024-03-25.md
+MATH112/MATH112 - 2024-03-26.md
+MATH112/MATH112 - 2024-03-26.md#Classic Series#2 Series
+MATH112/MATH112 - 2024-03-26.md#Classic Series#Harmonic Series
+MATH112/MATH112 - 2024-03-26.md#I need something stronger!
+MATH112/MATH112 - 2024-03-26.md#does $\sum\limits_{k=1}^{\infty}a_{k}$ converge?
+MATH112/MATH112 - 2024-03-26.md#does $\sum\limits_{k=1}^{\infty}a_{k}$ converge?#got some tests
 MATH112/MATH112 - LaTeX Scratch.md
 Misc Mines Housekeeping/First Floor Meeting.md
 Misc Mines Housekeeping/Student Orientation.md
@@ -183,6 +180,7 @@ Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life
 Misc Mines Housekeeping/Student Orientation.md#Dear World#Reflect on life#Memories about Swim Lessons
 Misc Mines Housekeeping/Student Orientation.md#Mines police
 Misc Mines Housekeeping/Student Orientation.md#Title IX Stuff
+PHGN100/Hubris.md
 PHGN100/Matrix Webwork 2-29.md
 PHGN100/PHGN 100 - 2024-01-10.md#Real Physics Time
 PHGN100/PHGN 100 - 2024-01-10.md#Real Physics Time#example prob
@@ -190,26 +188,21 @@ PHGN100/PHGN 100 - 2024-01-24.md
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#piecewise fella
 PHGN100/PHGN 100 - 2024-01-24.md#1-4 advanced kinematics#the chase
-PHGN100/PHGN 100 - 2024-02-05.md
-PHGN100/PHGN 100 - 2024-02-12.md
 PHGN100/PHGN 100 - 2024-02-15.md
 PHGN100/PHGN 100 - 2024-02-21.md
 PHGN100/PHGN 100 - 2024-02-26.md
 PHGN100/PHGN 100 - 2024-02-28.md
 PHGN100/PHGN 100 - 2024-03-04.md
+PHGN100/PHGN 100 - 2024-03-04.md#clicker two
+PHGN100/PHGN 100 - 2024-03-04.md#first clicker
+PHGN100/PHGN 100 - 2024-03-04.md#rotational statics
 PHGN100/PHGN 100 - 2024-03-06.md
 PHGN100/PHGN 100 - 2024-03-11.md
+PHGN100/PHGN 100 - 2024-03-25.md
 PHGN100/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 - Block One.md
 PHGN100/PHGN100 - Block Two.md
-PHGN100/PHGN100 - Unit One.md
-PHGN100/PHGN100 - Unit Two.md
-PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md
-PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#Follow Up Questions
-PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-08.md#N2L
-PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-15.md
-PHGN100/PHGN100 Studios/PHGN 100 - 2024-02-22.md
-PHGN100/PHGN100 Studios/PHGN 100 2 - 2024-03-12.md
+PHGN100/PHGN100 Studios/PHGN 100 - 2024-03-26.md
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Observations#Oscillating
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Observations#Static Equilibrium
@@ -218,9 +211,11 @@ PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-02-22.md#Questions
 PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-03-05.md
 PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-07.md
 PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-12.md
-PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-01-30.md
+PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-26.md#Part 1:
+PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-26.md#Part 2:
+PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-26.md#Part 3:
+PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-26.md#Part 3:#Follow Up Questions
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-01.md
-PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-15.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-22.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-27.md
@@ -230,7 +225,6 @@ PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md#torque for rocket 1
 PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-03-12.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-03-07.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-02-27.md
-PHGN100/PHGN100 Studios/PHGN 100 Studio 2- 2024-02-06.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-01 1.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-02-29.md
 PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-06.md
@@ -249,7 +243,6 @@ PHGN100/PHGN100 Studios/PHGN100STUDIO - 2024-01-11.md#Experimental Investigation
 PHGN100/PHGN100 Studios/Untitled.md
 PHGN100/Untitled.md
 README.md
-Scratch.md
 Semester 1/CHGN121/CHGN121 - 2023-08-21.md
 Semester 1/CHGN121/CHGN121 - 2023-08-23.md
 Semester 1/CHGN121/CHGN121 - 2023-08-23.md#Fall '22 Cohort Advice
@@ -287,13 +280,6 @@ Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Electron Distribution Examples
 Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Electron Shenanigans
 Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Intramolecular Bonds
 Semester 1/CHGN121/CHGN121 - 2023-09-11.md#Ionic Bonds
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md#IMFS
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md#Ionic vs Molecular
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md#Quick calc examples
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md#notes ig#Covalent Compounds
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md#notes ig#Ionic Compounds
-Semester 1/CHGN121/CHGN121 - 2023-09-13.md#notes ig#Metals
 Semester 1/CHGN121/CHGN121 - 2023-09-15.md
 Semester 1/CHGN121/CHGN121 - 2023-09-18.md
 Semester 1/CHGN121/CHGN121 - 2023-09-18.md#Chemical Naming
@@ -551,7 +537,6 @@ Semester 1/EDNS151/Module 2 Reflection.md
 Semester 1/MATH111/Concepts/Concavity.md
 Semester 1/MATH111/Concepts/Derivative.md
 Semester 1/MATH111/Concepts/Limit.md
-Semester 1/MATH111/Latex Scratchpaper.md
 Semester 1/MATH111/MATH111 - 2023-08-21.md
 Semester 1/MATH111/MATH111 - 2023-08-22.md
 Semester 1/MATH111/MATH111 - 2023-08-23.md
@@ -638,7 +623,6 @@ Semester 1/MATH111/MATH111 - 2023-10-02.md#Chain Rule Objectives#ex
 Semester 1/MATH111/MATH111 - 2023-10-02.md#Examples (but again)#Let $y = \sqrt{x^4-7x}$
 Semester 1/MATH111/MATH111 - 2023-10-02.md#Generalization Calls
 Semester 1/MATH111/MATH111 - 2023-10-03.md
-Semester 1/MATH111/MATH111 - 2023-10-04.md
 Semester 1/MATH111/MATH111 - 2023-10-06.md
 Semester 1/MATH111/MATH111 - 2023-10-09.md
 Semester 1/MATH111/MATH111 - 2023-10-09.md#Exponential Log Rules
@@ -672,10 +656,10 @@ Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Concave Down
 Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Concave Up
 Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Example
 Semester 1/MATH111/MATH111 - 2023-10-24.md#[[Concavity]]#Inflection Point
-Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#Extra Theorem
-Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#How to Optimization
-Semester 1/MATH111/MATH111 - 2023-10-25.md#Optimization#How to Optimization#Example
 Semester 1/MATH111/MATH111 - 2023-10-30.md
+Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff
+Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff#Rectangular Solid
+Semester 1/MATH111/MATH111 - 2023-10-30.md#Optimization Stuff#Right Circular Cylinder
 Semester 1/MATH111/MATH111 - 2023-10-31.md
 Semester 1/MATH111/MATH111 - 2023-11-01.md
 Semester 1/MATH111/MATH111 - 2023-11-01.md#L'Hôpital's Rule
@@ -686,8 +670,6 @@ Semester 1/MATH111/MATH111 - 2023-11-29.md
 Semester 1/MATH111/Mean Value Theorem.md
 Semester 1/MATH111/Sign Chart.md
 Semester 1/MATH111/Tangent Line.md
-Semester 1/MATH111/Trigonometric Identities.md#Double/Half-Angle Identities
-Semester 1/MATH111/Trigonometric Identities.md#Pythagorean Identities
 Semester 1/MATH111/Unit Circle.md
 System Folders / Excalidraw/1.30.24 studio 1.md
 System Folders / Excalidraw/1.30.24 studio 1.md#Drawing
@@ -697,32 +679,18 @@ System Folders / Excalidraw/Balls and Blocks galore.md#Drawing
 System Folders / Excalidraw/Balls and Blocks galore.md#Text Elements
 System Folders / Excalidraw/Drawing 2024-01-10 09.54.59.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-01-11 11.16.14.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-08 10.05.35.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-08 10.57.30.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-12 14.58.09.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-13 15.31.55.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-14 15.44.21.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-14 20.25.34.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-15 10.14.42.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-15 10.18.09.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-15 10.23.02.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-15 10.26.43.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-15 10.47.09.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-21 15.28.39.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-22 10.17.30.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-02-22 10.19.40.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-22 10.30.21.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-27 10.25.03.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-27 10.41.16.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-02-29 10.16.39.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-03-04 10.08.39.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-03-05 10.24.32.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-03-05 10.27.18.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-03-07 10.16.15.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-03-07 11.27.21.excalidraw.md
-System Folders / Excalidraw/Drawing 2024-03-12 10.46.50.excalidraw.md
 System Folders / Excalidraw/Drawing 2024-03-12 11.11.38.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-03-13 20.11.29.excalidraw.md
+System Folders / Excalidraw/Drawing 2024-03-26 10.40.37.excalidraw.md
 System Folders / Excalidraw/EI Pulley Bullshit 3.5.24.md
+System Folders / Excalidraw/EI Pulley Bullshit 3.5.24.md#Drawing
+System Folders / Excalidraw/EI Pulley Bullshit 3.5.24.md#Text Elements
 System Folders / Excalidraw/EI hangar Bullshit 3.5.24.md
 System Folders / Excalidraw/EI hangar Bullshit 3.5.24.md#Drawing
 System Folders / Excalidraw/EI hangar Bullshit 3.5.24.md#Text Elements
@@ -734,6 +702,8 @@ System Folders / Excalidraw/FBDs Hanging Spring.md#Drawing
 System Folders / Excalidraw/FBDs Hanging Spring.md#Text Elements
 System Folders / Excalidraw/General Oscillation Sketch.md
 System Folders / Excalidraw/Long Division Example.md
+System Folders / Excalidraw/Long Division Example.md#Drawing
+System Folders / Excalidraw/Long Division Example.md#Text Elements
 System Folders / Excalidraw/PSSD A 1 17.md
 System Folders / Excalidraw/PSSD A 1 17.md#Drawing
 System Folders / Excalidraw/PSSD A 1 17.md#Text Elements
@@ -747,6 +717,7 @@ System Folders / Excalidraw/Rolling Object Sketch.md#Text Elements
 System Folders / Excalidraw/Satellite Sketch.md
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Drawing
 System Folders / Excalidraw/Shooting Blaster Sketch.md#Text Elements
+System Folders / Excalidraw/Skier on ramp.md
 System Folders / Excalidraw/Stick EFBD.md
 System Folders / Excalidraw/Stick EFBD.md#Drawing
 System Folders / Excalidraw/Stick EFBD.md#Text Elements
@@ -757,17 +728,12 @@ System Folders / Excalidraw/Studio 2.15 Diagram Necklace.md
 System Folders / Excalidraw/Studio 2.15 Diagram Necklace.md#Drawing
 System Folders / Excalidraw/Studio 2.15 Diagram Necklace.md#Text Elements
 System Folders / Excalidraw/Studio 2.15 Diagram Satellite.md
-System Folders / Excalidraw/Studio 2.15 Diagrams.md
 System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md
 System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md#Drawing
 System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md#Text Elements
-System Folders / Excalidraw/Studio PSSD 1.6.24.md
-System Folders / Excalidraw/Studio PSSD Picture 1.6.24.md
-System Folders / Excalidraw/Studio drawing 2.1.24.md
 System Folders / Excalidraw/Studio drawing 2.1.24.md#Drawing
 System Folders / Excalidraw/Studio drawing 2.1.24.md#Text Elements
 System Folders / Excalidraw/Swingy Ball FBD (tension bait).md
-System Folders / Excalidraw/Swingy Ball FBD.md
 System Folders / Excalidraw/Tank Sketch.md
 System Folders / Excalidraw/Two Cylinder PSSD Pain.md
 System Folders / Excalidraw/studiopssdelevator.md
@@ -779,15 +745,8 @@ System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-03 12.03.
 System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-08 12.02.57.excalidraw.md
 System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-15 12.28.50.excalidraw.md
 System Folders /Attachments/Attachments 1/MATH11 2023-09-29 Sign chart.excalidraw.md
-System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Drawing
-System Folders /Attachments/Attachments 1/PHGN100STUDIO - 2024-01-11 2024-01-11 10.23.42.excalidraw.md#Text Elements
 System Folders /Templates/Chemistry Template.md
 System Folders /Templates/Derivative; Integral Evaluation Template.md
 System Folders /Templates/Limit Template.md
-Untitled 1.md
-Untitled.canvas
+System Folders /Templates/Series Template.md
 Untitled.md
-Worksheet 1.4.5.md
-Worksheet 1.4.md
-scratch.md
-scratchyscratch paper.md

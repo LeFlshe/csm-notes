@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "be249856c8f38cf2",
+        "id": "adc8306c36c77438",
         "type": "tabs",
         "children": [
           {
-            "id": "bc286c0f21e80728",
+            "id": "91db9c6d0406e9f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-04.md",
+                "file": "MATH112/MATH112 - 2024-03-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f919d455c442673f",
+            "id": "3ace0cd49c4e9ac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-12.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matrix",
+                "query": "mares",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50271224975586
+    "width": 255.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-12.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-12.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-12.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -168,12 +169,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-12.md"
+                "file": "Untitled 1.md"
               }
             }
           },
           {
-            "id": "5aa99bdc9a67d36d",
+            "id": "2e206cce3145e196",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -181,7 +182,7 @@
             }
           },
           {
-            "id": "43d3457b8790550e",
+            "id": "e04bcefdd4f16541",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -209,36 +210,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f919d455c442673f",
+  "active": "3ace0cd49c4e9ac8",
   "lastOpenFiles": [
-    "MATH112/MATH112 - 2024-01-26.md",
-    "MATH112/MATH112 - 2024-03-04.md",
+    "MATH112/MATH112 - 2024-03-26.md",
+    "Untitled 1.md",
+    "MATH112/MATH112 - 2024-03-27.md",
     "MATH112/MATH112 - 2024-03-12.md",
-    "System Folders / Excalidraw/Drawing 2024-03-12 11.11.38.excalidraw.md",
+    "MATH112/MATH112 - 2024-03-25.md",
+    "PHGN100/PHGN 100 - 2024-03-27.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-26.md",
+    "PHGN100/Hubris.md",
+    "System Folders / Excalidraw/Skier on ramp.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 - 2024-03-26.md",
+    "System Folders /Attachments/Screenshot 2024-03-26 at 10.19.43 AM.png",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-03-12.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-12.md",
-    "System Folders / Excalidraw/Swingy Ball FBD (tension bait).md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-03-07.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md",
-    "PHGN100/PHGN 100 - 2024-03-11.md",
-    "MATH112/MATH112 - 2024-03-11.md",
-    "PHGN100/PHGN 100 - 2024-03-06.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-03-05.md",
-    "PHGN100/PHGN 100 - 2024-02-28.md",
-    "HASS298/Suiter/HASS298 - 2024-03-11.md",
-    "HASS298/Suiter/Draft of Water Problem.md",
-    "System Folders /Attachments/Pasted image 20240310210809.png",
-    "System Folders /Attachments/Pasted image 20240310204734.png",
+    "PHGN100/PHGN 100 - 2024-03-25.md",
+    "HASS298/HASS298 - 2024-02-14.md",
+    "HASS298/HASS298 - 2024-03-25.md",
+    "HASS298/Horan/HASS298 - 2024-01-22.md",
+    "HASS298/Horan/HASS298 - 2024-01-24.md",
+    "HASS298/Horan/HASS298 - 2024-02-05.md",
+    "EDNS200/EDNS200 - 2024-03-25.md",
+    "Untitled.md",
+    "System Folders / Excalidraw/Drawing 2024-03-13 20.11.29.excalidraw.md",
+    "MATH112/MATH112 - 2024-03-04.md",
     "MATH112/MATH112 - 2024-02-28.md",
     "MATH112/MATH112 - 2024-03-05.md",
-    "System Folders /Templates/Calc 2 Template.md",
-    "README.md",
-    "Scratch.md",
-    "MATH112/MATH112 - 2024-03-08.md",
-    "System Folders /Templates/Derivative; Integral Evaluation Template.md",
     "MATH112/MATH112 - 2024-03-06.md",
-    "HASS298/Suiter/HASS298 - 2024-03-08.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-07.md",
+    "MATH112/MATH112 - 2024-03-08.md",
+    "MATH112/MATH112 - 2024-03-13.md",
+    "System Folders /Attachments/Pasted image 20240310210809.png",
+    "System Folders /Attachments/Pasted image 20240310204734.png",
     "System Folders /Attachments/Pasted image 20240305101309.png",
     "System Folders /Attachments/Screenshot 2024-03-04 at 10.28.18 AM.png",
     "HASS298/Suiter",
@@ -252,7 +254,6 @@
     "Untitled.canvas",
     "Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
-    "System Folders /Attachments/Screenshot 2024-02-07 at 8.09.19 PM.png",
     "PHGN100/PHGN100 Studios",
     "System Folders /Attachments/Attachments 1",
     "System Folders /Attachments/annotated-1704916580.7672029.jpg.pdf",
