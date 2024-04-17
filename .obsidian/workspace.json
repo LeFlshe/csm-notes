@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-04-15.md",
+                "file": "HASS298/HASS298 - 2024-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50271224975586
+    "width": 255.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH112/MATH112 - 2024-04-15.md",
+                "file": "HASS298/HASS298 - 2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH112/MATH112 - 2024-04-15.md",
+                "file": "HASS298/HASS298 - 2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH112/MATH112 - 2024-04-15.md"
+                "file": "HASS298/HASS298 - 2024-04-17.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MATH112/MATH112 - 2024-04-15.md"
+                "file": "HASS298/HASS298 - 2024-04-17.md"
               }
             }
           },
@@ -190,13 +191,20 @@
   },
   "active": "6b643c41653dbcfd",
   "lastOpenFiles": [
-    "HASS298/HASS298 - 2024-04-15.md",
+    "PHGN100/Hubris.md",
+    "HASS298/HASS298 - 2024-04-17.md",
+    "PHGN100/PHGN 100 - 2024-04-17.md",
+    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-04-09.md",
+    "MATH112/MATH112 - 2024-04-16.md",
+    "Untitled 1.md",
     "MATH112/MATH112 - 2024-04-15.md",
+    "Theater/TAJDAB.md",
+    "Theater",
+    "HASS298/HASS298 - 2024-04-15.md",
     "HASS298/HASS298 - 2024-04-10.md",
     "MATH112/MATH112 - 2024-04-09.md",
     "MATH112/MATH112 - 2024-04-08.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-04-09.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-04-09.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio 3 - 2024-04-09.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio 1- 2024-04-09.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio 3 - 2024-04-02.md",
@@ -210,12 +218,6 @@
     "HASS298/HASS298 - 2024-04-01.md",
     "HASS298/HASS298 - 2024-04-05.md",
     "HASS298/HASS298 - 2024-01-12.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio EI - 2024-04-04.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-04-04.md",
-    "System Folders / Excalidraw/zoomy EI sketch.md",
-    "integration practice.md",
-    "Untitled 1.md",
-    "MATH112/MATH112 - 2024-03-05.md",
     "System Folders /Attachments/F(a).png",
     "System Folders /Attachments/v(t).png",
     "System Folders /Attachments/F(t).png",
@@ -239,7 +241,6 @@
     "System Folders ",
     "Excalidraw",
     "EDNS200",
-    "HASS298",
     "Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
