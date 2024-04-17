@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASS298/HASS298 - 2024-04-17.md",
+                "file": "MATH112/MATH112 - 2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50271224975586,
-    "collapsed": true
+    "width": 255.50271224975586
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASS298/HASS298 - 2024-04-17.md",
+                "file": "MATH112/MATH112 - 2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASS298/HASS298 - 2024-04-17.md",
+                "file": "MATH112/MATH112 - 2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASS298/HASS298 - 2024-04-17.md"
+                "file": "MATH112/MATH112 - 2024-04-15.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HASS298/HASS298 - 2024-04-17.md"
+                "file": "MATH112/MATH112 - 2024-04-15.md"
               }
             }
           },
@@ -191,11 +190,11 @@
   },
   "active": "6b643c41653dbcfd",
   "lastOpenFiles": [
-    "PHGN100/Hubris.md",
+    "MATH112/MATH112 - 2024-04-16.md",
     "HASS298/HASS298 - 2024-04-17.md",
+    "PHGN100/Hubris.md",
     "PHGN100/PHGN 100 - 2024-04-17.md",
     "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-04-09.md",
-    "MATH112/MATH112 - 2024-04-16.md",
     "Untitled 1.md",
     "MATH112/MATH112 - 2024-04-15.md",
     "Theater/TAJDAB.md",
