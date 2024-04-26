@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "adc8306c36c77438",
+        "id": "5fbea6a96fc756e4",
         "type": "tabs",
         "children": [
           {
-            "id": "6b643c41653dbcfd",
+            "id": "f6352ef63a020a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-04-15.md",
+                "file": "Year 1/Semester 2/MATH112/MATH112 - 2024-04-26.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e298114479a9fefa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f79a6c311c175e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Potential Energy Graph.md"
-              }
-            }
-          },
-          {
-            "id": "8136a8cc1439d99d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Turning Points.md"
-              }
-            }
-          },
-          {
-            "id": "593573bf25b4d85f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "765483ffc23b99ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Drawing 2024-04-18 10.18.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "63c8ad7e38118f9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Spaaaaaaace (Earth Sketch).md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md",
+                "file": "Year 1/Semester 2/MATH112/MATH112 - 2024-04-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md",
+                "file": "Year 1/Semester 2/MATH112/MATH112 - 2024-04-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md"
+                "file": "Year 1/Semester 2/MATH112/MATH112 - 2024-04-26.md"
               }
             }
           },
@@ -217,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md"
+                "file": "Year 1/Semester 2/MATH112/MATH112 - 2024-04-26.md"
               }
             }
           },
@@ -250,59 +188,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "deaf344948347ad7",
+  "active": "6c7bbf6ac68c147e",
   "lastOpenFiles": [
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-04-18.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-04-18.md",
-    "System Folders / Excalidraw/Turning Points.md",
-    "System Folders / Excalidraw/Potential Energy Graph.md",
-    "System Folders / Excalidraw/Spaaaaace Potential energy graph.md",
-    "System Folders /Attachments/Screenshot 2024-04-18 at 10.26.49 AM.png",
-    "System Folders / Excalidraw/Drawing 2024-04-18 10.18.44.excalidraw.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 3 - 2024-04-09.md",
-    "System Folders / Excalidraw/Spaaaaaaace (Earth Sketch).md",
-    "PHGN100/PHGN 100 - 2024-04-03.md",
-    "PHGN100/PHGN 100 - 2024-04-08.md",
+    "Year 1",
+    "Year 1/Semester 2",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-26.md",
+    "System Folders / Excalidraw/Drawing of 7-3-1.md",
+    "Year 1/Semester 2/HASS298/HASS298 - 2024-04-10.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-04-25.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-04-09.md",
+    "System Folders /Attachments/Screenshot 2024-04-25 at 11.04.31 AM.png",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.1- 2024-04-25.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.2.4 - 2024-04-23.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.2.3 - 2024-04-23.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-15.md",
+    "Untitled 1.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-23.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-24.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-09.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-16.md",
+    "System Folders /Attachments/Screenshot 2024-04-24 at 8.14.34 PM.png",
     "Untitled.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-22.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-05.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-08.md",
+    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-04-24.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-04-23.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.2.2- 2024-04-23.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 - 2024-04-18.md",
+    "Year 1/Semester 2/HASS298/HASS298 - 2024-04-22.md",
+    "Year 1/Semester 2/HASS298/HASS298 - 2024-04-17.md",
+    "System Folders /Attachments/Screenshot 2024-04-18 at 10.26.49 AM.png",
     "System Folders /Attachments/Screenshot 2024-04-17 at 4.01.20 PM.png",
     "System Folders /Attachments/Screenshot 2024-04-17 at 4.00.35 PM.png",
-    "MATH112/MATH112 - 2024-04-15.md",
-    "MATH112/MATH112 - 2024-04-16.md",
-    "HASS298/HASS298 - 2024-04-17.md",
-    "PHGN100/Hubris.md",
-    "PHGN100/PHGN 100 - 2024-04-17.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-04-09.md",
-    "Untitled 1.md",
-    "Theater/TAJDAB.md",
     "Theater",
-    "HASS298/HASS298 - 2024-04-15.md",
-    "HASS298/HASS298 - 2024-04-10.md",
-    "MATH112/MATH112 - 2024-04-09.md",
-    "MATH112/MATH112 - 2024-04-08.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 2 - 2024-04-09.md",
-    "PHGN100/PHGN100 Studios/PHGN 100 Studio 1- 2024-04-09.md",
     "System Folders /Attachments/F(a).png",
     "System Folders /Attachments/v(t).png",
     "System Folders /Attachments/F(t).png",
     "System Folders /Attachments/Screenshot 2024-04-02 at 10.57.50 AM.png",
     "System Folders /Attachments/Pasted image 20240328110005.png",
-    "System Folders /Attachments/Screenshot 2024-03-26 at 10.19.43 AM.png",
-    "System Folders /Attachments/Pasted image 20240310210809.png",
-    "HASS298/Suiter",
-    "HASS298/Horan",
-    "MATH112/MATH112 Line Flowchart.canvas",
+    "Year 1/Semester 2/HASS298/Suiter",
+    "Year 1/Semester 2/HASS298/Horan",
+    "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
     "Untitled.canvas",
-    "Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
-    "PHGN100/PHGN100 Studios",
+    "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
+    "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios",
     "System Folders /Attachments/Attachments 1",
     "System Folders /Attachments/annotated-1704916580.7672029.jpg.pdf",
     "System Folders / Excalidraw",
     "System Folders ",
     "Excalidraw",
-    "EDNS200",
-    "Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
+    "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
 }

@@ -26,15 +26,15 @@
     "iconName": null,
     "inheritanceIcon": "RiFlaskFill"
   },
-  "PHGN100": "FarPaperPlane",
-  "MATH112": "RiDivideFill",
-  "Semester 1/CHGN121": "RiFlaskFill",
-  "Semester 1/CSM101": "RiHomeSmileLine",
-  "Semester 1/EBGN201": "RiExchangeDollarLine",
-  "Semester 1/EDNS151": "RiRulerLine",
-  "Semester 1/MATH111": "RiDivideFill",
-  "Semester 1/MATH111/MATH111 - 2023-11-01.md": "FarHospital",
-  "Semester 1/MATH111/MATH111 - 2023-11-03.md": "FarHospital",
-  "HASS298": "RiGlobalLine",
-  "EDNS200": "RiRuler2Line"
+  "Year 1/Semester 1/CHGN121": "RiFlaskFill",
+  "Year 1/Semester 1/CSM101": "RiHomeSmileLine",
+  "Year 1/Semester 1/EBGN201": "RiExchangeDollarLine",
+  "Year 1/Semester 1/EDNS151": "RiRulerLine",
+  "Year 1/Semester 1/MATH111": "RiDivideFill",
+  "Year 1/Semester 1/MATH111/MATH111 - 2023-11-01.md": "FarHospital",
+  "Year 1/Semester 1/MATH111/MATH111 - 2023-11-03.md": "FarHospital",
+  "Year 1/Semester 2/PHGN100": "FarPaperPlane",
+  "Year 1/Semester 2/MATH112": "RiDivideFill",
+  "Year 1/Semester 2/HASS298": "RiGlobalLine",
+  "Year 1/Semester 2/EDNS200": "RiRuler2Line"
 }
