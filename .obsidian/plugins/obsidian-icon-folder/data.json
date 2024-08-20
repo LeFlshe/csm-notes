@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiRuler2Line",
-      "RiGlobalLine",
-      "FarPaperPlane",
-      "FarHospital",
-      "FarPenToSquare"
+      "FasGraduationCap",
+      "SiElectron",
+      "FasBrain",
+      "FarPenToSquare",
+      "FasPenRuler"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,11 @@
   "Year 1/Semester 2/PHGN100": "FarPaperPlane",
   "Year 1/Semester 2/MATH112": "RiDivideFill",
   "Year 1/Semester 2/HASS298": "RiGlobalLine",
-  "Year 1/Semester 2/EDNS200": "RiRuler2Line"
+  "Year 1/Semester 2/EDNS200": "RiRuler2Line",
+  "Year 2/Semester 1/MATH213": "FasRuler",
+  "Year 2/Semester 1/HASS111": "FasGlobe",
+  "Year 2/Semester 1/EDNS291": "FarPenToSquare",
+  "Year 2/Semester 1/CSM202": "FasBrain",
+  "Year 2/Semester 1/PHGN200": "SiElectron",
+  "Year 2/Semester 1/CSM101-TA": "FasGraduationCap"
 }

@@ -21,9 +21,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH112/MATH112 - 2024-03-27.md",
-                "mode": "source",
-                "source": false
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MATH112/MATH112 - 2024-03-27.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MATH112/MATH112 - 2024-03-27.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,8 +135,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MATH112/MATH112 - 2024-03-27.md"
+            "file": "README.md"
           }
+        }
+      },
+      {
+        "id": "8a520ad6445c2cc0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -157,6 +165,9 @@
   },
   "active": "6553b5bc500062da",
   "lastOpenFiles": [
+    "Theater Stuff/Tech Lead 7.29.24 Meeting.md",
+    "README.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-09.md",
     "PHGN100/PHGN100 - Block Two.md",
     "PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-08.md",
     "MATH112/MATH112 - 2024-01-29.md",
@@ -183,9 +194,6 @@
     "Semester 1/CHGN121/CHGN121 - 2023-11-06.md",
     "Semester 1/CHGN121/CHGN121 - 2023-11-10.md",
     "Semester 1/CHGN121/CHGN121 - 2023-11-15.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-11-27.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-11-29.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-12-04.md",
     "EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",

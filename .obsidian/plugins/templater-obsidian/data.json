@@ -15,20 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "MATH112",
-      "template": "System Folders /Templates/Calc 2 Template.md"
+      "folder": "Year 2/Semester 1/MATH213",
+      "template": "System Folders /Templates/Calc 3 Template.md"
     },
     {
-      "folder": "PHGN100",
-      "template": "System Folders /Templates/PHGN 100 Template.md"
+      "folder": "Year 2/Semester 1/PHGN200",
+      "template": "System Folders /Templates/PHGN 200 Template.md"
     },
     {
-      "folder": "EDNS200",
-      "template": "System Folders /Templates/EDNS200 - Template.md"
+      "folder": "Year 2/Semester 1/EDNS291",
+      "template": "System Folders /Templates/EDNS291 - Template.md"
     },
     {
-      "folder": "HASS298",
-      "template": "System Folders /Templates/HASS298 - Template.md"
+      "folder": "Year 2/Semester 1/HASS111",
+      "template": "System Folders /Templates/HASS111 - Template.md"
     }
   ],
   "syntax_highlighting": true,
