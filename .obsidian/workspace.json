@@ -8,26 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55364bdd1238ac58",
+            "id": "c2143e8fac212d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33e14ae5fa2ee06a",
+            "id": "e217aabaaa940820",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/phys2 8.22.24 prob1.md"
+              }
+            }
+          },
+          {
+            "id": "4b54dd50bb1c29f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unit circle",
+                "query": "#toDo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
+                "file": "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
+                "file": "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md"
+                "file": "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-11.md"
               }
             }
           },
@@ -163,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md"
+                "file": "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-11.md"
               }
             }
           },
@@ -196,8 +212,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c7bbf6ac68c147e",
+  "active": "4b54dd50bb1c29f0",
   "lastOpenFiles": [
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-18.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-20.md",
+    "Year 1/Semester 1/CSM101/CSM101 - 2023-10-19.md",
+    "Year 1/Semester 2/EDNS200/EDNS200 - 2024-01-22.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-22.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-22.md",
+    "System Folders / Excalidraw/phys2 8.22.24 prob1.md",
+    "Year 2/Semester 1/EDNS291/EDNS291 - 2024-08-21.md",
+    "Untitled.canvas",
+    "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
+    "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
+    "Year 1/Semester 1/EDNS151/ENDS151 Looks-Like Prototype Upload.md",
+    "System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-11-08 12.02.57.excalidraw.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-24.md",
+    "Year 2/Semester 1/EDNS291/EDNS291 - Intersection Redesign (Notes).md",
+    "Year 2/Semester 1/EDNS291/EDNS291 - 2024-08-20.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-08-21.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-30.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 Studio - 2024-08-21.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-21.md",
+    "System Folders / Excalidraw/zplane sketch 8.21.24.md",
+    "System Folders / Excalidraw/yplane sketch 8.21.24.md",
+    "System Folders / Excalidraw/Drawing 2024-08-21 10.31.38.excalidraw.md",
+    "System Folders / Excalidraw/plane sketch 8.21.md",
+    "System Folders / Excalidraw/vec sketch 8.21.24.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-20.md",
+    "README.md",
+    "scratch.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
     "plugins/obsidian-icon-folder/icons/simple-icons/Futurelearn.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/Proxmox.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/Derspiegel.svg",
@@ -208,7 +253,6 @@
     "plugins/obsidian-icon-folder/icons/simple-icons/Askubuntu.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/Chatbot.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/Googlecloud.svg",
-    "plugins/obsidian-icon-folder/icons/simple-icons/iconsPocket.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons",
     "plugins/obsidian-icon-folder/icons/remix-icons",
     "plugins/obsidian-icon-folder/main.js",
@@ -217,38 +261,10 @@
     "plugins/obsidian-icon-folder/icons",
     "plugins/obsidian-icon-folder",
     "plugins",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-19.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-20.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
-    "Year 2/Semester 1/EDNS291/EDNS291 - 2024-08-20.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-12.md",
-    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-04.md",
-    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-09.md",
-    "Year 1/Semester 1/MATH111/Unit Circle.md",
-    "scratch.md",
-    "phys scratch.md",
-    "Peer Mentor Training/Training 1.md",
-    "System Folders /Templates/Calc 3 Template.md",
-    "System Folders /Templates/HASS111 - Template.md",
-    "System Folders /Templates/EDNS291 - Template.md",
-    "System Folders /Templates/PHGN 200 Template.md",
     "Year 2/Semester 1/CSM202",
     "Year 2/Semester 1/HASS111",
-    "System Folders / Excalidraw/Drawing 2024-08-08 15.13.50.excalidraw.md",
-    "Theater Stuff/Tech Lead 7.29.24 Meeting.md",
-    "Year 1/Semester 2/HASS298/Horan/HASS298 - 2024-01-19.md",
-    "Year 1/Semester 2/HASS298/HASS298 - 2024-01-12.md",
-    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-09-08.md",
-    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-20.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-05-01.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-22.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-06.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-27.md",
-    "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
-    "Untitled.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
-    "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
 }
