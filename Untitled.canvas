@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"7005b0e1319c3d79","type":"text","text":"# Helluva Welcome\n","x":-281,"y":-63,"width":275,"height":100},
-		{"id":"1c16b1b9555119b1","type":"text","text":"","x":-237,"y":107,"width":250,"height":60}
-	],
-	"edges":[]
-}
