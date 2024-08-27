@@ -1,5 +1,5 @@
 #math213 #calc #math 
-
+# My bad, completely forgot to submit, uploaded for posterity.
 1. Find all the points on the curve that have a slope of 1
 $$x=8t + \frac{2}{t^{2}}$$
 $$y=8t - \frac{2}{t^{2}}$$

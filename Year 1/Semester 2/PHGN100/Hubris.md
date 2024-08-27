@@ -1,5 +1,4 @@
-#phgn100 #phgn 
-
+#phgn100 
 $$\frac{1}{2}kx^{2}- g m_{b}* (d-r_{b}) = E_{tot}$$
 $$E_{tot}= \frac{1}{2}mv^{2} + \frac{1}{2}I\omega ^{2}$$
 $$\frac{1}{2}mv^{2}+ \frac{1}{2}(\frac{2}{5}mr^{2})\omega^{2}$$
