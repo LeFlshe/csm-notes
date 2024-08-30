@@ -4,18 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "5fbea6a96fc756e4",
+        "id": "ec714f336525d175",
         "type": "tabs",
         "children": [
           {
-            "id": "88a41c0d036cd28d",
+            "id": "97dc67032e8db4c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1d0ed1326862a88c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/Drawing 2024-08-28 12.31.24.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e00e2a0d7287d0ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/diy cylinder.md"
               }
             }
           }
@@ -65,11 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.50271224975586
+    "width": 331.5026054382324
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md"
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md"
               }
             }
           },
@@ -155,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md"
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md"
               }
             }
           },
@@ -188,34 +209,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88a41c0d036cd28d",
+  "active": "deaf344948347ad7",
   "lastOpenFiles": [
-    "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
-    "Year 2/Semester 1/EDNS291/EDNS291 - Intersection Redesign (Notes).md",
-    "Year 2/Semester 1/EDNS291/EDNS291 - 2024-08-21.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-26.md",
-    "System Folders / Excalidraw/VVF Sketch.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-23 Activity.md",
-    "Year 1/Semester 2/PHGN100/Hubris.md",
-    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-26.md",
-    "Year 1/Semester 2/HASS298/Suiter/HASS298 - 2024-03-01.md",
-    "System Folders / Excalidraw/Drawing 2024-08-23 11.24.32.excalidraw.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-28.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-02.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-09-05.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-30.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-23.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-25.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-21.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-09.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-23.md",
-    "scratch.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-21.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-26.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-30.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-27.md",
     "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-22.md",
-    "System Folders /Templates/Series Template.md",
-    "System Folders /Templates/Derivative; Integral Evaluation Template.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-08-23.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-08-28.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-28 Scratch.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-23.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-20.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-19.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-28.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-21.md",
+    "Year 2/Semester 1/PHGN200/PHGN200 Studios/PHGN 200 Studio - 2024-08-28.md",
+    "System Folders / Excalidraw/Drawing 2024-08-28 12.31.24.excalidraw.md",
+    "Year 2/Semester 1/PHGN200/PHGN200 Studios",
+    "Year 2/Semester 1/EDNS291/EDNS291 - Design Your Life Reflection 1.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-08-28.md",
+    "System Folders / Excalidraw/diy cylinder.md",
+    "System Folders / Excalidraw/x=sin(z).md",
+    "System Folders / Excalidraw/Crooked Cylinder.md",
+    "System Folders / Excalidraw/yaxis half pipe sketch.md",
+    "System Folders / Excalidraw/Half Pipe Sketch.md",
+    "System Folders / Excalidraw/Shit ass sphere sketch.md",
+    "System Folders / Excalidraw/Plane Sketch 8.28.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 STUDIO EI - 2024-01-23.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-23.md",
+    "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
     "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
     "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
     "plugins/obsidian-icon-folder/icons/simple-icons/Futurelearn.svg",
@@ -237,7 +260,6 @@
     "plugins/obsidian-icon-folder",
     "plugins",
     "Year 2/Semester 1/CSM202",
-    "Year 2/Semester 1/HASS111",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
