@@ -20,26 +20,31 @@
             }
           },
           {
-            "id": "1d0ed1326862a88c",
+            "id": "fdde2d95045213bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Folders / Excalidraw/Drawing 2024-08-28 12.31.24.excalidraw.md"
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "e00e2a0d7287d0ed",
+            "id": "a5bafe257618c798",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Folders / Excalidraw/diy cylinder.md"
+                "file": "8.30 Participation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arc length",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md"
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md"
               }
             }
           },
@@ -176,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md"
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-08-27.md"
               }
             }
           },
@@ -209,35 +214,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "deaf344948347ad7",
+  "active": "fdde2d95045213bb",
   "lastOpenFiles": [
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-30.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-20.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-23.md",
+    "System Folders / Excalidraw/part18.30.md",
+    "8.30 Participation.md",
     "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
+    "Year 2/Semester 1/PHGN200/PHGN200 Studios/PHGN 200 Studio - 2024-08-30.md",
+    "Year 2/Semester 1/PHGN200/PHGN200 Studios/PHGN 200 Studio - 2024-08-28.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-30.md",
+    "System Folders / Excalidraw/shitty squished ellipsoid.md",
+    "System Folders / Excalidraw/full conic hourglass.md",
+    "System Folders / Excalidraw/paraboloid.md",
+    "System Folders / Excalidraw/ellipsoid.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-30.md",
     "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-27.md",
     "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-22.md",
     "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
     "Year 1/Semester 1/CHGN121/CHGN121 - 2023-08-23.md",
     "Year 1/Semester 1/CHGN121/CHGN121 - 2023-08-28.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-08-28 Scratch.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-23.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-20.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-08-19.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-08-28.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-08-21.md",
-    "Year 2/Semester 1/PHGN200/PHGN200 Studios/PHGN 200 Studio - 2024-08-28.md",
     "System Folders / Excalidraw/Drawing 2024-08-28 12.31.24.excalidraw.md",
     "Year 2/Semester 1/PHGN200/PHGN200 Studios",
     "Year 2/Semester 1/EDNS291/EDNS291 - Design Your Life Reflection 1.md",
     "Year 2/Semester 1/HASS111/HASS111 - 2024-08-28.md",
     "System Folders / Excalidraw/diy cylinder.md",
-    "System Folders / Excalidraw/x=sin(z).md",
-    "System Folders / Excalidraw/Crooked Cylinder.md",
-    "System Folders / Excalidraw/yaxis half pipe sketch.md",
-    "System Folders / Excalidraw/Half Pipe Sketch.md",
-    "System Folders / Excalidraw/Shit ass sphere sketch.md",
-    "System Folders / Excalidraw/Plane Sketch 8.28.md",
-    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 STUDIO EI - 2024-01-23.md",
-    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 STUDIO - 2024-01-23.md",
     "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
     "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
     "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
