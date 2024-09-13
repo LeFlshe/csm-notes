@@ -1,1 +1,3 @@
-$$f(x) = \sum\limits_{k=1}^{M}(-1)^{k+1}(^{\text{M}}_k)\sum\limits_{j_{1}=0}^{m-1}\cdots \sum\limits_{j_{k}=0}^{m-1} \left(\prod_{i=1}^{k}\frac{\beta^{j_{1}}}{j_{t}!}\right)\frac{k\beta}{2\sqrt{\pi}x^{n_{k}+1/2}}G_{1,2}^{2,1}( x^{-1}(\frac{k\beta}{2})^{2}\Big|_{0, \frac{1}{2}}^{\frac{1}{2} -n_{k}})$$
+$$D:= \{x,y,z \mid x^{2}+ y^{2}+z^{2}\geq 9\}$$
+
+$$\text{By TPT, limit does not exist.}$$
