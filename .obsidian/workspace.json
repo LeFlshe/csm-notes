@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-16.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-03.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17 Activity.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18 Activity.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear approx",
+                "query": "nabla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5026054382324
+    "width": 331.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17 Activity.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18 Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17 Activity.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18 Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17 Activity.md"
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18 Activity.md"
               }
             }
           },
@@ -180,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17 Activity.md"
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18 Activity.md"
               }
             }
           },
@@ -215,32 +216,33 @@
   },
   "active": "286b752b4cec7fdd",
   "lastOpenFiles": [
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-17 Activity.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-17.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-16.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-12.md",
-    "Year 2/Semester 1/CSM101-TA/Task List.md",
-    "Untitled.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-11.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-13.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-10.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-13.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-11.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-14.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-03.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-28.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-09.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-11 Activity.md",
     "scratch.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-04.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-09-26.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-04.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-23.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-09-25.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-29.md",
-    "Year 2/Semester 1/MATH213/MATH213 Activity- 2024-09-06.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-11.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-16.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-13.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-03.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-01.md",
+    "Year 1/Semester 2/HASS298/HASS298 - 2024-01-12.md",
+    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-03-25.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 EI - 2024-03-05.md",
+    "System Folders / Excalidraw/Studio 2.15 Sling Shot Bullshit.md",
+    "System Folders / Excalidraw/shitty squished ellipsoid.md",
+    "System Folders / Excalidraw/Shit ass sphere sketch.md",
+    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-01-31.md",
+    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-01-29.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-09.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-30.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-28.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-04.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-09-22.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-09-13.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-09-08.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-26.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18 Activity.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-09-18.md",
+    "Untitled.md",
+    "Year 1/Semester 2/HASS298/Prasad",
     "System Folders /Attachments/99585306-0456-413C-9242-F7C7609A5039.jpg",
     "Year 2/Semester 1/PHGN200/PHGN200 Studios",
     "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
@@ -263,7 +265,6 @@
     "plugins/obsidian-icon-folder/icons",
     "plugins/obsidian-icon-folder",
     "plugins",
-    "Year 2/Semester 1/CSM202",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
