@@ -18,7 +18,7 @@ $$0 = x -y +z-1$$
 $$1 = x -y + z$$
 ---
 
-Fnid $L(x,y)$ for $f(x,y)=-x^{2}+ 2y^{2}$ at $(3,-1)$, use $L(x,y)$ to approximate the point $(3.1,-1.04)$
+Find $L(x,y)$ for $f(x,y)=-x^{2}+ 2y^{2}$ at $(3,-1)$, use $L(x,y)$ to approximate the point $(3.1,-1.04)$
 
 $$-9 + 2=-7$$
 

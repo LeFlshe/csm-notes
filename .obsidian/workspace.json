@@ -13,26 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-01.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f62990538de25c10",
+            "id": "45f8f9e6de6f1fce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md",
-                "mode": "source",
-                "source": false
+                "file": "System Folders / Excalidraw/sketchy reverse.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second derivat",
+                "query": "identit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md",
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md"
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md"
               }
             }
           },
@@ -168,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md"
+                "file": "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md"
               }
             }
           }
@@ -193,37 +190,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c7bbf6ac68c147e",
+  "active": "bb7cf3c0af2146f0",
   "lastOpenFiles": [
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-20.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md",
-    "Year 2/Semester 1/Domnick Tranfaglia - A Retrospective.md",
+    "Year 1/Semester 1/MATH111/Trigonometric Identities.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-28.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-25.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-26.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-12.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-07.md",
+    "System Folders / Excalidraw/sketchy reverse.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-04.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-16.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-01.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-31.md",
+    "System Folders / Excalidraw/case 2 double integral thing.md",
+    "System Folders / Excalidraw/double integral first sketch.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-13.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-25.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-30.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-24.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-28.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-30.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-03.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-04.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-09.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-10.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-11.md",
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.59.36 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.54.09 PM.png",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-01.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-24.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-19.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-01 Activity.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-01.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-17.md",
-    "README.md",
-    "scratch.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-25.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-24.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-23.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-11.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-30.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-05.md",
-    "Year 2/Semester 1/EDNS291/Automata Reflection.md",
-    "System Folders /Templates/Limit Template.md",
-    "System Folders /Templates/Derivative; Integral Evaluation Template.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-27.md",
-    "Year 1/Semester 1/CSM101/CSM101 - 2023-09-21.md",
-    "Year 1/Semester 1/CSM101/CSM101 - Faculty Connection Assignment.md",
-    "Year 1/Semester 1/CSM101/CSM101 - 2023-08-24.md",
-    "Year 1/Semester 1/CSM101/CSM101 - 2023-08-31.md",
-    "Year 1/Semester 1/CSM101/CSM101 - 2023-09-14.md",
     "Year 1/Semester 2/HASS298/Prasad",
     "System Folders /Attachments/99585306-0456-413C-9242-F7C7609A5039.jpg",
     "Year 2/Semester 1/PHGN200/PHGN200 Studios",
