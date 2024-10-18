@@ -13,29 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md",
+                "file": "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "de74a6316e44f0d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Drawing 2024-10-09 10.28.48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "805f84f75a4ac04b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/funky polar region with circular bounds.md"
               }
             }
           }
@@ -68,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md",
+                "file": "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md",
+                "file": "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md"
+                "file": "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md"
               }
             }
           },
@@ -176,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md"
+                "file": "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md"
               }
             }
           }
@@ -201,34 +180,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "deaf344948347ad7",
+  "active": "bb7cf3c0af2146f0",
   "lastOpenFiles": [
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-24.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-01.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-24.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-25.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-30.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-01.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-04.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-07.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-08.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-04-25.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-29.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio PSSD - 2024-02-27.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio - 2024-02-22.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio2 - 2024-02-22.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-16.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-08.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-09-19.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-09.md",
-    "System Folders / Excalidraw/Drawing 2024-10-09 10.28.48.excalidraw.md",
-    "System Folders / Excalidraw/funky polar region with circular bounds.md",
-    "Year 2/Semester 1/EDNS291/EDNS291 - DYL 3.md",
-    "Year 2/Semester 1/EDNS291/Automata Reflection.md",
-    "Year 2/Semester 1/EDNS291/EDNS291 - Intersection Reflection.md",
-    "System Folders / Excalidraw/exampleproblem1polarintegralsketch.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-05.md",
-    "System Folders / Excalidraw/polar iterated integral sketch.md",
-    "Year 1/Semester 1/MATH111/Trigonometric Identities.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 PSSD - 2024-03-12.md",
+    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 1 - 2024-03-07.md",
+    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-01-24.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-22.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-30.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-10-25.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-11-15.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-11-10.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-25.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-30.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-10-31.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-10.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-13.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-08.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-09-15.md",
     "Year 1/Semester 1/MATH111/MATH111 - 2023-08-28.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-08-25.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-10-16 Citations.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-17.md",
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.59.36 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.54.09 PM.png",
