@@ -4,67 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "992f497375a2b6bf",
+        "id": "0cb3411e829c15bb",
         "type": "tabs",
         "children": [
           {
-            "id": "e41f729145e7005b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "29637e1752484b08",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/transformation time.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "transformation time"
-            }
-          },
-          {
-            "id": "014a60bc7c9e5c62",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/sphere cone intersection thing.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "sphere cone intersection thing"
-            }
-          },
-          {
-            "id": "fe30e1ebd279f0b4",
+            "id": "fb6cbbbedd1bac27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-10-08.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-11-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH213 - 2024-10-08"
-            }
-          },
-          {
-            "id": "d21d3ff5b87a3b73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Drawing 2024-11-01 10.10.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-01 10.10.35.excalidraw"
+              "title": "MATH213 - 2024-11-13"
             }
           }
         ]
@@ -86,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -98,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes",
+                "query": "hospital",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-11-13.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of MATH213 - 2024-11-13"
             }
           },
           {
@@ -247,34 +202,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e41f729145e7005b",
+  "active": "fb6cbbbedd1bac27",
   "lastOpenFiles": [
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-29.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-01.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-28.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-25.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-23.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-22.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-21.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-18.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-16.md",
+    "Year 1/Semester 2/MATH112/MATH112 - LaTeX Scratch.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-13.md",
+    "System Folders / Excalidraw/Drawing 2024-11-12 16.33.08.excalidraw.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-01.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-05.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-04.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-28.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-27.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-21.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-27.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-01.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-02.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-16.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-29.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-06.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-08.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-11.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-04-03.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-29.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-24.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-23.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-08-20.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-03.md",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-01.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-18.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-10-09.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-08.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-07.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-04.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-02.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-01 Activity.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-01.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-30.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-08.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-29.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-31.md",
-    "Year 2/Semester 1/PHGN200/PHGN200 Studios/PHGN 200 - 2024-11-01 Studio Notes.md",
-    "System Folders / Excalidraw/transformation time.md",
-    "System Folders / Excalidraw/sphere cone intersection thing.md",
-    "System Folders / Excalidraw/Drawing 2024-11-01 10.10.35.excalidraw.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-10.md",
-    "System Folders / Excalidraw/integral practice one.md",
+    "Year 2/Semester 1/EDNS291/DYL 4.canvas",
+    "System Folders /Attachments/DYL4 - Mind Map 2.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.59.36 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.54.09 PM.png",
@@ -289,7 +246,6 @@
     "plugins/obsidian-icon-folder/icons/simple-icons/Derspiegel.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/iconsReduxsaga.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/iconsHulu.svg",
-    "plugins/obsidian-icon-folder/icons/simple-icons/Consul.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons",
     "plugins/obsidian-icon-folder/icons/remix-icons",
     "plugins/obsidian-icon-folder/main.js",
